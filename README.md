@@ -1,6 +1,7 @@
 # ADVANCED COMBAT ARMOR / MECH COMBAT SUIT LORE DRAFT
 
-...
+<img src="https://i.ibb.co/QF2rg0WD/Ridgewalker-Tactical-Model-II-Backpack-1.png" alt="Ridgewalker-Tactical-Model-II-Backpack-1" border="0">
+<img src="https://i.ibb.co/GDt62VL/Sentinel-Rig-Mk-II-Backpack-1.png" alt="Sentinel-Rig-Mk-II-Backpack-1" border="0">
 
 ----------
 
@@ -8,7 +9,7 @@
 
 | Overview         | Details                                                                                                       |
 | ---------------- | ------------------------------------------------------------------------------------------------------------- |
-| **Faction**      | United Colonies (UC) – developed in secrecy by Anders-Rheinhold Systems                                       |
+| **Faction**      | United Colonies (UC) – developed by Anders-Rheinhold Systems black-budget cabal of UC hard-liners.            |
 | **Role**         | High-tech elite combat suit, designed for maximum protection and strategic superiority                        |
 | **Architecture** | Modular: Undersuit → Servo Frame → Component Slots (Helmet, Torso, L/R Arms, L/R Legs, Backpack)              |
 | **Visual Style** | Sleek, industrial, factory-forged. Clean gunmetal plates, cobalt-lit accents, minimal visual clutter          |
@@ -16,13 +17,17 @@
                                                                                                               
 ### SPEAR - Core Tech	
 
-- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Batteries.
+**- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Batteries:**
 
-- Modular Armor: Clip-on Components via ...
+**- Modular Armor: Clip-on Components via ...**
 
-- Gravitational Shield Generator (GSG) - Deflects ballistic and energy fire)
+**- Kinetic Dispersal Grid or Kinetic Dispersal Mesh:**
 
-- Environmental Containment System (sealed for toxic, vacuum, and radiation exposure)
+**- Environmental Containment System (sealed for toxic, vacuum, and radiation exposure)**
+
+**- Unique: Gravitational Shield Generator (GSG) - Deflects ballistic and energy fire)**
+
+
 
 _Optional: Neuro-Reflex Conduit (reads subconscious motion for high-speed reaction)_
 
@@ -46,14 +51,11 @@ _Optional: Neuro-Reflex Conduit (reads subconscious motion for high-speed reacti
 
 ### RIDGEWALKER - Core Tech
 
-- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Batteries.
+- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Power Cell: Refurbished mini-mech battery (treaty-illegal contraband). Delivers stable 24 – 30 kWh equivalent for servo drive & HUD for ~12 mission hours at combat draw.
 
-- Environmental Containment System (dust, gas, radiation, vacuum resistant)
-
-- Backpack-Mounted Life-Support & Field Power Unit:
-Power Cell	Refurbished mini-mech battery (treaty-illegal contraband). Delivers stable 24 – 30 kWh equivalent for servo drive & HUD for ~12 mission hours at combat draw.
-
-Long-range endurance: extra water recycler canister; high-collar protects breathing vents from dust storms.
+- Unique: Backpack-Mounted Life-Support & Field Power Unit:
+- Environmental Containment System (sealed for toxic, vacuum, and radiation exposure)
+- Bonus: Long-range endurance: extra water recycler canister; high-collar protects breathing vents from dust storms.
 
 (No AI or neural linkage—entirely human-controlled and field-maintainable)
 | Backpack Unit | Cylindrical long-range canister with thermal shielding, strapped utility mounts, gear stowage loops |
@@ -63,7 +65,12 @@ Long-range endurance: extra water recycler canister; high-collar protects breath
 | Undersuit Naming (proposals) | Nomad Skin, Dustliner Mesh, Wanderer Undersuit, Trailwrap Layer |
 
 
------------
+
+----------
+
+## VA'RUUN PROJECT - XXX
+
+----------
 
 | Category                         | **Ridgewalker Armor**                                                                                                                                                                  | **Sentinel Rig**                                                                                                                                                                                                  |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
