@@ -25,7 +25,7 @@
 
   _<summary>Kinetic Dispersal Mesh Details</summary>_
 
-   <img src="https://i.ibb.co/pBCKLwwR/Kinetic-Dispersal-Mesh-KDM-PROTOTYPE.png" alt="Kinetic-Dispersal-Mesh-KDM-PROTOTYPE" border="0">
+<img src="https://i.ibb.co/pBCKLwwR/Kinetic-Dispersal-Mesh-KDM-PROTOTYPE.png" alt="Kinetic-Dispersal-Mesh-KDM-PROTOTYPE" border="0">
 
   > ### Impact Timeline (KDM)
   > 
@@ -83,23 +83,23 @@ _Optional: Neuro-Reflex Conduit (reads subconscious motion for high-speed reacti
 <details>
 
   _<summary>Ridgeflex Spring Mesh Details</summary>_
-
-<img src="https://i.ibb.co/YFPmSd3c/Ridgeflex-Spring-Mesh-RSM-PROTOTYPE.png" alt="Ridgeflex-Spring-Mesh-RSM-PROTOTYPE" border="0">
+  
+<img src="https://i.ibb.co/hzsHP7K/Ridgeflex-Spring-Mesh-RSM-PROTOTYPE.png" alt="Ridgeflex-Spring-Mesh-RSM-PROTOTYPE" border="0">
 
   > ### Impact Timeline — Ridgeflex Spring Mesh (RSM)
   > 
-  > 1. Initial Strike: Bullet or shrapnel impacts the outer plate → kinetic spike passes to the spring layer.
-  > 2. Spring Bow: Iridium leaf-springs flex outward, sharing load with neighboring ribs in a split-second “accordion” motion.
-  > 3. Gel Response: Viscoelastic tar-gel stiffens as shear rises, slowing spring rebound and smothering pressure peaks.
-  > 4. Oil Bleed: Hydraulic bladders squeeze hot oil through check-valves into micro-radiator fins, dumping excess energy as heat.
-  > 5. Wearer Feel: Inside the suit the scout hears a dull clang and feels a brief vibration—no rib-crack punch, just a shove.
+  > 1. Initial Strike: Bullet or shrapnel impacts the outer plate → kinetic spike passes to the spring layer.
+  > 2. Spring Bow: Iridium leaf-springs flex outward, sharing load with neighboring ribs in a split-second “accordion” motion.
+  > 3. Gel Response: Viscoelastic tar-gel stiffens as shear rises, slowing spring rebound and smothering pressure peaks.
+  > 4. Oil Bleed: Hydraulic bladders squeeze hot oil through check-valves into micro-radiator fins, dumping excess energy as heat.
+  > 5. Wearer Feel: Inside the suit the scout hears a dull clang and feels a brief vibration—no rib-crack punch, just a shove.
   > 
   > ### Maintenance & Field Repair (RSM)
   > 
   > 1. Rivet-Swap Packs: Each spring-gel module is a boxed “flex-pack” pinned behind the armor plate. A crowbar pops the plate; a hammer and fresh rivets seat a new pack in minutes.
   > 2. Trailside Flex Check: Scouts stomp each limb at dawn; a muted ring means springs are sound, a flat clunk flags fatigue.
-  > 3. Tension Bolts: Set-bolts along the frame let users tighten or loosen spring preload to match body mass or cargo weight.
-  > 4. Limitations: Ten or more hard hits to the same panel can shear spring roots; gel leaks under −30 °C. Packs rated for roughly one campaign before refit.
+  > 3. Tension Bolts: Set-bolts along the frame let users tighten or loosen spring preload to match body mass or cargo weight.
+  > 4. Limitations: Ten or more hard hits to the same panel can shear spring roots; gel leaks under −30 °C. Packs rated for roughly one campaign before refit.
 
 </details>
 
