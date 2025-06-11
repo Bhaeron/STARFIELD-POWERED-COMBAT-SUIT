@@ -1,7 +1,7 @@
 # ADVANCED COMBAT ARMOR / MECH COMBAT SUIT LORE DRAFT
 
-<img src="https://i.ibb.co/QF2rg0WD/Ridgewalker-Tactical-Model-II-Backpack-1.png" alt="Ridgewalker-Tactical-Model-II-Backpack-1" border="0">
 <img src="https://i.ibb.co/GDt62VL/Sentinel-Rig-Mk-II-Backpack-1.png" alt="Sentinel-Rig-Mk-II-Backpack-1" border="0">
+<img src="https://i.ibb.co/QF2rg0WD/Ridgewalker-Tactical-Model-II-Backpack-1.png" alt="Ridgewalker-Tactical-Model-II-Backpack-1" border="0">
 
 ----------
 
@@ -19,13 +19,30 @@
 
 **- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Batteries:**
 
-**- Modular Armor: Clip-on Components via ...**
+**- Kinetic Dispersal Mesh:** The KDM is a structural layer embedded beneath the visible armor plates of the Sentinel Rig. It spreads incoming kinetic energy across a wider area, turning potentially lethal localized impacts into survivable, low-pressure pulses against the suit frame and the wearer’s body. This functionality is actively powered by the suits power cell and loses efficiency when the charge reaches zero.
 
-**- Kinetic Dispersal Grid or Kinetic Dispersal Mesh:**
+<details>
+
+  _<summary>Kinetic Dispersal Mesh Details</summary>_
+
+
+1. Penetrator Defeat: Bullet or shrapnel hits outer plate → partially blunted or fragmented.
+2. Energy Diffusion: Force enters the KDL micro-lattice. Each cell wall flexes, transferring load to adjacent cells in a split-millisecond ripple.
+3. Gel Damping: Shear-thickening polymer stiffens under sudden shear, slowing lattice movement and converting peak impulse into longer, lower-amplitude wave.
+4. Piezo Recovery: Shock membrane compresses → piezo elements generate small electric charge → routed to suit capacitor (bonus 1–2 % power recovery on heavy hits).
+5. Wearer Feel: Inside the suit, the wearer feels a muted thud rather than a bone-breaking spike.
+
+
+</details>
+
+
+**- Modular Armor: Clip-on Components via ...**
 
 **- Environmental Containment System (sealed for toxic, vacuum, and radiation exposure)**
 
 **- Unique: Gravitational Shield Generator (GSG) - Deflects ballistic and energy fire)**
+
+**- Bonus:**
 
 
 
@@ -51,11 +68,17 @@ _Optional: Neuro-Reflex Conduit (reads subconscious motion for high-speed reacti
 
 ### RIDGEWALKER - Core Tech
 
-- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Power Cell: Refurbished mini-mech battery (treaty-illegal contraband). Delivers stable 24 – 30 kWh equivalent for servo drive & HUD for ~12 mission hours at combat draw.
+**- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Power Cell:** Refurbished mini-mech battery (treaty-illegal contraband). Delivers stable 24 – 30 kWh equivalent for servo drive & HUD for ~12 mission hours at combat draw.
 
-- Unique: Backpack-Mounted Life-Support & Field Power Unit:
-- Environmental Containment System (sealed for toxic, vacuum, and radiation exposure)
-- Bonus: Long-range endurance: extra water recycler canister; high-collar protects breathing vents from dust storms.
+**- Kinetic Dispersal Mesh:**
+
+**- Modular Armor: Bolt-on Components via ...**
+
+**- Environmental Containment System (sealed for toxic, vacuum, and radiation exposure)**
+
+**- Unique: Backpack-Mounted Life-Support & Field Power Unit:**
+
+**- Bonus: Long-range endurance: extra water recycler canister; high-collar protects breathing vents from dust storms.**
 
 (No AI or neural linkage—entirely human-controlled and field-maintainable)
 | Backpack Unit | Cylindrical long-range canister with thermal shielding, strapped utility mounts, gear stowage loops |
