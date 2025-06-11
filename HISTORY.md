@@ -19,7 +19,7 @@
 
 **- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Batteries:**
 
-**- Kinetic Dispersal Mesh:** The KDM is a structural layer embedded beneath the visible armor plates of the Sentinel Rig. It spreads incoming kinetic energy across a wider area, turning potentially lethal localized impacts into survivable, low-pressure pulses against the suit frame and the wearer’s body. This functionality is actively powered by the suits power cell and loses efficiency when the charge reaches zero.
+**- Kinetic Dispersal Mesh (KDM):** The KDM is a structural layer embedded beneath the visible armor plates of the Sentinel Rig. It spreads incoming kinetic energy across a wider area, turning potentially lethal localized impacts into survivable, low-pressure pulses against the suit frame and the wearer’s body. This functionality is actively powered by the suits power cell and loses efficiency when the charge reaches zero.
 
 <details>
 
@@ -42,14 +42,13 @@
 
 </details>
 
+**- Modular Armor:** Clip-on Components via ...
 
-**- Modular Armor: Clip-on Components via ...**
+**- Environmental Containment System:** Sealed for toxic, vacuum, and radiation exposure...
 
-**- Environmental Containment System (sealed for toxic, vacuum, and radiation exposure)**
+**- Unique: Gravitational Shield Generator (GSG):** Deflects ballistic and energy fire...
 
-**- Unique: Gravitational Shield Generator (GSG) - Deflects ballistic and energy fire)**
-
-**- Bonus:**
+**- Bonus:** ...
 
 
 
@@ -77,22 +76,44 @@ _Optional: Neuro-Reflex Conduit (reads subconscious motion for high-speed reacti
 
 **- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Power Cell:** Refurbished mini-mech battery (treaty-illegal contraband). Delivers stable 24 – 30 kWh equivalent for servo drive & HUD for ~12 mission hours at combat draw.
 
-**- Kinetic Dispersal Mesh:**
+**- Ridgeflex Spring Mesh (RSM):** The Ridgeflex Spring Mesh forms a structural layer beneath Ridgewalker Armor’s outer plates. Its purpose is to diffuse incoming kinetic energy across an interlocking grid of mirco-leaf-springs and damping gel, turning a potentially lethal, localized impact into a broad, lower-pressure shockwave that the suit frame—and wearer—can absorb without catastrophic injury. By converting part of that energy into heat via miniature hydraulic bladders, RSM keeps Freestar scouts alive when heavy rounds or shrapnel would otherwise crush bone.
 
-**- Modular Armor: Bolt-on Components via ...**
+<details>
 
-**- Environmental Containment System (sealed for toxic, vacuum, and radiation exposure)**
+  _<summary>Ridgeflex Spring Mesh Details</summary>_
+
+  > ### Impact Timeline
+  > 
+  > 1. Penetrator Defeat: Bullet or shrapnel hits outer plate → partially blunted or fragmented.
+  > 2. Energy Diffusion: Force enters the KDL micro-lattice. Each cell wall flexes, transferring load to adjacent cells in a split-millisecond ripple.
+  > 3. Gel Damping: Shear-thickening polymer stiffens under sudden shear, slowing lattice movement and converting peak impulse into longer, lower-amplitude wave.
+  > 4. Piezo Recovery: Shock membrane compresses → piezo elements generate small electric charge → routed to suit capacitor (bonus 1–2 % power recovery on heavy hits).
+  > 5. Wearer Feel: Inside the suit, the wearer feels a muted thud rather than a bone-breaking spike.
+  > 
+  > ### Maintenance & Field Repair
+  > 
+  > 1. Modular Tiles: Each KDL section is a sealed “tile” installed behind the visible outer plate. Tech crews pop out damaged tiles with a spanner and slide in spares.
+  > 2. Integrity Scan: Sentinel helmets run ultrasonic sweeps; red highlight shows lattice micro-fracture zones >25 % strain—triggers maintenance flag.
+  > 3. Limitations: Repeated high-impacts in same spot can crush lattice struts. Suit is rated for ~10 severe hits before tile replacement.
+
+
+</details>
+
+**- Modular Armor:** Bolt-on Components via ...
+
+**- Environmental Containment System:** sealed for toxic, vacuum, and radiation exposure...
 
 **- Unique: Backpack-Mounted Life-Support & Field Power Unit:**
 
-**- Bonus: Long-range endurance: extra water recycler canister; high-collar protects breathing vents from dust storms.**
+**- Bonus: Long-range endurance:** Extra water recycler canister; high-collar protects breathing vents from dust storms.
 
 (No AI or neural linkage—entirely human-controlled and field-maintainable)
-| Backpack Unit | Cylindrical long-range canister with thermal shielding, strapped utility mounts, gear stowage loops |
-| Material Accents | Tri-tone matte ceramic: stone gray, ochre shoulder guards, ox-red detail panels; exposed welds and bolts |
-| Intended User | Long-range scouts, deep frontier recon patrols, outlaw raiders, planetary survivalists |
-| Nicknames / Street Slang | Ridgewalker, Breachframe, Lancer Rig |
-| Undersuit Naming (proposals) | Nomad Skin, Dustliner Mesh, Wanderer Undersuit, Trailwrap Layer |
+
+Backpack Unit: Cylindrical long-range canister with thermal shielding, strapped utility mounts and gear stowage loops
+Material Accents: Tri-tone matte ceramic. Stone gray, ochre shoulder guards, ox-red detail panels; exposed welds and bolts
+Intended User: Long-range scouts, deep frontier recon patrols, outlaw raiders, planetary survivalists
+Nicknames: Ridgewalker, Breachframe, Lancer Rig
+Undersuit Naming Proposals: Nomad Skin, Dustliner Mesh, Wanderer Undersuit, Trailwrap Layer
 
 
 
