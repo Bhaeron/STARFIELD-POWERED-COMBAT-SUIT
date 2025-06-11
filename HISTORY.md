@@ -25,7 +25,9 @@
 
   _<summary>Kinetic Dispersal Mesh Details</summary>_
 
-  > ### Impact Timeline
+   <img src="https://i.ibb.co/pBCKLwwR/Kinetic-Dispersal-Mesh-KDM-PROTOTYPE.png" alt="Kinetic-Dispersal-Mesh-KDM-PROTOTYPE" border="0">
+
+  > ### Impact Timeline (KDM)
   > 
   > 1. Penetrator Defeat: Bullet or shrapnel hits outer plate → partially blunted or fragmented.
   > 2. Energy Diffusion: Force enters the KDL micro-lattice. Each cell wall flexes, transferring load to adjacent cells in a split-millisecond ripple.
@@ -33,7 +35,7 @@
   > 4. Piezo Recovery: Shock membrane compresses → piezo elements generate small electric charge → routed to suit capacitor (bonus 1–2 % power recovery on heavy hits).
   > 5. Wearer Feel: Inside the suit, the wearer feels a muted thud rather than a bone-breaking spike.
   > 
-  > ### Maintenance & Field Repair
+  > ### Maintenance & Field Repair (KDM)
   > 
   > 1. Modular Tiles: Each KDL section is a sealed “tile” installed behind the visible outer plate. Tech crews pop out damaged tiles with a spanner and slide in spares.
   > 2. Integrity Scan: Sentinel helmets run ultrasonic sweeps; red highlight shows lattice micro-fracture zones >25 % strain—triggers maintenance flag.
@@ -82,20 +84,22 @@ _Optional: Neuro-Reflex Conduit (reads subconscious motion for high-speed reacti
 
   _<summary>Ridgeflex Spring Mesh Details</summary>_
 
-  > ### Impact Timeline
-  > 
-  > 1. Penetrator Defeat: Bullet or shrapnel hits outer plate → partially blunted or fragmented.
-  > 2. Energy Diffusion: Force enters the KDL micro-lattice. Each cell wall flexes, transferring load to adjacent cells in a split-millisecond ripple.
-  > 3. Gel Damping: Shear-thickening polymer stiffens under sudden shear, slowing lattice movement and converting peak impulse into longer, lower-amplitude wave.
-  > 4. Piezo Recovery: Shock membrane compresses → piezo elements generate small electric charge → routed to suit capacitor (bonus 1–2 % power recovery on heavy hits).
-  > 5. Wearer Feel: Inside the suit, the wearer feels a muted thud rather than a bone-breaking spike.
-  > 
-  > ### Maintenance & Field Repair
-  > 
-  > 1. Modular Tiles: Each KDL section is a sealed “tile” installed behind the visible outer plate. Tech crews pop out damaged tiles with a spanner and slide in spares.
-  > 2. Integrity Scan: Sentinel helmets run ultrasonic sweeps; red highlight shows lattice micro-fracture zones >25 % strain—triggers maintenance flag.
-  > 3. Limitations: Repeated high-impacts in same spot can crush lattice struts. Suit is rated for ~10 severe hits before tile replacement.
+<img src="https://i.ibb.co/YFPmSd3c/Ridgeflex-Spring-Mesh-RSM-PROTOTYPE.png" alt="Ridgeflex-Spring-Mesh-RSM-PROTOTYPE" border="0">
 
+  > ### Impact Timeline — Ridgeflex Spring Mesh (RSM)
+  > 
+  > 1. Initial Strike: Bullet or shrapnel impacts the outer plate → kinetic spike passes to the spring layer.
+  > 2. Spring Bow: Iridium leaf-springs flex outward, sharing load with neighboring ribs in a split-second “accordion” motion.
+  > 3. Gel Response: Viscoelastic tar-gel stiffens as shear rises, slowing spring rebound and smothering pressure peaks.
+  > 4. Oil Bleed: Hydraulic bladders squeeze hot oil through check-valves into micro-radiator fins, dumping excess energy as heat.
+  > 5. Wearer Feel: Inside the suit the scout hears a dull clang and feels a brief vibration—no rib-crack punch, just a shove.
+  > 
+  > ### Maintenance & Field Repair (RSM)
+  > 
+  > 1. Rivet-Swap Packs: Each spring-gel module is a boxed “flex-pack” pinned behind the armor plate. A crowbar pops the plate; a hammer and fresh rivets seat a new pack in minutes.
+  > 2. Trailside Flex Check: Scouts stomp each limb at dawn; a muted ring means springs are sound, a flat clunk flags fatigue.
+  > 3. Tension Bolts: Set-bolts along the frame let users tighten or loosen spring preload to match body mass or cargo weight.
+  > 4. Limitations: Ten or more hard hits to the same panel can shear spring roots; gel leaks under −30 °C. Packs rated for roughly one campaign before refit.
 
 </details>
 
