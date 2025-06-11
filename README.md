@@ -14,9 +14,11 @@
 | **Visual Style** | Sleek, industrial, factory-forged. Clean gunmetal plates, cobalt-lit accents, minimal visual clutter          |
 | **Helmet**       | Visor-less design with sensor slit and streamlined *tech-crest*—purpose-built for battlefield HUD integration |
                                                                                                               
-### Core Tech	
+### SPEAR - Core Tech	
 
 - Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Batteries.
+
+- Modular Armor: Clip-on Components via ...
 
 - Gravitational Shield Generator (GSG) - Deflects ballistic and energy fire)
 
@@ -42,7 +44,23 @@ _Optional: Neuro-Reflex Conduit (reads subconscious motion for high-speed reacti
 | **Visual Style** | Rougher, patchwork look; asymmetrical and weather-worn; cloak-compatible                                         |
 | **Helmet**       | Asymmetric reinforced dome with sensor array; high protective collar (“blast-collar”) integrated into chestplate |
 
+### RIDGEWALKER - Core Tech
 
+- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Batteries.
+
+- Environmental Containment System (dust, gas, radiation, vacuum resistant)
+
+- Backpack-Mounted Life-Support & Field Power Unit:
+Power Cell	Refurbished mini-mech battery (treaty-illegal contraband). Delivers stable 24 – 30 kWh equivalent for servo drive & HUD for ~12 mission hours at combat draw.
+
+Long-range endurance: extra water recycler canister; high-collar protects breathing vents from dust storms.
+
+(No AI or neural linkage—entirely human-controlled and field-maintainable)
+| Backpack Unit | Cylindrical long-range canister with thermal shielding, strapped utility mounts, gear stowage loops |
+| Material Accents | Tri-tone matte ceramic: stone gray, ochre shoulder guards, ox-red detail panels; exposed welds and bolts |
+| Intended User | Long-range scouts, deep frontier recon patrols, outlaw raiders, planetary survivalists |
+| Nicknames / Street Slang | Ridgewalker, Breachframe, Lancer Rig |
+| Undersuit Naming (proposals) | Nomad Skin, Dustliner Mesh, Wanderer Undersuit, Trailwrap Layer |
 
 
 -----------
