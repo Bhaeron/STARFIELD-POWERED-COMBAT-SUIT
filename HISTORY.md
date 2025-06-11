@@ -1,24 +1,25 @@
-# ADVANCED COMBAT ARMOR / MECH COMBAT SUIT LORE DRAFT
+# MECH COMBAT SUIT LORE DRAFT
 
 ----------
 
-##  UC PROJECT - CODENAME SPEAR
+##  LEGACY - UC PROJECT - CODENAME SPEAR (Strategic Protection & Engagement Armor Rig)
 
 <img src="https://i.ibb.co/GDt62VL/Sentinel-Rig-Mk-II-Backpack-1.png" alt="Sentinel-Rig-Mk-II-Backpack-1" border="0">
 
-| Overview         | Details                                                                                                       |
-| ---------------- | ------------------------------------------------------------------------------------------------------------- |
-| **Faction**      | United Colonies (UC) – developed by Anders-Rheinhold Systems black-budget cabal of UC hard-liners.            |
-| **Role**         | High-tech elite combat suit, designed for maximum protection and strategic superiority                        |
-| **Architecture** | Modular: Undersuit → Servo Frame → Component Slots (Helmet, Torso, L/R Arms, L/R Legs, Backpack)              |
-| **Visual Style** | Sleek, industrial, factory-forged. Clean gunmetal plates, cobalt-lit accents, minimal visual clutter          |
-| **Helmet**       | Visor-less design with sensor slit and streamlined *tech-crest*—purpose-built for battlefield HUD integration |
+| **Overview**       | Details                                                                                                             |
+| ----------------   | --------------------------------------------------------------------------------------------------------------------|
+| **Faction**        | United Colonies (UC) – developed by shell company Anders-Rheinhold Systems.                                         |
+| **Role**           | High-tech elite combat suit, designed for maximum protection and strategic superiority.                             |
+| **Architecture**   | Modular: Undersuit → Exo Frame → External & Internal Component Slots (Helmet, Torso, L/R Arms, L/R Legs, Backpack)  |
+| **Visual Style**   | Sleek, industrial, factory-forged. Clean gunmetal plates, cobalt-lit accents, minimal visual clutter                |
                                                                                                               
 ### SPEAR - Core Tech	
 
 **- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Batteries:**
 
-**- Kinetic Dispersal Mesh (KDM):** The KDM is a structural layer embedded beneath the visible armor plates of the Sentinel Rig. It spreads incoming kinetic energy across a wider area, turning potentially lethal localized impacts into survivable, low-pressure pulses against the suit frame and the wearer’s body. This functionality is actively powered by the suits power cell and loses efficiency when the charge reaches zero.
+**- Neuro-Interface Conduit:** The Neuro-Interface Conduit (NIC) is the collar-liner built into every suit. It's the core component which translates the wearer’s neural micro-signals and muscle twitches into clean servo commands, eliminating latency so the exo-frame moves as fluidly as the user’s own limbs.
+
+**- Kinetic Dispersal Mesh (KDM):** The KDM is a structural layer embedded beneath the visible armor plates of the Sentinel Rig. It spreads incoming kinetic energy across a wider area, turning potentially lethal localized impacts into survivable, low-pressure pulses against the suit frame and the wearer’s body. 
 
 <details>
 
@@ -43,17 +44,16 @@
 
 </details>
 
-**- Modular Armor:** Clip-on Components via ...
+**- Modular Armor:** Components are attached via Captive Torque Bolts.
 
 **- Environmental Containment System:** Sealed for toxic, vacuum, and radiation exposure...
 
 **- Unique: Gravitational Shield Generator (GSG):** Deflects ballistic and energy fire...
 
-**- Bonus:** ...
+**- Potential Modules:** 
 
-
-
-_Optional: Neuro-Reflex Conduit (reads subconscious motion for high-speed reaction)_
+- strength boost, just seamless, thought-level control.
+- Neuro-Reflex Conduit
 
 - Backpack Unit: Boxy, reactor-grade power core with cobalt-lit maintenance ports and embedded shield capacitors
 - Material Accents: Matte graphite underlay, brushed titanium plates, fine recessed energy seams
