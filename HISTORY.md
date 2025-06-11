@@ -5,7 +5,7 @@
 
 ----------
 
-## UC PROJECT - CODENAME SPEAR
+##  UC PROJECT - CODENAME SPEAR
 
 | Overview         | Details                                                                                                       |
 | ---------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -25,12 +25,19 @@
 
   _<summary>Kinetic Dispersal Mesh Details</summary>_
 
-
-1. Penetrator Defeat: Bullet or shrapnel hits outer plate → partially blunted or fragmented.
-2. Energy Diffusion: Force enters the KDL micro-lattice. Each cell wall flexes, transferring load to adjacent cells in a split-millisecond ripple.
-3. Gel Damping: Shear-thickening polymer stiffens under sudden shear, slowing lattice movement and converting peak impulse into longer, lower-amplitude wave.
-4. Piezo Recovery: Shock membrane compresses → piezo elements generate small electric charge → routed to suit capacitor (bonus 1–2 % power recovery on heavy hits).
-5. Wearer Feel: Inside the suit, the wearer feels a muted thud rather than a bone-breaking spike.
+  > ### Impact Timeline
+  > 
+  > 1. Penetrator Defeat: Bullet or shrapnel hits outer plate → partially blunted or fragmented.
+  > 2. Energy Diffusion: Force enters the KDL micro-lattice. Each cell wall flexes, transferring load to adjacent cells in a split-millisecond ripple.
+  > 3. Gel Damping: Shear-thickening polymer stiffens under sudden shear, slowing lattice movement and converting peak impulse into longer, lower-amplitude wave.
+  > 4. Piezo Recovery: Shock membrane compresses → piezo elements generate small electric charge → routed to suit capacitor (bonus 1–2 % power recovery on heavy hits).
+  > 5. Wearer Feel: Inside the suit, the wearer feels a muted thud rather than a bone-breaking spike.
+  > 
+  > ### Maintenance & Field Repair
+  > 
+  > 1. Modular Tiles: Each KDL section is a sealed “tile” installed behind the visible outer plate. Tech crews pop out damaged tiles with a spanner and slide in spares.
+  > 2. Integrity Scan: Sentinel helmets run ultrasonic sweeps; red highlight shows lattice micro-fracture zones >25 % strain—triggers maintenance flag.
+  > 3. Limitations: Repeated high-impacts in same spot can crush lattice struts. Suit is rated for ~10 severe hits before tile replacement.
 
 
 </details>
