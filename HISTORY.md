@@ -1,11 +1,10 @@
 # ADVANCED COMBAT ARMOR / MECH COMBAT SUIT LORE DRAFT
 
-<img src="https://i.ibb.co/GDt62VL/Sentinel-Rig-Mk-II-Backpack-1.png" alt="Sentinel-Rig-Mk-II-Backpack-1" border="0">
-<img src="https://i.ibb.co/QF2rg0WD/Ridgewalker-Tactical-Model-II-Backpack-1.png" alt="Ridgewalker-Tactical-Model-II-Backpack-1" border="0">
-
 ----------
 
 ##  UC PROJECT - CODENAME SPEAR
+
+<img src="https://i.ibb.co/GDt62VL/Sentinel-Rig-Mk-II-Backpack-1.png" alt="Sentinel-Rig-Mk-II-Backpack-1" border="0">
 
 | Overview         | Details                                                                                                       |
 | ---------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -65,6 +64,8 @@ _Optional: Neuro-Reflex Conduit (reads subconscious motion for high-speed reacti
 ----------
 
 ## FREESTAR PROJECT - OPERATION DUSTWALL
+
+<img src="https://i.ibb.co/QF2rg0WD/Ridgewalker-Tactical-Model-II-Backpack-1.png" alt="Ridgewalker-Tactical-Model-II-Backpack-1" border="0">
 
 | Overview         | Details                                                                                                          |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------- |
