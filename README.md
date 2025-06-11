@@ -1,22 +1,6 @@
 # ADVANCED COMBAT ARMOR / MECH COMBAT SUIT LORE DRAFT
 
-
-
-
-| Category                         | **Ridgewalker Armor**                                                                                                                                                                  | **Sentinel Rig**                                                                                                                                                                                                  |
-| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Architecture**                 | Modular format: **Undersuit → Servo Frame → Clip-on Components** (backpack, helmet, L/R arms, L/R legs, torso).                                                                        | Modular format: **Undersuit → Servo Frame → Clip-on Components** (backpack, helmet, L/R arms, L/R legs, torso).                                                                                                   |
-| **Baseline Product Name**        | Ridgewalker Armor                                                                                                                                                                      | Sentinel Rig (internal tag SPEAR-Ω).                                                                                                                                                                              |
-| **Core Tech**                    | • **Environmental Containment System** (sealed ops)<br>• **Hydraulic Exo-Frame**<br>• **Modular Precision-Milled Armor Plates**<br>• **Haptic Relay Spine** – see “Unique Twist” below | • **Environmental Containment System** (sealed ops)<br>• **Gravitational Shield Generator** (micro-grav defense)<br>• **Hydraulic Exo-Frame**<br>• *(Optional)* **Neuro-Reflex Conduit** for subconscious control |
-| **Developer Cell**               | Iron Vow Consortium — nomadic engineers & ex-1st Cavalry mech pilots.                                                                                                                  | Anders-Rheinhold Systems hard-liner cabal.                                                                                                                                                                        |
-| **Ethical Shadow**               | Forged from salvaged mech tech — illegal but voluntary participation.                                                                                                                  | NRC derived from abducted Va’ruun zealot trials (only if installed).                                                                                                                                              |
-| **Ideology**                     | Frontier independence & individual prowess.                                                                                                                                            | Centralized order & command integration.                                                                                                                                                                          |
-| **Primary Variants / Nicknames** | • **Breachframe** (heavy)<br>• **Lancer Rig** (assault)<br>• **Ridgewalker Scout** (recon)                                                                                             | • **Blue Knight** (slang)<br>• **Ghost Shell** (slang)<br>• **Sentinel Rig** (cover term)                                                                                                                         |
-| **Status**                       | Several WIP suits in active field trials.                                                                                                                                              | One sealed prototype (modular, NRC slot empty by default).                                                                                                                                                        |
-| **Strategic Goal**               | Build treaty-skirting “mini-mechs” for frontier defense & raids.                                                                                                                       | Guarantee UC supremacy with a deniable elite exosuit.                                                                                                                                                             |
-| **Testing Zones**                | Asteroid hidouts, desert moons, derelict mech sites.                                                                                                                                   | Vault-sealed; rumored clandestine UC ranges.                                                                                                                                                                      |
-| **Visual Identity**              | • Cloak scraps<br>• Knight-like silhouette<br>• Personalized graffiti<br>• Stone-gray & dust-orange plates<br>• Visible hydraulics                                                     | • Cobalt emitter filaments<br>• Grav-projector nodes<br>• Gunmetal, streamlined industrial plating<br>• Non-visor helmet with recessed sensor slit<br>• Scar-resistant nano-coating                               |
-
+...
 
 ----------
 
@@ -32,7 +16,7 @@
                                                                                                               
 ### Core Tech	
 
-- Hydraulic Exo-Frame and Undersuit
+- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Batteries.
 
 - Gravitational Shield Generator (GSG) - Deflects ballistic and energy fire)
 
@@ -50,11 +34,34 @@ _Optional: Neuro-Reflex Conduit (reads subconscious motion for high-speed reacti
 
 ## FREESTAR PROJECT - OPERATION DUSTWALL
 
+| Overview         | Details                                                                                                          |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Faction**      | Freestar Collective – developed by the nomadic Iron Vow Consortium                                               |
+| **Role**         | Long-range scout/explorer suit optimized for frontier survival and modularity                                    |
+| **Architecture** | Modular: Undersuit → Servo Frame → Component Slots (Helmet, Torso, L/R Arms, L/R Legs, Backpack)                 |
+| **Visual Style** | Rougher, patchwork look; asymmetrical and weather-worn; cloak-compatible                                         |
+| **Helmet**       | Asymmetric reinforced dome with sensor array; high protective collar (“blast-collar”) integrated into chestplate |
 
 
 
 
 -----------
+
+| Category                         | **Ridgewalker Armor**                                                                                                                                                                  | **Sentinel Rig**                                                                                                                                                                                                  |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Architecture**                 | Modular format: **Undersuit → Servo Frame → Bolt-on Components** (backpack, helmet, L/R arms, L/R legs, torso).                                                                        | Modular format: **Undersuit → Servo Frame → Clip-on Components** (backpack, helmet, L/R arms, L/R legs, torso).                                                                                                   |
+| **Baseline Product Name**        | Ridgewalker Armor                                                                                                                                                                      | Sentinel Rig (internal tag SPEAR-Ω).                                                                                                                                                                              |
+| **Core Tech**                    | • **Environmental Containment System** (sealed ops)<br>• **Hydraulic Exo-Frame**<br>• **Modular Precision-Milled Armor Plates**<br>• **Haptic Relay Spine** – see “Unique Twist” below | • **Environmental Containment System** (sealed ops)<br>• **Gravitational Shield Generator** (micro-grav defense)<br>• **Hydraulic Exo-Frame**<br>• *(Optional)* **Neuro-Reflex Conduit** for subconscious control |
+| **Developer Cell**               | Iron Vow Consortium — nomadic engineers & ex-1st Cavalry mech pilots.                                                                                                                  | Anders-Rheinhold Systems hard-liner cabal.                                                                                                                                                                        |
+| **Ethical Shadow**               | Forged from salvaged mech tech — illegal but voluntary participation.                                                                                                                  | NRC derived from abducted Va’ruun zealot trials (only if installed).                                                                                                                                              |
+| **Ideology**                     | Frontier independence & individual prowess.                                                                                                                                            | Centralized order & command integration.                                                                                                                                                                          |
+| **Primary Variants / Nicknames** | • **Breachframe** (heavy)<br>• **Lancer Rig** (assault)<br>• **Ridgewalker Scout** (recon)                                                                                             | • **Blue Knight** (slang)<br>• **Ghost Shell** (slang)<br>• **Sentinel Rig** (cover term)                                                                                                                         |
+| **Status**                       | Several WIP suits in active field trials.                                                                                                                                              | One sealed prototype (modular, NRC slot empty by default).                                                                                                                                                        |
+| **Strategic Goal**               | Build treaty-skirting “mini-mechs” for frontier defense & raids.                                                                                                                       | Guarantee UC supremacy with a deniable elite exosuit.                                                                                                                                                             |
+| **Testing Zones**                | Asteroid hidouts, desert moons, derelict mech sites.                                                                                                                                   | Vault-sealed; rumored clandestine UC ranges.                                                                                                                                                                      |
+| **Visual Identity**              | • Cloak scraps<br>• Knight-like silhouette<br>• Personalized graffiti<br>• Stone-gray & dust-orange plates<br>• Visible hydraulics                                                     | • Cobalt emitter filaments<br>• Grav-projector nodes<br>• Gunmetal, streamlined industrial plating<br>• Non-visor helmet with recessed sensor slit<br>• Scar-resistant nano-coating                               |
+
+----------
 
 Additional World-Building Ideas
 
