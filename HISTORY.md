@@ -6,18 +6,68 @@
 
 <img src="https://i.ibb.co/GDt62VL/Sentinel-Rig-Mk-II-Backpack-1.png" alt="Sentinel-Rig-Mk-II-Backpack-1" border="0">
 
-| **Overview**       | Details                                                                                                             |
-| ----------------   | --------------------------------------------------------------------------------------------------------------------|
-| **Faction**        | United Colonies (UC) – developed by shell company Anders-Rheinhold Systems.                                         |
-| **Role**           | High-tech elite combat suit, designed for maximum protection and strategic superiority.                             |
-| **Architecture**   | Modular: Undersuit → Exo Frame → External & Internal Component Slots (Helmet, Torso, L/R Arms, L/R Legs, Backpack)  |
-| **Visual Style**   | Sleek, industrial, factory-forged. Clean gunmetal plates, cobalt-lit accents, minimal visual clutter                |
+| **Overview**        | Details                                                                                                                                     |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Faction**         | United Colonies (UC) – developed by shell company Anders-Rheinhold Systems.                                                                 |
+| **Role**            | High-tech elite combat suit, designed for maximum protection and strategic superiority.                                                     |
+| **Architecture**    | Modular: Essential Custom Undersuit → Exo Frame → External & Internal Component Slots (Custom Helmet, Torso, Arms, Legs, Backpack and Core) |
+| **Power Source**    | Banned Mech Batteries                                                                                                                       |
+| **Visual Style**    | Sleek, industrial, factory-forged. Clean gunmetal plates, cobalt-lit accents, minimal visual clutter                                        |
                                                                                                               
 ### SPEAR - Core Tech	
 
-**- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Batteries:**
+**- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Battery:**
 
-**- Neuro-Interface Conduit:** The Neuro-Interface Conduit (NIC) is the collar-liner built into every suit. It's the core component which translates the wearer’s neural micro-signals and muscle twitches into clean servo commands, eliminating latency so the Exo-frame moves as fluidly as the user’s own limbs.
+<details>
+
+  _<summary>Undersuit & Exo-Frame Details</summary>_
+
+<img src="https://i.ibb.co/7x3PNFT9/UC-Undersuit-LEGACY.png" alt="UC-Undersuit-LEGACY" border="0">
+
+  > ### Undersuit
+  > 
+  > 1. Duramesh Armorweave:	Flexible titanium-thread fabric resists cuts and other punctures.
+  > 2. Reinforced Flex Panels:	Hex-plated stretch zones keep mobility high, while dispersing blunt impact.
+  > 
+  > ### Exo-Frame
+  > 
+  > 1. 
+
+</details>
+
+<details>
+
+  _<summary>Mech Battery Details</summary>_
+
+<img src="https://i.ibb.co/BHRnfwBy/Mech-Battery-Legacy.png" alt="Mech-Battery-Legacy" border="0">
+
+  > ### Mech Battery
+  > 
+  > 1. ...
+  > 
+  > ### Degrading Tears
+  > 
+  > 1. 
+
+</details>
+
+**- Neuro-Interface Conduit:** The Neuro-Interface Conduit (NIC) is the smart version of the standard issue collar ring built into every spacesuit. It contains the NIC sensor mesh, micro-signal amplifier, and a segmented titanium data bus that translate the wearer’s neural micro-signals and muscle twitches into clean servo commands, eliminating latency so the Exo-frame moves as fluidly as the user’s own limbs.
+
+<details>
+
+  _<summary>Neuro-Interface Conduit Details</summary>_
+
+<img src="https://i.ibb.co/ksmb0hY4/Neuro-Interface-Smart-Collar-Ring-Legacy.png" alt="Neuro-Interface-Smart-Collar-Ring-Legacy" border="0">
+
+  > ### Functionality
+  > 
+  > 1. ...
+  > 
+  > ### Origin
+  > 
+  > 1. ...
+
+</details>
 
 **- Kinetic Dispersal Mesh (KDM):** The KDM is a structural layer embedded beneath the visible armor plates of the Sentinel Rig. It spreads incoming kinetic energy across a wider area, turning potentially lethal localized impacts into survivable, low-pressure pulses against the suit frame and the wearer’s body. 
 
@@ -34,13 +84,6 @@
   > 3. Gel Damping: Shear-thickening polymer stiffens under sudden shear, slowing lattice movement and converting peak impulse into longer, lower-amplitude wave.
   > 4. Piezo Recovery: Shock membrane compresses → piezo elements generate small electric charge → routed to suit capacitor (bonus 1–2 % power recovery on heavy hits).
   > 5. Wearer Feel: Inside the suit, the wearer feels a muted thud rather than a bone-breaking spike.
-  > 
-  > ### Maintenance & Field Repair (KDM)
-  > 
-  > 1. Modular Tiles: Every KDM panel is a sealed “tile” sandwiched behind the outer armor plate and secured by captive-torque bolts (CTBs). Tech crews unlatch the suit’s wrist-driver, back out the CTBs in seconds, and slide the damaged tile/plate assembly free before torquing a fresh unit into the same sockets.
-  > 2. Integrity: Sentinel helmets run ultrasonic sweeps; any lattice zone showing > 25 % micro-fracture is outlined in red on the HUD and logs a CTB cycle count so crews know which bolts need retorque or replacement.
-  > 3. Limitations: After roughly 10 severe impacts in one location the mesh ribs deform, and the CTB shear-lip gauge begins to yellow-flag; another big hit can crush the lattice or snap the bolt heads—prompting mandatory tile swap before redeployment.
-
 
 </details>
 
