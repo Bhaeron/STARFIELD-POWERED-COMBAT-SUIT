@@ -16,11 +16,11 @@
                                                                                                               
 ### SPEAR - Core Tech	
 
-**- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Battery:**
+**- Undersuit and Hydraulic Exo-Frame fueled by banned Mech Batteries:**
 
 <details>
 
-  _<summary>Undersuit & Exo-Frame Details</summary>_
+  _<summary>Undersuit Details</summary>_
 
 <img src="https://i.ibb.co/7x3PNFT9/UC-Undersuit-LEGACY.png" alt="UC-Undersuit-LEGACY" border="0">
 
@@ -28,10 +28,19 @@
   > 
   > 1. Duramesh Armorweave:	Flexible titanium-thread fabric resists cuts and other punctures.
   > 2. Reinforced Flex Panels:	Hex-plated stretch zones keep mobility high, while dispersing blunt impact.
-  > 
+
+</details>
+
+<details>
+
+  _<summary>Exo-Frame Details</summary>_
+
+<img src="https://i.ibb.co/tPJ3T50j/Exo-Frame-LEGACY.png" alt="Exo-Frame-LEGACY" border="0">
+
   > ### Exo-Frame
   > 
-  > 1. 
+  > 1. Duramesh Armorweave:	Flexible titanium-thread fabric resists cuts and other punctures.
+  > 2. Reinforced Flex Panels:	Hex-plated stretch zones keep mobility high, while dispersing blunt impact.
 
 </details>
 
