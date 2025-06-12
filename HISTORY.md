@@ -17,7 +17,7 @@
 
 **- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Batteries:**
 
-**- Neuro-Interface Conduit:** The Neuro-Interface Conduit (NIC) is the collar-liner built into every suit. It's the core component which translates the wearer’s neural micro-signals and muscle twitches into clean servo commands, eliminating latency so the exo-frame moves as fluidly as the user’s own limbs.
+**- Neuro-Interface Conduit:** The Neuro-Interface Conduit (NIC) is the collar-liner built into every suit. It's the core component which translates the wearer’s neural micro-signals and muscle twitches into clean servo commands, eliminating latency so the Exo-frame moves as fluidly as the user’s own limbs.
 
 **- Kinetic Dispersal Mesh (KDM):** The KDM is a structural layer embedded beneath the visible armor plates of the Sentinel Rig. It spreads incoming kinetic energy across a wider area, turning potentially lethal localized impacts into survivable, low-pressure pulses against the suit frame and the wearer’s body. 
 
@@ -37,9 +37,9 @@
   > 
   > ### Maintenance & Field Repair (KDM)
   > 
-  > 1. Modular Tiles: Each KDL section is a sealed “tile” installed behind the visible outer plate. Tech crews pop out damaged tiles with a spanner and slide in spares.
-  > 2. Integrity Scan: Sentinel helmets run ultrasonic sweeps; red highlight shows lattice micro-fracture zones >25 % strain—triggers maintenance flag.
-  > 3. Limitations: Repeated high-impacts in same spot can crush lattice struts. Suit is rated for ~10 severe hits before tile replacement.
+  > 1. Modular Tiles: Every KDM panel is a sealed “tile” sandwiched behind the outer armor plate and secured by captive-torque bolts (CTBs). Tech crews unlatch the suit’s wrist-driver, back out the CTBs in seconds, and slide the damaged tile/plate assembly free before torquing a fresh unit into the same sockets.
+  > 2. Integrity: Sentinel helmets run ultrasonic sweeps; any lattice zone showing > 25 % micro-fracture is outlined in red on the HUD and logs a CTB cycle count so crews know which bolts need retorque or replacement.
+  > 3. Limitations: After roughly 10 severe impacts in one location the mesh ribs deform, and the CTB shear-lip gauge begins to yellow-flag; another big hit can crush the lattice or snap the bolt heads—prompting mandatory tile swap before redeployment.
 
 
 </details>
