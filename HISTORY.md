@@ -16,7 +16,7 @@
                                                                                                               
 ### SPEAR - Core Tech	
 
-**- Undersuit:** The Undersuit is a life-support layer—not armor. Woven from phase-change micro-fibers threaded with coolant capillaries and biometric filaments, it equalizes body temperature, wicks moisture, cushions against chafe, and streams vital-sign data into the suit’s control bus. It carries zero ballistic or blunt-force resistance; its singular mission is to keep the pilot stable, hydrated, and fully alert while the Exo-Frame and armor shoulder every hit.
+**- Undersuit:** The Undersuit is a life-support sleeve engineered for combat endurance. It won’t stop a rifle round—that’s the Exo-Frame and armor’s job—but it keeps the operator chafe-free, thermally balanced, and guarded from lacerations and joint-bruising blows during the long grind between impacts.
 
 <details>
 
@@ -27,7 +27,8 @@
   > ### Undersuit
   > 
   > 1. Duramesh Armorweave:	Flexible titanium-thread fabric resists cuts and other punctures.
-  > 2. Reinforced Flex Panels:	Hex-plated stretch zones keep mobility high, while dispersing blunt impact.
+  > 2. Reinforced Flex Panels—hex-plated stretch zones at elbows, knees, and hips—spread out blunt shocks while preserving full range of motion. 
+  > 3. Other: Beneath these skins sits the phase-change fiber matrix, coolant capillaries, and biometric filaments that regulate temperature, wick moisture, and stream real-time vitals to the suit’s control bus. 
 
 </details>
 
