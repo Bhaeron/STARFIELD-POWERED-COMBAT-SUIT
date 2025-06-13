@@ -32,7 +32,7 @@
 
 </details>
 
-**- Hydraulic Exo-Frame:** 
+**- Hydraulic Exo-Frame:** A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction, carries the armor’s mass, and soaks up battlefield recoil before it ever reaches flesh. Its modular struts route stresses through shock-dampening pivots and feed energy into assist motors, turning raw mechanical chaos into controlled, pilot-neutral motion.
 
 <details>
 
