@@ -16,7 +16,7 @@
                                                                                                               
 ### SPEAR - Core Tech	
 
-**- Undersuit and Hydraulic Exo-Frame fueled by banned Mech Batteries:**
+**- Undersuit:** The Undersuit is a life-support layer—not armor. Woven from phase-change micro-fibers threaded with coolant capillaries and biometric filaments, it equalizes body temperature, wicks moisture, cushions against chafe, and streams vital-sign data into the suit’s control bus. It carries zero ballistic or blunt-force resistance; its singular mission is to keep the pilot stable, hydrated, and fully alert while the Exo-Frame and armor shoulder every hit.
 
 <details>
 
@@ -31,9 +31,11 @@
 
 </details>
 
+**- Hydraulic Exo-Frame:** 
+
 <details>
 
-  _<summary>Exo-Frame Details</summary>_
+  _<summary>Hydraulic Exo-Frame Details</summary>_
 
 <img src="https://i.ibb.co/tPJ3T50j/Exo-Frame-LEGACY.png" alt="Exo-Frame-LEGACY" border="0">
 
@@ -43,6 +45,8 @@
   > 2. Reinforced Flex Panels:	Hex-plated stretch zones keep mobility high, while dispersing blunt impact.
 
 </details>
+
+**- Banned Mech Batteries:**
 
 <details>
 
