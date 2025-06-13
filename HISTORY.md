@@ -1,5 +1,11 @@
 # MECH COMBAT SUIT LORE DRAFT
 
+## PROLOGUE
+
+Conceived in 2310 as Project SPEAR, the Mech-Combat-Armor / Tactical Exo-Armor line (MCA/TEXA) was the United Colonies’ last-ditch attempt to cram full-sized mech fire-power into an infantry frame. Para-military prototypes entered live trials in 2311—too late to tip the Colony War, but early enough to prove the concept. Freestar operatives aquired a copy of the shematics, spawning Operation DUSTWALL and duplicating the design almost bolt-for-bolt. 
+
+After the 2311 Armistice outlawed all mech technology, both projects vanished from every ledger. Rumours pin SPEAR to a hollowed asteroid dubbed Anchorpoint-Theta, somewhere beyond the last navigational beacons of the settled systems, while stray shipping pings hint that DUSTWALL migrated to an unregistered foundry drifting on the fringe of the outer systems. Out there—far from treaty inspectors—the twin-DNA rigs are said to keep evolving in secrecy. And they may not be alone: contraband routes run by Ecliptic fixers, Crimson Fleet breakers and back-alley spacer yards already traffic in outlawed mech parts, each faction tweaking the tech in its own savage signature.
+
 ----------
 
 ##  LEGACY - UC PROJECT - CODENAME SPEAR (Strategic Protection & Engagement Armor Rig)
@@ -22,7 +28,7 @@
 
   _<summary>Undersuit Details</summary>_
 
-<img src="https://i.ibb.co/7x3PNFT9/UC-Undersuit-LEGACY.png" alt="UC-Undersuit-LEGACY" border="0">
+<img src="https://i.ibb.co/bgwGzqyb/Undersuit-Black.png" alt="Undersuit-Black" border="0">
 
   > ### Undersuit
   > 
@@ -79,7 +85,7 @@
   > 
   > ### Origin
   > 
-  > 1. ...
+  > Classified UC Defence Advanced Systems spin-off from zero-G salvage rigs. Public files list it only as a “neural telemetry coupler”; deeper research remains double-sealed.
 
 </details>
 
