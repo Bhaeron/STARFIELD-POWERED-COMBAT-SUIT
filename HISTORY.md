@@ -2,13 +2,13 @@
 
 ## PROLOGUE
 
-Conceived in 2310 as Project SPEAR, the Mech-Combat-Armor / Tactical Exo-Armor line (MCA/TEXA) was the United Colonies’ last-ditch attempt to cram full-sized mech fire-power into an infantry frame. Para-military prototypes entered live trials in 2311—too late to tip the Colony War, but early enough to prove the concept. Freestar operatives aquired a copy of the shematics, spawning Operation DUSTWALL and duplicating the design almost bolt-for-bolt. 
+Conceived in 2310 as Project TEXA (Tactical Exo-Armor) was the United Colonies’ last-ditch attempt to cram full-sized mech fire-power into an infantry frame. Para-military prototypes entered live trials in 2311—too late to tip the Colony War, but early enough to prove the concept. Freestar operatives acquired a copy of the schematics, spawning Operation Dustwall and duplicating the design almost bolt-for-bolt. 
 
-After the 2311 Armistice outlawed all mech technology, both projects vanished from every ledger. Rumours pin SPEAR to a hollowed asteroid dubbed Anchorpoint-Theta, somewhere beyond the last navigational beacons of the settled systems, while stray shipping pings hint that DUSTWALL migrated to an unregistered foundry drifting on the fringe of the outer systems. Out there—far from treaty inspectors—the twin-DNA rigs are said to keep evolving in secrecy. And they may not be alone: contraband routes run by Ecliptic fixers, Crimson Fleet breakers and back-alley spacer yards already traffic in outlawed mech parts, each faction tweaking the tech in its own savage signature.
+After the 2311 Armistice outlawed all mech technology, both projects vanished from every ledger. Rumors pin SPEAR to a hollowed asteroid dubbed Anchorpoint-Theta, somewhere beyond the last navigational beacons of the settled systems, while stray shipping pings hint that Dustwall migrated to an unregistered foundry drifting on the fringe of the outer systems. Out there—far from treaty inspectors—the twin-DNA rigs are said to keep evolving in secrecy. And they may not be alone: contraband routes run by Ecliptic fixers, Crimson Fleet breakers, and back-alley spacer yards already traffic in outlawed mech parts; each faction tweaking the tech in its own savage signature.
 
 ----------
 
-##  LEGACY - UC PROJECT - CODENAME SPEAR (Strategic Protection & Engagement Armor Rig)
+##  LEGACY - UC PROJECT TEXA (Tactical Exo-Armor) - CODENAME SPEAR (Strategic Protection & Engagement Armor Rig)
 
 <img src="https://i.ibb.co/GDt62VL/Sentinel-Rig-Mk-II-Backpack-1.png" alt="Sentinel-Rig-Mk-II-Backpack-1" border="0">
 
@@ -22,19 +22,19 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
                                                                                                               
 ### SPEAR - Core Tech	
 
-**- Undersuit:** The Undersuit is a life-support sleeve engineered for combat endurance. It won’t stop a rifle round—that’s the Exo-Frame and armor’s job—but it keeps the operator chafe-free, thermally balanced, and guarded from lacerations and joint-bruising blows during the long grind between impacts.
+**- Undersuit:** The Undersuit is a life-support sleeve engineered for combat endurance. It won’t stop a rifle round—that’s the Exo-Frame and armor component’s job. However, it keeps the operator chafe-free, thermally balanced, and guarded from lacerations and joint-bruising blows during the long grind between impacts.
 
 <details>
 
   _<summary>Undersuit Details</summary>_
 
-<img src="https://i.ibb.co/bgwGzqyb/Undersuit-Black.png" alt="Undersuit-Black" border="0">
+<img src="https://i.ibb.co/hxJ9237j/UC-Undersuit-LEGACY.png" alt="UC-Undersuit-LEGACY" border="0">
 
   > ### Undersuit
   > 
   > 1. Duramesh Armorweave:	Flexible titanium-thread fabric resists cuts and other punctures.
-  > 2. Reinforced Flex Panels—hex-plated stretch zones at elbows, knees, and hips—spread out blunt shocks while preserving full range of motion. 
-  > 3. Other: Beneath these skins sits the phase-change fiber matrix, coolant capillaries, and biometric filaments that regulate temperature, wick moisture, and stream real-time vitals to the suit’s control bus. 
+  > 2. Reinforced Flex Panels: Hex-plated stretch zones at elbows, knees, and hips spread out blunt shocks while preserving full range of motion. 
+  > 3. Other: Beneath the visible skin sit the phase-change fiber matrix, coolant capillaries, and biometric filaments that regulate temperature, wick moisture, and stream real-time vitals to the exo-suit’s control bus. 
 
 </details>
 
@@ -44,48 +44,12 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
   _<summary>Hydraulic Exo-Frame Details</summary>_
 
-<img src="https://i.ibb.co/tPJ3T50j/Exo-Frame-LEGACY.png" alt="Exo-Frame-LEGACY" border="0">
+IMAGE OF EXO-FRAME!
 
   > ### Exo-Frame
   > 
-  > 1. Duramesh Armorweave:	Flexible titanium-thread fabric resists cuts and other punctures.
-  > 2. Reinforced Flex Panels:	Hex-plated stretch zones keep mobility high, while dispersing blunt impact.
-
-</details>
-
-**- Banned Mech Batteries:**
-
-<details>
-
-  _<summary>Mech Battery Details</summary>_
-
-<img src="https://i.ibb.co/BHRnfwBy/Mech-Battery-Legacy.png" alt="Mech-Battery-Legacy" border="0">
-
-  > ### Mech Battery
-  > 
   > 1. ...
-  > 
-  > ### Degrading Tears
-  > 
-  > 1. 
-
-</details>
-
-**- Neuro-Interface Conduit:** The Neuro-Interface Conduit (NIC) is the smart version of the standard issue collar ring built into every spacesuit. It contains the NIC sensor mesh, micro-signal amplifier, and a segmented titanium data bus that translate the wearer’s neural micro-signals and muscle twitches into clean servo commands, eliminating latency so the Exo-frame moves as fluidly as the user’s own limbs.
-
-<details>
-
-  _<summary>Neuro-Interface Conduit Details</summary>_
-
-<img src="https://i.ibb.co/ksmb0hY4/Neuro-Interface-Smart-Collar-Ring-Legacy.png" alt="Neuro-Interface-Smart-Collar-Ring-Legacy" border="0">
-
-  > ### Functionality
-  > 
-  > 1. ...
-  > 
-  > ### Origin
-  > 
-  > Classified UC Defence Advanced Systems spin-off from zero-G salvage rigs. Public files list it only as a “neural telemetry coupler”; deeper research remains double-sealed.
+  > 2. ...
 
 </details>
 
@@ -107,9 +71,48 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
 </details>
 
-**- Modular Armor:** Components are attached via Captive Torque Bolts.
+**- Environmental Containment System:** The Environmental Containment System is the MCA/TEXA armor line’s integrated life-support barrier, hermetically sealing the pilot from hazardous external conditions. Utilizing a micro-layered membrane beneath each modular armor plate, the ECS maintains internal atmospheric integrity against extreme temperatures, radiation bursts, toxic airborne contaminants, and vacuum environments. Active carbon-filtration vents, regulated pressure chambers, and emergency oxygen reservoirs ensure continuous, breathable air, while conductive heat-transfer filaments stabilize internal temperatures. Though invisible from the outside, the ECS allows operators to remain combat-effective in environments that would rapidly incapacitate unprotected personnel.
 
-**- Environmental Containment System:** Sealed for toxic, vacuum, and radiation exposure...
+**- Neuro-Interface Conduit:** The Neuro-Interface Conduit (NIC) is the smart version of the standard issue collar ring built into every spacesuit. It contains the NIC sensor mesh, micro-signal amplifier, and a segmented titanium data bus that translate the wearer’s neural micro-signals and muscle twitches into clean servo commands, eliminating latency so the Exo-frame moves as fluidly as the user’s own limbs.
+
+<details>
+
+  _<summary>Neuro-Interface Conduit Details</summary>_
+
+IMAGE OF NIC!
+
+  > ### Functionality
+  > 
+  > 1. ...
+  > 
+  > ### Origin
+  > 
+  > Classified UC Defence Advanced Systems spin-off from zero-G salvage rigs. Public files list it only as a “neural telemetry coupler”; deeper research remains double-sealed.
+
+</details>
+
+**- Mech Batteries:**
+
+<details>
+
+  _<summary>Mech Battery Details</summary>_
+
+<img src="https://i.ibb.co/BHRnfwBy/Mech-Battery-Legacy.png" alt="Mech-Battery-Legacy" border="0">
+
+  > ### Mech Battery
+  > 
+  > 1. ...
+  > 
+  > ### Degrading Tears
+  > 
+  > 1. 
+
+</details>
+
+
+
+
+**- Modular Armor:** Components are attached via Captive Torque Bolts.
 
 **- Unique: Gravitational Shield Generator (GSG):** Deflects ballistic and energy fire...
 
@@ -122,6 +125,7 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 - Material Accents: Matte graphite underlay, brushed titanium plates, fine recessed energy seams
 - Intended User: Paramilitary Spec-Ops, potential rollout for high-risk planetary warfare and deep space containment teams
 - Nicknames: Ghost Shell, Blue Knight, Sentinel Rig
+
 - Undersuit Naming Proposals: UC-MK1 Undersuit, Vanguard Weave, SYN-01 Bodysuit, KinetiCore Subshell
 
 ----------
@@ -139,6 +143,8 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 | **Helmet**       | Asymmetric reinforced dome with sensor array; high protective collar (“blast-collar”) integrated into chestplate |
 
 ### RIDGEWALKER - Core Tech
+
+<img src="https://i.ibb.co/rGjBwTNm/FREESTAR-Exo-Frame-LEGACY.png" alt="FREESTAR-Exo-Frame-LEGACY" border="0">
 
 **- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Power Cell:** Refurbished mini-mech battery (treaty-illegal contraband). Delivers stable 24 – 30 kWh equivalent for servo drive & HUD for ~12 mission hours at combat draw.
 
