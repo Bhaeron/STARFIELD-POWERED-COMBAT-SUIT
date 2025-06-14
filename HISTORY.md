@@ -38,7 +38,7 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
 </details>
 
-**- Hydraulic Exo-Frame:** A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction, carries the armor’s mass, and soaks up battlefield recoil before it ever reaches flesh. Its modular struts route stresses through shock-dampening pivots and feed energy into assist motors, turning raw mechanical chaos into controlled, pilot-neutral motion.
+**- Hydraulic Exo-Frame:** A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction, carries the armor’s mass, and by utilising the Kinetic Dispersal Mesh (KDM) soaks up battlefield recoil before it ever reaches flesh. Its modular struts route stresses through shock-dampening pivots and feed energy into assist motors, converting raw mechanical chaos into controlled, pilot-neutral motion.
 
 <details>
 
