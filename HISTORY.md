@@ -44,12 +44,13 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
   _<summary>Hydraulic Exo-Frame Details</summary>_
 
-IMAGE OF EXO-FRAME!
+<img src="https://i.ibb.co/CsmDCg9m/UC-Exo-Frame-LEGACY.png" alt="UC-Exo-Frame-LEGACY" border="0">
 
   > ### Exo-Frame
   > 
-  > 1. ...
-  > 2. ...
+  > 1. Mag-Servo Actuators: High-torque motors embedded at joints multiply natural muscle movements, allowing heavy armor plating and equipment to be carried effortlessly.
+  > 2. Shock-Dampening Pivot Joints: Integrated flex-hubs absorb impact shocks and weapon recoil, dispersing kinetic energy through the exo-frame before it reaches the pilot.
+  > 3. Spinal Power Conduit: Central spine column houses graphene power busses and data channels, efficiently routing energy and telemetry across the frame.
 
 </details>
 
@@ -65,7 +66,7 @@ IMAGE OF EXO-FRAME!
   > 
   > 1. Penetrator Defeat: Bullet or shrapnel hits outer plate → partially blunted or fragmented.
   > 2. Energy Diffusion: Force enters the KDL micro-lattice. Each cell wall flexes, transferring load to adjacent cells in a split-millisecond ripple.
-  > 3. Gel Damping: Shear-thickening polymer stiffens under sudden shear, slowing lattice movement and converting peak impulse into longer, lower-amplitude wave.
+  > 3. Gel Damping: Shear-thickening polymer stiffens under sudden shear, slowing lattice movement and converting peak impulse into longer, lower-amplitude waves.
   > 4. Piezo Recovery: Shock membrane compresses → piezo elements generate small electric charge → routed to suit capacitor (bonus 1–2 % power recovery on heavy hits).
   > 5. Wearer Feel: Inside the suit, the wearer feels a muted thud rather than a bone-breaking spike.
 
@@ -79,7 +80,7 @@ IMAGE OF EXO-FRAME!
 
   _<summary>Neuro-Interface Conduit Details</summary>_
 
-IMAGE OF NIC!
+<img src="https://i.ibb.co/hx74ZZQY/UC-Neuro-Interface-Conduit-LEGACY.png" alt="UC-Neuro-Interface-Conduit-LEGACY" border="0">
 
   > ### Functionality
   > 
@@ -148,7 +149,7 @@ IMAGE OF NIC!
 
 **- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Power Cell:** Refurbished mini-mech battery (treaty-illegal contraband). Delivers stable 24 – 30 kWh equivalent for servo drive & HUD for ~12 mission hours at combat draw.
 
-**- Ridgeflex Spring Mesh (RSM):** The Ridgeflex Spring Mesh forms a structural layer beneath Ridgewalker Armor’s outer plates. Its purpose is to diffuse incoming kinetic energy across an interlocking grid of mirco-leaf-springs and damping gel, turning a potentially lethal, localized impact into a broad, lower-pressure shockwave that the suit frame—and wearer—can absorb without catastrophic injury. By converting part of that energy into heat via miniature hydraulic bladders, RSM keeps Freestar scouts alive when heavy rounds or shrapnel would otherwise crush bone.
+**- Ridgeflex Spring Mesh (RSM):** The Ridgeflex Spring Mesh forms a structural layer beneath Ridgewalker Armor’s outer plates. Its purpose is to diffuse incoming kinetic energy across an interlocking grid of micro-leaf-springs and damping gel, turning a potentially lethal, localized impact into a broad, lower-pressure shockwave that the suit frame—and wearer—can absorb without catastrophic injury. By converting part of that energy into heat via miniature hydraulic bladders, RSM keeps Freestar scouts alive when heavy rounds or shrapnel would otherwise crush bone.
 
 <details>
 
@@ -208,7 +209,7 @@ Undersuit Naming Proposals: Nomad Skin, Dustliner Mesh, Wanderer Undersuit, Trai
 | **Primary Variants / Nicknames** | • **Breachframe** (heavy)<br>• **Lancer Rig** (assault)<br>• **Ridgewalker Scout** (recon)                                                                                             | • **Blue Knight** (slang)<br>• **Ghost Shell** (slang)<br>• **Sentinel Rig** (cover term)                                                                                                                         |
 | **Status**                       | Several WIP suits in active field trials.                                                                                                                                              | One sealed prototype (modular, NRC slot empty by default).                                                                                                                                                        |
 | **Strategic Goal**               | Build treaty-skirting “mini-mechs” for frontier defense & raids.                                                                                                                       | Guarantee UC supremacy with a deniable elite exosuit.                                                                                                                                                             |
-| **Testing Zones**                | Asteroid hidouts, desert moons, derelict mech sites.                                                                                                                                   | Vault-sealed; rumored clandestine UC ranges.                                                                                                                                                                      |
+| **Testing Zones**                | Asteroid hideouts, desert moons, derelict mech sites.                                                                                                                                   | Vault-sealed; rumored clandestine UC ranges.                                                                                                                                                                      |
 | **Visual Identity**              | • Cloak scraps<br>• Knight-like silhouette<br>• Personalized graffiti<br>• Stone-gray & dust-orange plates<br>• Visible hydraulics                                                     | • Cobalt emitter filaments<br>• Grav-projector nodes<br>• Gunmetal, streamlined industrial plating<br>• Non-visor helmet with recessed sensor slit<br>• Scar-resistant nano-coating                               |
 
 ----------
