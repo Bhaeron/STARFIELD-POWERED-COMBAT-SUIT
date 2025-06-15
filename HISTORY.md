@@ -51,6 +51,7 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
   > 1. Mag-Servo Actuators: High-torque motors embedded at joints multiply natural muscle movements, allowing heavy armor plating and equipment to be carried effortlessly.
   > 2. Shock-Dampening Pivot Joints: Integrated flex-hubs absorb impact shocks and weapon recoil, dispersing kinetic energy through the exo-frame before it reaches the pilot.
   > 3. Spinal Power Conduit: Central spine column houses graphene power busses and data channels, efficiently routing energy and telemetry across the frame.
+  > 4. Torque-Bolt Mounting System: Modular armor plates and auxiliary equipment securely attach using standardized torque bolts, ensuring precise, vibration-resistant coupling that’s easily field-serviceable. 
 
 </details>
 
