@@ -10,7 +10,7 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
 ##  LEGACY - UC PROJECT TEXA (Tactical Exo-Armor) - CODENAME SPEAR (Strategic Protection & Engagement Armor Rig)
 
-<img src="https://i.ibb.co/GDt62VL/Sentinel-Rig-Mk-II-Backpack-1.png" alt="Sentinel-Rig-Mk-II-Backpack-1" border="0">
+  <img src="https://i.ibb.co/GDt62VL/Sentinel-Rig-Mk-II-Backpack-1.png" alt="Sentinel-Rig-Mk-II-Backpack-1" border="0">
 
 | **Overview**        | Details                                                                                                                                     |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,7 +28,7 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
   _<summary>Undersuit Details</summary>_
 
-<img src="https://i.ibb.co/hxJ9237j/UC-Undersuit-LEGACY.png" alt="UC-Undersuit-LEGACY" border="0">
+  <img src="https://i.ibb.co/hxJ9237j/UC-Undersuit-LEGACY.png" alt="UC-Undersuit-LEGACY" border="0">
 
   > ### Undersuit
   > 
@@ -44,7 +44,7 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
   _<summary>Hydraulic Exo-Frame Details</summary>_
 
-<img src="https://i.ibb.co/CsmDCg9m/UC-Exo-Frame-LEGACY.png" alt="UC-Exo-Frame-LEGACY" border="0">
+  <img src="https://i.ibb.co/CsmDCg9m/UC-Exo-Frame-LEGACY.png" alt="UC-Exo-Frame-LEGACY" border="0">
 
   > ### Exo-Frame
   > 
@@ -61,7 +61,9 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
   _<summary>Kinetic Dispersal Mesh Details</summary>_
 
-<img src="https://i.ibb.co/pBCKLwwR/Kinetic-Dispersal-Mesh-KDM-PROTOTYPE.png" alt="Kinetic-Dispersal-Mesh-KDM-PROTOTYPE" border="0">
+  <img src="https://i.ibb.co/q4QKhcF/Kinetic-Dispersal-Mesh-KDM-3-D.png" alt="Kinetic-Dispersal-Mesh-KDM-3-D" border="0">
+
+  <img src="https://i.ibb.co/pBCKLwwR/Kinetic-Dispersal-Mesh-KDM-PROTOTYPE.png" alt="Kinetic-Dispersal-Mesh-KDM-PROTOTYPE" border="0">
 
   > ### Impact Timeline (KDM)
   > 
@@ -73,7 +75,23 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
 </details>
 
-**- Environmental Containment System:** The Environmental Containment System is the MCA/TEXA armor line’s integrated life-support barrier, hermetically sealing the pilot from hazardous external conditions. Utilizing a micro-layered membrane beneath each modular armor plate, the ECS maintains internal atmospheric integrity against extreme temperatures, radiation bursts, toxic airborne contaminants, and vacuum environments. Though invisible from the outside, the ECS allows operators to remain combat-effective in environments that would rapidly incapacitate unprotected personnel.
+**- Environmental Containment System:** The Environmental Containment System is the TEXA armor line’s integrated life-support barrier, hermetically sealing the pilot from hazardous external conditions. Utilizing a micro-layered membrane beneath each modular armor plate, the ECS maintains internal atmospheric integrity against extreme temperatures, radiation bursts, toxic airborne contaminants, and vacuum environments. Though invisible from the outside, the ECS allows operators to remain combat-effective in environments that would rapidly incapacitate unprotected personnel.
+
+<details>
+
+  _<summary>Environmental Containment System</summary>_
+
+3D IMAGE!
+
+  > ### Functionality
+  > 
+  > 1. ...
+  > 
+  > ### Field Testing
+  > 
+  > Classified UC Defence Advanced Systems spin-off from zero-G salvage rigs. Public files list it only as a “neural telemetry coupler”; deeper research remains double-sealed.
+
+</details>
 
 **- Neuro-Interface Conduit:** The Neuro-Interface Conduit (NIC) is the smart version of the standard issue collar ring built into every spacesuit. It contains the NIC sensor mesh, micro-signal amplifier, and a segmented titanium data bus that translate the wearer’s neural micro-signals and muscle twitches into clean servo commands, eliminating latency so the Exo-frame moves as fluidly as the user’s own limbs.
 
@@ -81,7 +99,7 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
   _<summary>Neuro-Interface Conduit Details</summary>_
 
-<img src="https://i.ibb.co/hx74ZZQY/UC-Neuro-Interface-Conduit-LEGACY.png" alt="UC-Neuro-Interface-Conduit-LEGACY" border="0">
+  <img src="https://i.ibb.co/hx74ZZQY/UC-Neuro-Interface-Conduit-LEGACY.png" alt="UC-Neuro-Interface-Conduit-LEGACY" border="0">
 
   > ### Functionality
   > 
@@ -99,7 +117,7 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
   _<summary>Mech Battery Details</summary>_
 
-<img src="https://i.ibb.co/BHRnfwBy/Mech-Battery-Legacy.png" alt="Mech-Battery-Legacy" border="0">
+  <img src="https://i.ibb.co/BHRnfwBy/Mech-Battery-Legacy.png" alt="Mech-Battery-Legacy" border="0">
 
   > ### Mech Battery
   > 
@@ -134,7 +152,7 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
 ## FREESTAR PROJECT - OPERATION DUSTWALL
 
-<img src="https://i.ibb.co/QF2rg0WD/Ridgewalker-Tactical-Model-II-Backpack-1.png" alt="Ridgewalker-Tactical-Model-II-Backpack-1" border="0">
+  <img src="https://i.ibb.co/QF2rg0WD/Ridgewalker-Tactical-Model-II-Backpack-1.png" alt="Ridgewalker-Tactical-Model-II-Backpack-1" border="0">
 
 | Overview         | Details                                                                                                          |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -146,7 +164,7 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
 ### RIDGEWALKER - Core Tech
 
-<img src="https://i.ibb.co/rGjBwTNm/FREESTAR-Exo-Frame-LEGACY.png" alt="FREESTAR-Exo-Frame-LEGACY" border="0">
+  <img src="https://i.ibb.co/rGjBwTNm/FREESTAR-Exo-Frame-LEGACY.png" alt="FREESTAR-Exo-Frame-LEGACY" border="0">
 
 **- Undersuit and Hydraulic Exo-Frame fueled by contraband Mech Power Cell:** Refurbished mini-mech battery (treaty-illegal contraband). Delivers stable 24 – 30 kWh equivalent for servo drive & HUD for ~12 mission hours at combat draw.
 
@@ -155,8 +173,10 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 <details>
 
   _<summary>Ridgeflex Spring Mesh Details</summary>_
+
+  <img src="https://i.ibb.co/pjbS02h1/Ridgeflex-Spring-Mesh-RSM-3-D.png" alt="Ridgeflex-Spring-Mesh-RSM-3-D" border="0">
   
-<img src="https://i.ibb.co/hzsHP7K/Ridgeflex-Spring-Mesh-RSM-PROTOTYPE.png" alt="Ridgeflex-Spring-Mesh-RSM-PROTOTYPE" border="0">
+  <img src="https://i.ibb.co/hzsHP7K/Ridgeflex-Spring-Mesh-RSM-PROTOTYPE.png" alt="Ridgeflex-Spring-Mesh-RSM-PROTOTYPE" border="0">
 
   > ### Impact Timeline — Ridgeflex Spring Mesh (RSM)
   > 
