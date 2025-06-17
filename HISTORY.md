@@ -6,9 +6,9 @@ Conceived in 2310 as Project TEXA (Tactical Exo-Armor) was the United Colonies�
 
 After the 2311 Armistice outlawed all mech technology, both projects vanished from every ledger. Rumors pin SPEAR to a hollowed asteroid dubbed Anchorpoint-Theta, somewhere beyond the last navigational beacons of the settled systems, while stray shipping pings hint that Dustwall migrated to an unregistered foundry drifting on the fringe of the outer systems. Out there—far from treaty inspectors—the twin-DNA rigs are said to keep evolving in secrecy. And they may not be alone: contraband routes run by Ecliptic fixers, Crimson Fleet breakers, and back-alley spacer yards already traffic in outlawed mech parts; each faction tweaking the tech in its own savage signature.
 
-----------
 
-##  LEGACY - UC PROJECT TEXA (Tactical Exo-Armor) - CODENAME SPEAR (Strategic Protection & Engagement Armor Rig)
+## UC PROJECT - TEXA (Tactical Exo-Armor) - CODENAME SPEAR (Strategic Protection & Engagement Armor Rig)
+## PROTOTYPE: SENTINEL RIG Mk. I
 
   <img src="https://i.ibb.co/GDt62VL/Sentinel-Rig-Mk-II-Backpack-1.png" alt="Sentinel-Rig-Mk-II-Backpack-1" border="0">
 
@@ -20,7 +20,9 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 | **Power Source**    | Banned Mech Batteries                                                                                                                       |
 | **Visual Style**    | Sleek, industrial, factory-forged. Clean gunmetal plates, cobalt-lit accents, minimal visual clutter                                        |
                                                                                                               
-### SPEAR - Core Tech	
+## SPEAR - Core Tech
+
+### Base Layer – Life & Motion Core
 
 **- Undersuit:** The Undersuit is a life-support sleeve engineered for combat endurance. It won’t stop a rifle round—that’s the Exo-Frame and armor component’s job. However, it keeps the operator chafe-free, thermally balanced, and guarded from lacerations and joint-bruising blows during the long grind between impacts.
 
@@ -32,9 +34,9 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
   > ### Undersuit
   > 
-  > 1. Duramesh Armorweave:	Flexible titanium-thread fabric resists cuts and other punctures.
-  > 2. Reinforced Flex Panels: Hex-plated stretch zones at elbows, knees, and hips spread out blunt shocks while preserving full range of motion. 
-  > 3. Other: Beneath the visible skin sit the phase-change fiber matrix, coolant capillaries, and biometric filaments that regulate temperature, wick moisture, and stream real-time vitals to the exo-suit’s control bus. 
+  > - Duramesh Armorweave:	Flexible titanium-thread fabric resists cuts and other punctures.
+  > - Reinforced Flex Panels: Hex-plated stretch zones at elbows, knees, and hips spread out blunt shocks while preserving full range of motion. 
+  > - Other: Beneath the visible skin sit the phase-change fiber matrix, coolant capillaries, and biometric filaments that regulate temperature, wick moisture, and stream real-time vitals to the exo-suit’s control bus. 
 
 </details>
 
@@ -46,14 +48,54 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
   <img src="https://i.ibb.co/CsmDCg9m/UC-Exo-Frame-LEGACY.png" alt="UC-Exo-Frame-LEGACY" border="0">
 
-  > ### Exo-Frame
-  > 
-  > 1. Mag-Servo Actuators: High-torque motors embedded at joints multiply natural muscle movements, allowing heavy armor plating and equipment to be carried effortlessly.
-  > 2. Shock-Dampening Pivot Joints: Integrated flex-hubs absorb impact shocks and weapon recoil, dispersing kinetic energy through the exo-frame before it reaches the pilot.
-  > 3. Spinal Power Conduit: Central spine column houses graphene power busses and data channels, efficiently routing energy and telemetry across the frame.
-  > 4. Torque-Bolt Mounting System: Modular armor plates and auxiliary equipment securely attach using standardized torque bolts, ensuring precise, vibration-resistant coupling that’s easily field-serviceable. 
+  > ### Hydraulic Exo-Frame
+  >
+  > - Mag-Servo Actuators: High-torque motors embedded at joints multiply natural muscle movements, allowing heavy armor plating and equipment to be carried effortlessly.
+  > - Shock-Dampening Pivot Joints: Integrated flex-hubs absorb impact shocks and weapon recoil, dispersing kinetic energy through the exo-frame before it reaches the pilot.
+  > - Spinal Power Conduit: Central spine column houses graphene power busses and data channels, efficiently routing energy and telemetry across the frame.
+  > - Torque-Bolt Mounting System: Modular armor plates and auxiliary equipment securely attach using standardized torque bolts, ensuring precise, vibration-resistant coupling that’s easily field-serviceable.
 
 </details>
+
+in conjunction with hardwired
+
+**- Neuro-Interface Conduit (NIC):** The Neuro-Interface Conduit (NIC) is the smart version of the standard issue collar ring built into every spacesuit. It contains the NIC sensor mesh, micro-signal amplifier, and a segmented titanium data bus that translate the wearer’s neural micro-signals and muscle twitches into clean servo commands, eliminating latency so the Exo-frame moves as fluidly as the user’s own limbs.
+
+Note: The NIC is absolutely mandatory. Without an active link, the exo-frame will not budge even 1 cm!
+
+<details>
+
+  _<summary>Neuro-Interface Conduit (NIC) Details</summary>_
+
+  <img src="https://i.ibb.co/hx74ZZQY/UC-Neuro-Interface-Conduit-LEGACY.png" alt="UC-Neuro-Interface-Conduit-LEGACY" border="0">
+
+  > ### Neuro-Interface Conduit (NIC)
+  >
+  > - Predictive Motion Sync: Custom firmware fuses cortical and EMG data into anticipatory servo commands, staging joint movement so the exo-frame feels like an extension of the pilot’s own body.
+  > - Haptic Echo Feedback: Vibration motors in the collar ring and gloves transmit “pressure shadows” of impacts and weapon recoil, replacing bone-shaking jolts with gentle, informative pulses.
+  > - Embedded Safety Brakes: A sub-millisecond neuropause circuit monitors cortical overload and severs assist drive if abnormal spikes occur, preventing neural or muscular injury.
+
+  > ### Origin
+  > 
+  > Classified: Public files list it only as a “neural telemetry coupler”; deeper research remains double-sealed.
+
+</details>
+
+**- Environmental Containment System:** The Environmental Containment System is the TEXA armor line’s integrated life-support barrier, hermetically sealing the pilot from hazardous external conditions. Utilizing a micro-layered membrane beneath each modular armor plate, the ECS maintains internal atmospheric integrity against extreme temperatures, radiation bursts, toxic airborne contaminants, and vacuum environments. Though invisible from the outside, the ECS allows operators to remain combat-effective in environments that would rapidly incapacitate unprotected personnel.
+
+<details>
+
+  _<summary>Environmental Containment System Details</summary>_
+
+  <img src="https://i.ibb.co/XkvSH5qf/Environmental-Containment-System-ECS-Variant.png" alt="Environmental-Containment-System-ECS-Variant" border="0">
+
+  > ### Field-Test Validation
+  > 
+  > The ECS was put through multi-phase stress trials across harsh test environments, including full vacuum simulation chambers, cryogenic chemical exposure fields, and live-fire toxic aerosol dispersal zones. In one extreme-case scenario, a pilot remained sealed and functional for 27 minutes inside a hull breach mock-up subjected to -210°C vacuum, solar UV saturation, and synthetic nerve-agent fog. Vital signs remained stable and post-recovery diagnostics showed zero contamination penetration. In another endurance test on a planets surface near a vented tritium reactor, the suit's ECS endured five successive radiation spikes while preserving internal thermal equilibrium. These field validations confirmed not only the ECS’s passive seal integrity but its active adaptability under compound environmental threats—solidifying its place as the unglamorous but irreplaceable backbone of TEXA survivability.
+
+</details>
+
+### Middle Layer – Impact & Ballistic Shell
 
 **- Kinetic Dispersal Mesh (KDM):** The KDM is a structural layer embedded beneath the visible armor plates of the Sentinel Rig. It spreads incoming kinetic energy across a wider area, turning potentially lethal localized impacts into survivable, low-pressure pulses against the suit frame and the wearer’s body. 
 
@@ -75,21 +117,9 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
 </details>
 
-**- Environmental Containment System:** The Environmental Containment System is the TEXA armor line’s integrated life-support barrier, hermetically sealing the pilot from hazardous external conditions. Utilizing a micro-layered membrane beneath each modular armor plate, the ECS maintains internal atmospheric integrity against extreme temperatures, radiation bursts, toxic airborne contaminants, and vacuum environments. Though invisible from the outside, the ECS allows operators to remain combat-effective in environments that would rapidly incapacitate unprotected personnel.
 
-<details>
 
-  _<summary>Environmental Containment System Details</summary>_
-
-  <img src="https://i.ibb.co/XkvSH5qf/Environmental-Containment-System-ECS-Variant.png" alt="Environmental-Containment-System-ECS-Variant" border="0">
-
-  > ### Field-Test Validation
-  > 
-  > The ECS was put through multi-phase stress trials across harsh test environments, including full vacuum simulation chambers, cryogenic chemical exposure fields, and live-fire toxic aerosol dispersal zones. In one extreme-case scenario, a pilot remained sealed and functional for 27 minutes inside a hull breach mock-up subjected to -210°C vacuum, solar UV saturation, and synthetic nerve-agent fog. Vital signs remained stable and post-recovery diagnostics showed zero contamination penetration. In another endurance test on a planets surface near a vented tritium reactor, the suit's ECS endured five successive radiation spikes while preserving internal thermal equilibrium. These field validations confirmed not only the ECS’s passive seal integrity but its active adaptability under compound environmental threats—solidifying its place as the unglamorous but irreplaceable backbone of TEXA survivability.
-
-</details>
-
-**- Neuro-Interface Conduit:** The Neuro-Interface Conduit (NIC) is the smart version of the standard issue collar ring built into every spacesuit. It contains the NIC sensor mesh, micro-signal amplifier, and a segmented titanium data bus that translate the wearer’s neural micro-signals and muscle twitches into clean servo commands, eliminating latency so the Exo-frame moves as fluidly as the user’s own limbs.
+**- Modular Armor Plating:** Detachable helmet, torso, arm, and leg modules secured via torque-bolt mounts for rapid reconfiguration.
 
 <details>
 
@@ -144,9 +174,12 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
 - Undersuit Naming Proposals: UC-MK1 Undersuit, Vanguard Weave, SYN-01 Bodysuit, KinetiCore Subshell
 
+- Power Rigs as 
+
 ----------
 
-## FREESTAR PROJECT - OPERATION DUSTWALL
+## FREESTAR PROJECT - OPERATION DUSTWALL - CODENAME LANCE (Layered Armored Neural Combat Equipment)
+## PROTOTYPE: RIDGEWALKER RIG Mk. I
 
   <img src="https://i.ibb.co/QF2rg0WD/Ridgewalker-Tactical-Model-II-Backpack-1.png" alt="Ridgewalker-Tactical-Model-II-Backpack-1" border="0">
 
