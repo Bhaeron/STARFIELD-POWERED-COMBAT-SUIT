@@ -79,17 +79,13 @@ After the 2311 Armistice outlawed all mech technology, both projects vanished fr
 
 <details>
 
-  _<summary>Environmental Containment System</summary>_
+  _<summary>Environmental Containment System Details</summary>_
 
-3D IMAGE!
+  <img src="https://i.ibb.co/XkvSH5qf/Environmental-Containment-System-ECS-Variant.png" alt="Environmental-Containment-System-ECS-Variant" border="0">
 
-  > ### Functionality
+  > ### Field-Test Validation
   > 
-  > 1. ...
-  > 
-  > ### Field Testing
-  > 
-  > Classified UC Defence Advanced Systems spin-off from zero-G salvage rigs. Public files list it only as a “neural telemetry coupler”; deeper research remains double-sealed.
+  > The ECS was put through multi-phase stress trials across harsh test environments, including full vacuum simulation chambers, cryogenic chemical exposure fields, and live-fire toxic aerosol dispersal zones. In one extreme-case scenario, a pilot remained      > sealed and functional for 27 minutes inside a hull breach mock-up subjected to -210°C vacuum, solar UV saturation, and synthetic nerve-agent fog. Vital signs remained stable and post-recovery diagnostics showed zero contamination penetration. In another     > endurance test on the Martian surface near a vented tritium reactor, the suit's ECS endured five successive radiation spikes while preserving internal thermal equilibrium. These field validations confirmed not only the ECS’s passive seal integrity but its   > active adaptability under compound environmental threats—solidifying its place as the unglamorous but irreplaceable backbone of TEXA survivability.
 
 </details>
 
