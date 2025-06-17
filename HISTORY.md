@@ -119,11 +119,13 @@ Note: The NIC is absolutely mandatory. Without an active link, the exo-frame wil
 
 
 
-**- Modular Armor Plating:** Detachable helmet, torso, arm, and leg modules secured via torque-bolt mounts for rapid reconfiguration.
+**- Modular Armor Plating:** A suite of interchangeable modules that bolt directly onto the Exo-Frame above the Kinetic Dispersal Mesh (KDM), providing the primary barrier against ballistic, explosive, and energy threats. Each plate is offering an optimal strength-to-weight ratio and contoured to complement the frame’s flex points. 
+
+Detachable helmet, torso, arm, and leg modules secured via torque-bolt mounts for rapid reconfiguration.
 
 <details>
 
-  _<summary>Neuro-Interface Conduit Details</summary>_
+  _<summary>Modular Armor Plating Details</summary>_
 
   <img src="https://i.ibb.co/hx74ZZQY/UC-Neuro-Interface-Conduit-LEGACY.png" alt="UC-Neuro-Interface-Conduit-LEGACY" border="0">
 
@@ -136,6 +138,15 @@ Note: The NIC is absolutely mandatory. Without an active link, the exo-frame wil
   > Classified UC Defence Advanced Systems spin-off from zero-G salvage rigs. Public files list it only as a “neural telemetry coupler”; deeper research remains double-sealed.
 
 </details>
+
+## Armor System Breakdown
+
+### 3D Render: Modular Armor Plating
+![Modular Armor Plating](images/modular_armor_plating_render.png)
+
+### Layer Visualization: Armor Layers Diagram
+![Armor Layers Diagram](images/armor_layers_diagram.png)
+
 
 **- Mech Batteries:**
 
