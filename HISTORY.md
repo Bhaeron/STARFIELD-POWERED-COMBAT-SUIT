@@ -65,7 +65,7 @@ Note: The NIC is absolutely mandatory. Without an active link, the exo-frame wil
 
 <details>
 
-  _<summary>Neuro-Interface Conduit (NIC) Details</summary>_
+  _<summary>Neuro-Interface Conduit Details</summary>_
 
   <img src="https://i.ibb.co/hx74ZZQY/UC-Neuro-Interface-Conduit-LEGACY.png" alt="UC-Neuro-Interface-Conduit-LEGACY" border="0">
 
@@ -74,14 +74,14 @@ Note: The NIC is absolutely mandatory. Without an active link, the exo-frame wil
   > - Predictive Motion Sync: Custom firmware fuses cortical and EMG data into anticipatory servo commands, staging joint movement so the exo-frame feels like an extension of the pilot’s own body.
   > - Haptic Echo Feedback: Vibration motors in the collar ring and gloves transmit “pressure shadows” of impacts and weapon recoil, replacing bone-shaking jolts with gentle, informative pulses.
   > - Embedded Safety Brakes: A sub-millisecond neuropause circuit monitors cortical overload and severs assist drive if abnormal spikes occur, preventing neural or muscular injury.
-
+  >
   > ### Origin
   > 
   > Classified: Public files list it only as a “neural telemetry coupler”; deeper research remains double-sealed.
 
 </details>
 
-**- Environmental Containment System:** The Environmental Containment System is the TEXA armor line’s integrated life-support barrier, hermetically sealing the pilot from hazardous external conditions. Utilizing a micro-layered membrane beneath each modular armor plate, the ECS maintains internal atmospheric integrity against extreme temperatures, radiation bursts, toxic airborne contaminants, and vacuum environments. Though invisible from the outside, the ECS allows operators to remain combat-effective in environments that would rapidly incapacitate unprotected personnel.
+**- Environmental Containment System (ECS):** The ECS is TEXA’s next-generation life-support barrier, hermetically sealing the pilot against vacuum, radiation bursts, toxic aerosols, and extreme temperature swings. A micro-layered membrane beneath every armor plate maintains internal pressure and filters air in real time, while passive radiation laminates blunt ionizing spikes. Externally, the only visible evidence of the ECS is the backpack module—indistinguishable at a glance from the standard packs found on all Starfield suits. Inside, however, the ECS pack carries a far more advanced array of scrubbers, coolant reservoirs, and rapid-seal pumps, giving it the highest efficiency and longest hazard endurance of any life-support system currently fielded.
 
 <details>
 
@@ -91,7 +91,12 @@ Note: The NIC is absolutely mandatory. Without an active link, the exo-frame wil
 
   > ### Field-Test Validation
   > 
-  > The ECS was put through multi-phase stress trials across harsh test environments, including full vacuum simulation chambers, cryogenic chemical exposure fields, and live-fire toxic aerosol dispersal zones. In one extreme-case scenario, a pilot remained sealed and functional for 27 minutes inside a hull breach mock-up subjected to -210°C vacuum, solar UV saturation, and synthetic nerve-agent fog. Vital signs remained stable and post-recovery diagnostics showed zero contamination penetration. In another endurance test on a planets surface near a vented tritium reactor, the suit's ECS endured five successive radiation spikes while preserving internal thermal equilibrium. These field validations confirmed not only the ECS’s passive seal integrity but its active adaptability under compound environmental threats—solidifying its place as the unglamorous but irreplaceable backbone of TEXA survivability.
+  > In a deep-vacuum chamber chilled to cryogenic temperatures and saturated with synthetic nerve-agent mist, a baseline UC “Hermes-IV” pack tripped its alarms within minutes. The ECS pack, by contrast, kept the pilot’s vitals stable for a duration several times longer, auto-sealing multiple micro-punctures without losing pressure or allowing contaminants past the membrane. Telemetry showed complete toxin exclusion and only a negligible drift in core temperature.
+  > ### Radiation Stress Trial
+  >
+  > Two identical exo-frames were stationed beside a venting tritium reactor. After successive gamma-flash spikes the baseline pack overheated and was pulled from the test. The ECS pack’s layered coolant loop and boron-silicate shielding maintained cabin conditions within the suit’s comfort envelope and kept cumulative exposure comfortably below UC safety thresholds. Post-test diagnostics found no filter breakthrough or coolant degradation.
+  >
+  > These trials confirm that, while the ECS pack looks just like any standard backpack module, its life-support efficiency and hazard endurance outperform current-issue packs by a decisive margin—keeping operators not just alive, but fully combat-effective in environments that would force lesser systems to retreat.
 
 </details>
 
@@ -119,7 +124,7 @@ Note: The NIC is absolutely mandatory. Without an active link, the exo-frame wil
 
 
 
-**- Modular Armor Plating:** A suite of interchangeable modules that bolt directly onto the Exo-Frame above the Kinetic Dispersal Mesh (KDM), providing the primary barrier against ballistic, explosive, and energy threats. Each plate is offering an optimal strength-to-weight ratio and contoured to complement the frame’s flex points. 
+**- Modular Armor Plating:** A suite of interchangeable plates that bolt directly onto the Exo-Frame above the Kinetic Dispersal Mesh (KDM), forming the primary barrier against ballistic, explosive, and energy threats. All segments — detachable helmet, torso, arm, and leg modules — fasten via standardized torque-bolt mounts, enabling quick swaps in the field while guaranteeing a vibration-free, combat-ready lock.
 
 Detachable helmet, torso, arm, and leg modules secured via torque-bolt mounts for rapid reconfiguration.
 
@@ -131,22 +136,14 @@ Detachable helmet, torso, arm, and leg modules secured via torque-bolt mounts fo
 
   > ### Functionality
   > 
-  > 1. ...
-  > 
-  > ### Origin
-  > 
-  > Classified UC Defence Advanced Systems spin-off from zero-G salvage rigs. Public files list it only as a “neural telemetry coupler”; deeper research remains double-sealed.
-
+  > Armor load-outs are rated on a continuous weight spectrum rather than fixed categories:
+  > - Light end of the spectrum: (Minimal Plate Set) favours stealth and agility.
+  > - Mid-range: (Default Loadout) combines balanced protection and mobility for general operations.
+  > - Heavy extreme: (Full Plate Stack) delivers maximum survivability at the cost of speed.
+ 
 </details>
 
 ## Armor System Breakdown
-
-### 3D Render: Modular Armor Plating
-![Modular Armor Plating](images/modular_armor_plating_render.png)
-
-### Layer Visualization: Armor Layers Diagram
-![Armor Layers Diagram](images/armor_layers_diagram.png)
-
 
 **- Mech Batteries:**
 
