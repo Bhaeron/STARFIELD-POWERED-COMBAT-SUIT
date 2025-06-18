@@ -124,22 +124,27 @@ Note: The NIC is absolutely mandatory. Without an active link, the exo-frame wil
 
 
 
-**- Modular Armor Plating:** A suite of interchangeable plates that bolt directly onto the Exo-Frame above the Kinetic Dispersal Mesh (KDM), forming the primary barrier against ballistic, explosive, and energy threats. All segments — detachable helmet, torso, arm, and leg modules — fasten via standardized torque-bolt mounts, enabling quick swaps in the field while guaranteeing a vibration-free, combat-ready lock.
-
-Detachable helmet, torso, arm, and leg modules secured via torque-bolt mounts for rapid reconfiguration.
+**- Modular Armor Plating:** A suite of interchangeable plates that bolt directly onto the Exo-Frame above the Kinetic Dispersal Mesh (KDM), forming the primary barrier against ballistic, explosive, and energy threats. All segments — a detachable helmet, a single torso shell, and two paired limb modules (one for both arms, one for both legs) — fasten via standardized torque-bolt mounts, enabling rapid reconfiguration in the field while guaranteeing a vibration-free, combat-ready lock.
 
 <details>
 
   _<summary>Modular Armor Plating Details</summary>_
 
-  <img src="https://i.ibb.co/hx74ZZQY/UC-Neuro-Interface-Conduit-LEGACY.png" alt="UC-Neuro-Interface-Conduit-LEGACY" border="0">
+IMAGE!
 
-  > ### Functionality
+  > ### Dynamic Weight Matrix (DWM)
   > 
-  > Armor load-outs are rated on a continuous weight spectrum rather than fixed categories:
-  > - Light end of the spectrum: (Minimal Plate Set) favours stealth and agility.
-  > - Mid-range: (Default Loadout) combines balanced protection and mobility for general operations.
-  > - Heavy extreme: (Full Plate Stack) delivers maximum survivability at the cost of speed.
+  > Load-outs are rated on a continuous weight spectrum rather than fixed categories and have three breakpoints: 
+  > 
+  > - Type-I (Light): Favours stealth and agility.
+  > - Type-II (Standard): Combines balanced protection and mobility for general operations.
+  > - Type-III (Hardplate): Delivers maximum survivability at the cost of speed.
+  > 
+  > Because the final weight class is determined by the sum of all fitted components, operators can mix-and-match plates (e.g., Heavy torso with Light limbs) to hit a precise protection-to-mobility sweet spot. Regardless of configuration, every plate is engineered for an optimal strength-to-weight ratio and contoured to preserve the frame’s full range of motion at every flex point.
+
+  > ### Symmetric Limb Module (SLM)
+  > 
+  > Early trials let operators mix a Heavy plate on one arm with a Light plate on the other. The Neuro-Interface Conduit (NIC) struggled to reconcile the asymmetric mass: reaction timing drifted, servo torque over-compensated, and testers reported a “rubber-band” effect when firing or vaulting obstacles. To prevent sync errors (and spare pilots a nasty case of neural lag), the armor program standardised each limb set as a single balanced module. Now, a Heavy Arm Module means both arms share weight and moment-of-inertia, keeping NIC latency low and movement natural — no matter which weight class the operator selects for the overall load-out.
  
 </details>
 
