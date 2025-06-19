@@ -116,7 +116,7 @@ Note: The NIC is absolutely mandatory. Without an active link, the exo-frame wil
 
 </details>
 
-**- Aneutronic Microfusion Cell (AMC) -_"the fuel"_:** A palm-sized cartridge of aneutronic fusion fuel that slots into the pack. When latched, it flash-heats into plasma and feeds the Pulse-Cell Reactor through a short, shielded conduit. One fresh cell keeps a fully armoured rig in the fight for “mission-length” (exact hours are redacted in Armistice records).
+**- Mech Battery or Aneutronic Microfusion Cell (AMC) -_"the fuel"_:** A palm-sized cartridge of aneutronic fusion fuel that slots into the pack. When latched, it flash-heats into plasma and feeds the Pulse-Cell Reactor through a short, shielded conduit. One fresh cell keeps a fully armoured rig in the fight for “mission-length” (exact hours are redacted in Armistice records).
 
 <details>
 
