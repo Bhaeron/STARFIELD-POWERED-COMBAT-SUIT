@@ -100,6 +100,40 @@ Note: The NIC is absolutely mandatory. Without an active link, the exo-frame wil
 
 </details>
 
+**- Pulse-Cell Reactor (PCR) _-"the generator"_:** A torso-sealed micro-reactor that converts fusion plasma into clean electrical power for the frame’s servos, NIC, and life-support. It’s a self-contained magnetic confinement unit roughly the size of a canteen; technicians never remove it outside a depot.
+
+<details>
+
+  _<summary>Pulse-Cell Reactor Details</summary>_
+
+  <img src="https://i.ibb.co/35SpWTrf/Pulse-Cell-Reactor-Legacy-1.png" alt="Pulse-Cell-Reactor-Legacy-1" border="0">
+
+  > ### ...
+  > ...
+
+  > ### ...
+  > ...
+
+</details>
+
+**- Aneutronic Microfusion Cell (AMC) -_"the fuel"_:** A palm-sized cartridge of aneutronic fusion fuel that slots into the pack. When latched, it flash-heats into plasma and feeds the Pulse-Cell Reactor through a short, shielded conduit. One fresh cell keeps a fully armoured rig in the fight for “mission-length” (exact hours are redacted in Armistice records).
+
+<details>
+
+  _<summary>Mech Battery Details</summary>_
+
+  <img src="https://i.ibb.co/5hMWbMTF/Mech-Battery-Legacy-1.png" alt="Mech-Battery-Legacy-1" border="0">
+
+  > ### Mech Battery
+  > 
+  > ...
+  > 
+  > ### Degrading Tears
+  > 
+  > ...
+
+</details>
+
 ### Middle Layer – Impact & Ballistic Shell
 
 **- Kinetic Dispersal Mesh (KDM):** The KDM is a structural layer embedded beneath the visible armor plates of the Sentinel Rig. It spreads incoming kinetic energy across a wider area, turning potentially lethal localized impacts into survivable, low-pressure pulses against the suit frame and the wearer’s body. 
