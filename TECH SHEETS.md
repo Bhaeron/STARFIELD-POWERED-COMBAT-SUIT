@@ -2,10 +2,11 @@
 
 ## PROLOGUE
 
-Conceived in 2310 as Project TEXA (Tactical Exo-Armor) was the United Colonies’ last-ditch attempt to cram full-sized mech fire-power into an infantry frame. Para-military prototypes entered live trials in 2311—too late to tip the Colony War, but early enough to prove the concept. Freestar operatives acquired a copy of the schematics, spawning Operation Dustwall and duplicating the design almost bolt-for-bolt. 
+Anders‑Rheinhold Systems (ARS) embedded itself in Gagarin Landing several years before the outbreak of the Colony War, pioneering a revolutionary technology known as the Neural‑Interface Conduit (NIC). Originally conceived by integrating repurposed firmware from Ryujin Industries and covertly acquired telemetry from Infinity LTD's dark project "Dominion", the NIC initially found use controlling industrial machinery and experimental mech interfaces.
 
-After the 2311 Armistice outlawed all mech technology, both projects vanished from every ledger. Rumors pin SPEAR to a hollowed asteroid dubbed Anchorpoint-Theta, somewhere beyond the last navigational beacons of the settled systems, while stray shipping pings hint that Dustwall migrated to an unregistered foundry drifting on the fringe of the outer systems. Out there—far from treaty inspectors—the twin-DNA rigs are said to keep evolving in secrecy. And they may not be alone: contraband routes run by Ecliptic fixers, Crimson Fleet breakers, and back-alley spacer yards already traffic in outlawed mech parts; each faction tweaking the tech in its own savage signature.
+Recognizing the potential for military application, the United Colonies (UC) approached Anders-Rheinhold to adapt the Conduit into a powered combat suit. This collaboration led to the birth of Project SPEAR (Strategic Protection & Engagement Armor Rig), a black project initiative designed to create the next generation of advanced military grade armor. To counter espionage the company maintained the image of a modest engineering firm in Gagarin Landing, performing routine industrial jobs. In reality, custom armor components were discreetly produced on site and shipped to a remote location for further assembly.
 
+Following the Colony War’s conclusion in 2311, the Armistice banned all mech technologies and forced the UC to officially shut down and seal Project SPEAR. Due to its black project origin however, pending audits to confirm compliance with treaty conditions never came. Most  actually involved people rotated out within the next few years. The attached "admiral-level-clearance” note made all successors choose wisely: Leave it alone!
 
 ## UC PROJECT - TEXA (Tactical Exo-Armor) - CODENAME SPEAR (Strategic Protection & Engagement Armor Rig)
 ## PROTOTYPE: SENTINEL RIG Mk. I
