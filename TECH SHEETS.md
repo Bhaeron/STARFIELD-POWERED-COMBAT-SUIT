@@ -6,16 +6,16 @@ Anders‑Rheinhold Systems (ARS) embedded itself in Gagarin Landing several year
 
 Recognizing the potential for military application, the United Colonies (UC) approached Anders-Rheinhold to adapt the Conduit into a powered combat suit. This collaboration led to the birth of Project SPEAR (Strategic Protection & Engagement Armor Rig), a black project initiative designed to create the next generation of advanced military grade armor. To counter espionage the company maintained the image of a modest engineering firm in Gagarin Landing, performing routine industrial jobs. In reality, custom armor components were discreetly produced on site and shipped to a remote location for further assembly.
 
-Following the Colony War’s conclusion in 2311, the Armistice banned all mech technologies and forced the UC to officially shut down and seal Project SPEAR. Due to its black project origin however, pending audits to confirm compliance with treaty conditions never came. Most  actually involved people rotated out within the next few years. The attached "admiral-level-clearance” note made all successors choose wisely: Leave it alone!
+Following the Colony War’s conclusion in 2311, the Armistice banned all mech technologies and forced the UC to officially shut down and seal Project SPEAR. Due to its black project origin and bureaucratic triage the pending audits to confirm compliance with treaty conditions never came. Most actually involved people rotated out within the next few years. The attached "admiral-level-clearance” note made all successors choose wisely: Leave it alone!
 
-## UC PROJECT - TEXA (Tactical Exo-Armor) - CODENAME SPEAR (Strategic Protection & Engagement Armor Rig)
-## PROTOTYPE: SENTINEL RIG Mk. I
+## UC BLACK PROJECT SPEAR (Strategic Protection & Engagement Armor Rig)
+## PROTOTYPE: SENTINEL RIG MK. I
 
   <img src="https://i.ibb.co/GDt62VL/Sentinel-Rig-Mk-II-Backpack-1.png" alt="Sentinel-Rig-Mk-II-Backpack-1" border="0">
 
 | **Overview**        | Details                                                                                                                                     |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Faction**         | United Colonies (UC) – developed by shell company Anders-Rheinhold Systems.                                                                 |
+| **Origin **         | United Colonies (UC) – developed by shell company Anders-Rheinhold Systems.                                                                 |
 | **Role**            | High-tech elite combat suit, designed for maximum protection and strategic superiority.                                                     |
 | **Architecture**    | Modular: Essential Custom Undersuit → Exo Frame → External & Internal Component Slots (Custom Helmet, Torso, Arms, Legs, Backpack and Core) |
 | **Power Source**    | Banned Mech Batteries                                                                                                                       |
@@ -203,14 +203,15 @@ IMAGE!
 
 </details>
 
+## General Design Choices: ## 
 
+- General silhouette: shoulder shape, , visor style, pack layout
 
+- Advanced silhouette: chest
 
-**- Modular Armor:** Components are attached via Captive Torque Bolts.
+- Detailing: decals, piping, wear patterns
 
-**- Unique: Gravitational Shield Generator (GSG):** Deflects ballistic and energy fire...
-
-**- Potential Modules:** 
+Areas you’re less certain about (maybe the chest or knee assemblies).
 
 - strength boost, just seamless, thought-level control.
 - Neuro-Reflex Conduit
