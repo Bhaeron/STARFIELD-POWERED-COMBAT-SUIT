@@ -2,13 +2,7 @@
 
 ## PROLOGUE
 
-Anders‑Rheinhold Systems (ARS) embedded itself in Gagarin Landing several years before the outbreak of the Colony War, pioneering a revolutionary technology known as the Neural‑Interface Conduit (NIC). Originally conceived by integrating repurposed firmware from Ryujin Industries and covertly acquired telemetry from Infinity LTD's dark project "Dominion", the NIC initially found use controlling industrial machinery and experimental mech interfaces.
-
-Recognizing the potential for military application, the United Colonies (UC) approached Anders-Rheinhold to adapt the Conduit into a powered combat suit. This collaboration led to the birth of Project SPEAR (Strategic Protection & Engagement Armor Rig), a black project initiative designed to create the next generation of advanced military grade armor. To counter espionage the company maintained the image of a modest engineering firm in Gagarin Landing, performing routine industrial jobs. In reality, custom armor components were discreetly produced on site and shipped to a remote location for further assembly.
-
-Following the Colony War’s conclusion in 2311, the Armistice banned all mech technologies and forced the UC to officially shut down and seal Project SPEAR. Due to its black project origin and bureaucratic triage the pending audits to confirm compliance with treaty conditions never came. Most directly involved personell rotated out within the next few years. Later oversight committees found that the easiest career move was to simply leave it alone. The attached "admiral-level-clearance” note made that choice easy.
-
-Recently, there have been rumors of a technician who quietly maintained minimal system functions for the facility during past years. 
+...
 
 ## UC BLACK PROJECT SPEAR (Strategic Protection & Engagement Armor Rig)
 ## PROTOTYPE: SENTINEL RIG MK. I
