@@ -1,20 +1,15 @@
 # POWERED COMBAT SUIT LORE DRAFT
-
-## PROLOGUE
-
-...
-
-## UC BLACK PROJECT SPEAR (Strategic Protection & Engagement Armor Rig)
+## PROJECT SPEAR (Strategic Protection & Engagement Armor Rig)
 ## PROTOTYPE: SENTINEL RIG MK. I
 
-  <img src="https://i.ibb.co/GDt62VL/Sentinel-Rig-Mk-II-Backpack-1.png" alt="Sentinel-Rig-Mk-II-Backpack-1" border="0">
+  <img src="https://i.ibb.co/nsFZG3Z9/SPEAR-SENTINEL-RIG-MK-I.png" alt="SPEAR-SENTINEL-RIG-MK-I" border="0">
 
 | **Overview**        | Details                                                                                                                                     |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Origin **         | United Colonies (UC) – developed by shell company Anders-Rheinhold Systems.                                                                 |
+| **Origin**          | United Colonies (UC) – developed by shell company Anders-Rheinhold Systems.                                                                 |
 | **Role**            | High-tech elite combat suit, designed for maximum protection and strategic superiority.                                                     |
-| **Architecture**    | Modular: Essential Custom Undersuit → Exo Frame → External & Internal Component Slots (Custom Helmet, Torso, Arms, Legs, Backpack and Core) |
-| **Power Source**    | Banned Mech Batteries                                                                                                                       |
+| **Architecture**    | Modular: Essential Undersuit → Exo Frame → External & Internal Component Slots (Helmet, Torso, Arms, Legs, Backpack and Core)               |
+| **Power Source**    | Mech Batteries (Contraband as per Armistice)                                                                                                |
 | **Visual Style**    | Sleek, industrial, factory-forged. Clean gunmetal plates, cobalt-lit accents, minimal visual clutter                                        |
                                                                                                               
 ## SPEAR - Core Tech
