@@ -116,3 +116,31 @@ Now the slate is in the player’s hands **without ever sitting inside CARVER HO
   UC protocol + Auditor’s grab + escape-pod loss neatly extracts **SRC 7/12** from the station long before it becomes a tomb, letting it pass through the underworld to your player.
 
 These explanations close the logical gaps, keep the secrecy airtight, and still give the campaign a clean way to place the master-slate wherever you want the player to find it.
+
+----------
+
+## VA'RUUN PROJECT - XXX
+
+----------
+
+| Category                         | **Ridgewalker Armor**                                                                                                                                                                  | **Sentinel Rig**                                                                                                                                                                                                  |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Architecture**                 | Modular format: **Undersuit → Servo Frame → Bolt-on Components** (backpack, helmet, L/R arms, L/R legs, torso).                                                                        | Modular format: **Undersuit → Servo Frame → Clip-on Components** (backpack, helmet, L/R arms, L/R legs, torso).                                                                                                   |
+| **Baseline Product Name**        | Ridgewalker Armor                                                                                                                                                                      | Sentinel Rig (internal tag SPEAR-Ω).                                                                                                                                                                              |
+| **Core Tech**                    | • **Environmental Containment System** (sealed ops)<br>• **Hydraulic Exo-Frame**<br>• **Modular Precision-Milled Armor Plates**<br>• **Haptic Relay Spine** – see “Unique Twist” below | • **Environmental Containment System** (sealed ops)<br>• **Gravitational Shield Generator** (micro-grav defense)<br>• **Hydraulic Exo-Frame**<br>• *(Optional)* **Neuro-Reflex Conduit** for subconscious control |
+| **Developer Cell**               | Iron Vow Consortium — nomadic engineers & ex-1st Cavalry mech pilots.                                                                                                                  | Anders-Rheinhold Systems hard-liner cabal.                                                                                                                                                                        |
+| **Ethical Shadow**               | Forged from salvaged mech tech — illegal but voluntary participation.                                                                                                                  | NRC derived from abducted Va’ruun zealot trials (only if installed).                                                                                                                                              |
+| **Ideology**                     | Frontier independence & individual prowess.                                                                                                                                            | Centralized order & command integration.                                                                                                                                                                          |
+| **Primary Variants / Nicknames** | • **Breachframe** (heavy)<br>• **Lancer Rig** (assault)<br>• **Ridgewalker Scout** (recon)                                                                                             | • **Blue Knight** (slang)<br>• **Ghost Shell** (slang)<br>• **Sentinel Rig** (cover term)                                                                                                                         |
+| **Status**                       | Several WIP suits in active field trials.                                                                                                                                              | One sealed prototype (modular, NRC slot empty by default).                                                                                                                                                        |
+| **Strategic Goal**               | Build treaty-skirting “mini-mechs” for frontier defense & raids.                                                                                                                       | Guarantee UC supremacy with a deniable elite exosuit.                                                                                                                                                             |
+| **Testing Zones**                | Asteroid hideouts, desert moons, derelict mech sites.                                                                                                                                   | Vault-sealed; rumored clandestine UC ranges.                                                                                                                                                                      |
+| **Visual Identity**              | • Cloak scraps<br>• Knight-like silhouette<br>• Personalized graffiti<br>• Stone-gray & dust-orange plates<br>• Visible hydraulics                                                     | • Cobalt emitter filaments<br>• Grav-projector nodes<br>• Gunmetal, streamlined industrial plating<br>• Non-visor helmet with recessed sensor slit<br>• Scar-resistant nano-coating                               |
+
+----------
+
+Additional World-Building Ideas
+
+Black-Market Factions:
+
+- Forge Rats on Cydonia strip old mech cores into jewelry and art; one fence secretly keeps functional units.
