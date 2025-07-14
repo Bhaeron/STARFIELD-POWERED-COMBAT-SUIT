@@ -1,8 +1,8 @@
-# POWERED COMBAT SUIT LORE DRAFT
-## PROJECT SPEAR (Strategic Protection & Engagement Armor Rig)
+# POWERED COMBAT SUIT LORE DRAFT 1
+## UC PROJECT - SPEAR (Strategic Protection & Engagement Armor Rig)
 ## PROTOTYPE: SENTINEL RIG MK. I
 
-  <img src="https://i.ibb.co/nsFZG3Z9/SPEAR-SENTINEL-RIG-MK-I.png" alt="SPEAR-SENTINEL-RIG-MK-I" border="0">
+  ...
 
 | **Overview**        | Details                                                                                                                                     |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
