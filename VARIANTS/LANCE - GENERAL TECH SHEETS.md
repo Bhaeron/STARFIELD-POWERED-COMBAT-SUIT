@@ -2,7 +2,7 @@
 ## FREESTAR PROJECT - LANCE (Layered Armored Neural Combat Equipment)
 ## PROTOTYPE: RIDGEWALKER RIG Mk. I
 
-  <img src="https://i.ibb.co/QF2rg0WD/Ridgewalker-Tactical-Model-II-Backpack-1.png" alt="Ridgewalker-Tactical-Model-II-Backpack-1" border="0">
+  <img src="https://i.ibb.co/TJ9MBhC/LANCE-RIDGEWALKER-RIG-MK-I.png" alt="LANCE-RIDGEWALKER-RIG-MK-I" border="0">
 
 | Overview         | Details                                                                                                          |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------- |
