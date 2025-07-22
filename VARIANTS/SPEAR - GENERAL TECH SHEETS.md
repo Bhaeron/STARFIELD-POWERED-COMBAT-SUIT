@@ -2,7 +2,7 @@
 ## UC PROJECT - SPEAR (Strategic Protection & Engagement Armor Rig)
 ## PROTOTYPE: SENTINEL RIG MK. I
 
-  <img src="https://i.ibb.co/nsFZG3Z9/SPEAR-SENTINEL-RIG-MK-I.png" alt="SPEAR-SENTINEL-RIG-MK-I" border="0">
+  <img src="https://i.ibb.co/6JyZXP8Z/SPEAR-SENTINEL-RIG-MK-I.png" alt="SPEAR-SENTINEL-RIG-MK-I" border="0">
 
 | **Overview**        | Details                                                                                                                                     |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -173,48 +173,4 @@ IMAGE!
   > Early trials let operators mix a Heavy plate on one arm with a Light plate on the other. The Neuro-Interface Conduit (NIC) struggled to reconcile the asymmetric mass: reaction timing drifted, servo torque over-compensated, and testers reported a “rubber-band” effect when firing or vaulting obstacles. To prevent sync errors (and spare pilots a nasty case of neural lag), the armor program standardised each limb set as a single balanced module. Now, a Heavy Arm Module means both arms share weight and moment-of-inertia, keeping NIC latency low and movement natural — no matter which weight class the operator selects for the overall load-out.
  
 </details>
-
-## Armor System Breakdown
-
-**- Mech Batteries:**
-
-<details>
-
-  _<summary>Mech Battery Details</summary>_
-
-  <img src="https://i.ibb.co/BHRnfwBy/Mech-Battery-Legacy.png" alt="Mech-Battery-Legacy" border="0">
-
-  > ### Mech Battery
-  > 
-  > 1. ...
-  > 
-  > ### Degrading Tears
-  > 
-  > 1. 
-
-</details>
-
-## General Design Choices: ## 
-
-- General silhouette: shoulder shape, , visor style, pack layout
-
-- Advanced silhouette: chest
-
-- Detailing: decals, piping, wear patterns
-
-Areas you’re less certain about (maybe the chest or knee assemblies).
-
-- strength boost, just seamless, thought-level control.
-- Neuro-Reflex Conduit
-
-- Backpack Unit: Boxy, reactor-grade power core with cobalt-lit maintenance ports and embedded shield capacitors
-- Material Accents: Matte graphite underlay, brushed titanium plates, fine recessed energy seams
-- Intended User: Paramilitary Spec-Ops, potential rollout for high-risk planetary warfare and deep space containment teams
-- Nicknames: Ghost Shell, Blue Knight, Sentinel Rig
-
-- Undersuit Naming Proposals: UC-MK1 Undersuit, Vanguard Weave, SYN-01 Bodysuit, KinetiCore Subshell
-
-- Power Rigs as 
-
-----------
 
