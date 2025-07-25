@@ -1,4 +1,7 @@
-# Anders-Rheinhold - Origin Storyy - Gagarin Landing? #
+# GENERAL NOTES #
+
+- Powerframe?
+- Battlerig?
 
 - Defunct Mech Manufacturing Contractor: Flourished in Gagarin Landing during the Colony War. The canonical lore tells us that Gagarin’s economy was centered on building mechs for the UC military.
 
