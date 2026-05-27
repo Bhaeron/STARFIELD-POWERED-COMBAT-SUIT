@@ -94,9 +94,9 @@ Note: The NIC is absolutely mandatory. Without an active link, the Exo-Frame wil
 
 <details>
 
-  _<summary>Pulse-Cell Reactor Details</summary>_
+  _<summary>Integrated Turbine Reactor Details</summary>_
 
-  <img src="https://i.ibb.co/35SpWTrf/Pulse-Cell-Reactor-Legacy-1.png" alt="Pulse-Cell-Reactor-Legacy-1" border="0">
+  <img src="https://i.ibb.co/4Z8r83SR/INTEGRATED-TURBINE-REACTOR-ITR.png" alt="INTEGRATED TURBINE REACTOR (ITR)" border="0">
 
   > ### ...
   > ...
@@ -111,7 +111,7 @@ Note: The NIC is absolutely mandatory. Without an active link, the Exo-Frame wil
 
   _<summary>Mech Battery Details</summary>_
 
-  <img src="https://i.ibb.co/5hMWbMTF/Mech-Battery-Legacy-1.png" alt="Mech-Battery-Legacy-1" border="0">
+  <img src="https://i.ibb.co/gLzyr3Mm/REACTIVE-FUEL-CELL-RFC.png" alt="REACTIVE FUEL CELL (RFC)" border="0">
 
   > ### Mech Battery
   > 
