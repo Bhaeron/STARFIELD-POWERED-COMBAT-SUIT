@@ -1,6 +1,6 @@
 # POWERED COMBAT SUIT LORE DRAFT 1
 ## UC PROJECT - SPEAR (Strategic Protection & Engagement Armor Rig)
-## PROTOTYPE: SENTINEL RIG MK. I
+## PROTOTYPE: AEGIS RIG MK. I
 
   <img src="https://i.ibb.co/6JyZXP8Z/SPEAR-SENTINEL-RIG-MK-I.png" alt="SPEAR-SENTINEL-RIG-MK-I" border="0">
 
@@ -9,14 +9,14 @@
 | **Origin**          | United Colonies (UC) – developed by shell company Anders-Rheinhold Systems.                                                                 |
 | **Role**            | High-tech elite combat suit, designed for maximum protection and strategic superiority.                                                     |
 | **Architecture**    | Modular: Undersuit → Exo Frame → External & Internal Component Slots (Helmet, Torso, Paired Arm Module, Paired Leg Module, Pack and Core)   |
-| **Power Source**    | Mech Batteries (Contraband as per Armistice)                                                                                                |
+| **Power Source**    | Closed-cycle twin-turbine which in turn uses Mech Batteries as energy source (Contraband as per Armistice)                                  |
 | **Visual Style**    | Sleek, industrial, factory-forged. Clean gunmetal plates, cobalt-lit accents, minimal visual clutter                                        |
                                                                                                               
 ## SPEAR - Core Tech
 
 ### Base Layer – Life & Motion Core
 
-**- Undersuit:** The Undersuit is a life-support sleeve engineered for combat endurance. It won’t stop a projectile, - that’s the Exo-Frame and armor component’s job. However, it keeps the operator chafe-free, thermally balanced, and guarded from lacerations and joint-bruising blows during the long grind between potential impacts.
+**- Undersuit:** The Undersuit is a life-support sleeve engineered for combat endurance. It keeps the operator chafe-free, thermally balanced, and guarded from lacerations and joint-bruising blows during long deployments.
 
 <details>
 
@@ -26,13 +26,13 @@
 
   > ### Undersuit
   > 
-  > - Duramesh Armorweave:	Flexible titanium-thread fabric resists cuts and other punctures.
+  > - Duramesh Armorweave: Flexible titanium-thread fabric resists cuts and other punctures.
   > - Reinforced Flex Panels: Hex-plated stretch zones at elbows, knees, and hips spread out blunt shocks while preserving full range of motion. 
   > - Other: Beneath the visible skin sit the phase-change fiber matrix, coolant capillaries, and biometric filaments that regulate temperature, wick moisture, and stream real-time vitals to the exo-suit’s control bus. 
 
 </details>
 
-**- Hydraulic Exo-Frame:** A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction, carries the armor’s mass, and by utilising the Kinetic Dispersal Mesh (KDM) soaks up battlefield recoil before it ever reaches flesh. Its modular struts route stresses through shock-dampening pivots and feed energy into assist motors, converting raw mechanical chaos into controlled, pilot-neutral motion.
+**- Hydraulic Exo-Frame:** A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction and carries the armor’s mass.
 
 <details>
 
@@ -49,9 +49,7 @@
 
 </details>
 
-in conjunction with hardwired
-
-**- Neuro-Interface Conduit (NIC):** The Neuro-Interface Conduit (NIC) is the smart version of the standard issue collar ring built into every spacesuit. It contains the NIC sensor mesh, micro-signal amplifier, and a segmented titanium data bus that translate the wearer’s neural micro-signals and muscle twitches into clean servo commands, eliminating latency so the Exo-Frame moves as fluidly as the user’s own limbs.
+**- Neuro-Interface Conduit (NIC):** The Neuro-Interface Conduit (NIC) is the smart version of the standard issue collar ring built into every spacesuit. It contains the NIC sensor mesh, micro-signal amplifier, and a segmented data bus that translate the wearer’s neural micro-signals and muscle twitches into clean servo commands, eliminating latency so the Exo-Frame moves as fluidly as the user’s own limbs.
 
 Note: The NIC is absolutely mandatory. Without an active link, the Exo-Frame will not budge even 1 cm!
 
@@ -73,7 +71,7 @@ Note: The NIC is absolutely mandatory. Without an active link, the Exo-Frame wil
 
 </details>
 
-**- Environmental Containment System (ECS):** The ECS is a next-generation life-support barrier, hermetically sealing the pilot against vacuum, radiation bursts, toxic aerosols, and extreme temperature swings. A micro-layered membrane beneath every armor plate maintains internal pressure and filters air in real time, while passive radiation laminates blunt ionizing spikes. Externally, the only visible evidence of the ECS is the backpack module—indistinguishable at a glance from the standard packs found on all Starfield suits. Inside, however, the ECS pack carries a far more advanced array of scrubbers, coolant reservoirs, and rapid-seal pumps, giving it the highest efficiency and longest hazard endurance of any life-support system currently fielded.
+**- Environmental Containment System (ECS):** The ECS is a next-generation life-support barrier, hermetically sealing the pilot against vacuum, radiation bursts, toxic aerosols, and extreme temperature swings. Externally, the only visible evidence of the ECS is the backpack module—indistinguishable at a glance from the standard packs found on all Starfield suits. Inside, however, the ECS pack carries a far more advanced array of scrubbers, coolant reservoirs, and rapid-seal pumps, giving it the highest efficiency and longest hazard endurance of any life-support system currently fielded.
 
 <details>
 
@@ -92,7 +90,7 @@ Note: The NIC is absolutely mandatory. Without an active link, the Exo-Frame wil
 
 </details>
 
-**- Pulse-Cell Reactor (PCR) _-"the generator"_:** A torso-sealed micro-reactor that converts fusion plasma into clean electrical power for the frame’s servos, NIC, and life-support. It’s a self-contained magnetic confinement unit roughly the size of a canteen; technicians never remove it outside a depot.
+**- Integrated Turbine Reactor (ITR) _-"the power plant"_:** A dual-spool microturbine assembly mounted within the rear power pack. It converts superheated plasma exhaust into continuous electrical output for the rig's primary and secondary systems. The standard unit is factory-balanced, heavily shielded, and considered non-serviceable outside certified depot facilities.
 
 <details>
 
@@ -108,8 +106,7 @@ Note: The NIC is absolutely mandatory. Without an active link, the Exo-Frame wil
 
 </details>
 
-**- Mech Battery or Aneutronic Microfusion Cell (AMC) -_"the fuel"_:** A palm-sized cartridge of aneutronic fusion fuel that slots into the pack. When latched, it flash-heats into plasma and feeds the Pulse-Cell Reactor through a short, shielded conduit. One fresh cell keeps a fully equipped rig in the fight for “mission-length” (exact hours are redacted in Armistice records).
-
+**- Mech Battery or Reactive Fuel Cell (RFC) -_"the fuel"_:** A dense, armored energy cartridge containing ignition reactants suspended under extreme pressure. Once seated inside the pack, the cartridge converts its fuel into high-energy plasma which is routed directly into the Twin-Turbine Power Unit through reinforced thermal conduits. The resulting plasma stream both sustains turbine rotation and feeds the suit’s internal capacitor banks for peak combat loads. Exact endurance figures remain classified.
 <details>
 
   _<summary>Mech Battery Details</summary>_
@@ -162,9 +159,9 @@ IMAGE!
   > 
   > Load-outs are rated on a continuous weight spectrum rather than fixed categories and have three breakpoints: 
   > 
-  > - Type-I (Light): Favours stealth and agility.
-  > - Type-II (Standard): Combines balanced protection and mobility for general operations.
-  > - Type-III (Heavy): Delivers maximum survivability at the cost of speed.
+  > - Class-I (Light): Favours stealth and agility.
+  > - Class-II (Standard): Combines balanced protection and mobility for general operations.
+  > - Class-III (Heavy): Delivers maximum survivability at the cost of speed.
   > 
   > Because the final weight class is determined by the sum of all fitted components, operators can mix-and-match plates (e.g., Heavy torso with Light limbs) to hit a precise protection-to-mobility sweet spot. Regardless of configuration, every plate is engineered for an optimal strength-to-weight ratio and contoured to preserve the frame’s full range of motion at every flex point.
 
