@@ -14,7 +14,9 @@
                                                                                                               
 ## SPEAR - Core Tech
 
-### Base Layer – Life & Motion Core
+### Operator
+
+### Inner Layer – Life & Motion Core
 
 **- Undersuit:** The Undersuit is a life-support sleeve engineered for combat endurance. It keeps the operator chafe-free, thermally balanced, and guarded from lacerations and joint-bruising blows during long deployments.
 
@@ -29,23 +31,6 @@
   > - Duramesh Armorweave: Flexible titanium-thread fabric resists cuts and other punctures.
   > - Reinforced Flex Panels: Hex-plated stretch zones at elbows, knees, and hips spread out blunt shocks while preserving full range of motion. 
   > - Other: Beneath the visible skin sit the phase-change fiber matrix, coolant capillaries, and biometric filaments that regulate temperature, wick moisture, and stream real-time vitals to the exo-suit’s control bus. 
-
-</details>
-
-**- Hydraulic Exo-Frame:** A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction and carries the armor’s mass.
-
-<details>
-
-  _<summary>Hydraulic Exo-Frame Details</summary>_
-
-  <img src="https://i.ibb.co/CsmDCg9m/UC-Exo-Frame-LEGACY.png" alt="UC-Exo-Frame-LEGACY" border="0">
-
-  > ### Hydraulic Exo-Frame
-  >
-  > - Mag-Servo Actuators: High-torque motors embedded at joints multiply natural muscle movements, allowing heavy armor plating and equipment to be carried effortlessly.
-  > - Shock-Dampening Pivot Joints: Integrated flex-hubs absorb impact shocks and weapon recoil, dispersing kinetic energy through the Exo-Frame before it reaches the pilot.
-  > - Spinal Power Conduit: Central spine column houses graphene power busses and data channels, efficiently routing energy and telemetry across the frame.
-  > - Torque-Bolt Mounting System: Modular armor plates and auxiliary equipment securely attach using standardized torque bolts, ensuring precise, vibration-resistant coupling that’s easily field-serviceable.
 
 </details>
 
@@ -68,6 +53,23 @@ Note: The NIC is absolutely mandatory. Without an active link, the Exo-Frame wil
   > ### Origin
   > 
   > Classified: Public files list it only as a “neural telemetry coupler”; deeper research remains double-sealed.
+
+</details>
+
+**- Hydraulic Exo-Frame:** A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction and carries the armor’s mass.
+
+<details>
+
+  _<summary>Hydraulic Exo-Frame Details</summary>_
+
+  <img src="https://i.ibb.co/CsmDCg9m/UC-Exo-Frame-LEGACY.png" alt="UC-Exo-Frame-LEGACY" border="0">
+
+  > ### Hydraulic Exo-Frame
+  >
+  > - Mag-Servo Actuators: High-torque motors embedded at joints multiply natural muscle movements, allowing heavy armor plating and equipment to be carried effortlessly.
+  > - Shock-Dampening Pivot Joints: Integrated flex-hubs absorb impact shocks and weapon recoil, dispersing kinetic energy through the Exo-Frame before it reaches the pilot.
+  > - Spinal Power Conduit: Central spine column houses graphene power busses and data channels, efficiently routing energy and telemetry across the frame.
+  > - Torque-Bolt Mounting System: Modular armor plates and auxiliary equipment securely attach using standardized torque bolts, ensuring precise, vibration-resistant coupling that’s easily field-serviceable.
 
 </details>
 
@@ -123,29 +125,7 @@ Note: The NIC is absolutely mandatory. Without an active link, the Exo-Frame wil
 
 </details>
 
-### Middle Layer – Impact & Ballistic Shell
-
-**- Kinetic Dispersal Mesh (KDM):** The KDM is a structural layer embedded beneath the visible armor plates of the rig. It spreads incoming kinetic energy across a wider area, turning potentially lethal localized impacts into survivable, low-pressure pulses against the suit frame and the wearer’s body. 
-
-<details>
-
-  _<summary>Kinetic Dispersal Mesh Details</summary>_
-
-  <img src="https://i.ibb.co/q4QKhcF/Kinetic-Dispersal-Mesh-KDM-3-D.png" alt="Kinetic-Dispersal-Mesh-KDM-3-D" border="0">
-
-  <img src="https://i.ibb.co/pBCKLwwR/Kinetic-Dispersal-Mesh-KDM-PROTOTYPE.png" alt="Kinetic-Dispersal-Mesh-KDM-PROTOTYPE" border="0">
-
-  > ### Impact Timeline (KDM)
-  > 
-  > 1. Penetrator Defeat: Bullet or shrapnel hits outer plate → partially blunted or fragmented.
-  > 2. Energy Diffusion: Force enters the KDL micro-lattice. Each cell wall flexes, transferring load to adjacent cells in a split-millisecond ripple.
-  > 3. Gel Damping: Shear-thickening polymer stiffens under sudden shear, slowing lattice movement and converting peak impulse into longer, lower-amplitude waves.
-  > 4. Wearer Feel: Inside the suit, the wearer feels a muted thud rather than a bone-breaking impact.
-  > OPTIONAL Piezo Recovery: Shock membrane compresses → piezo elements generate small electric charge → routed to suit capacitor (Small percentage of power recovery on heavy hits).
-
-</details>
-
-
+### Outer Layer – Impact & Ballistic Shell
 
 **- Modular Armor Plating:** A suite of interchangeable plates that bolt directly onto the Exo-Frame above the Kinetic Dispersal Mesh (KDM), forming the primary barrier against ballistic, explosive, and energy threats. All segments — a detachable helmet, a single torso shell, and two paired limb modules (one for both arms, one for both legs) — fasten via standardized torque-bolt mounts, enabling rapid reconfiguration in the field while guaranteeing a vibration-free, combat-ready lock.
 
@@ -171,3 +151,20 @@ IMAGE!
  
 </details>
 
+**- Kinetic Dispersal Mesh (KDM):** The KDM is a structural layer embedded beneath the visible armor plates of the rig. It spreads incoming kinetic energy across a wider area, turning potentially lethal localized impacts into survivable, low-pressure pulses against the suit frame and the wearer’s body. 
+
+<details>
+
+  _<summary>Kinetic Dispersal Mesh Details</summary>_
+
+  <img src="https://i.ibb.co/pBCKLwwR/Kinetic-Dispersal-Mesh-KDM-PROTOTYPE.png" alt="Kinetic-Dispersal-Mesh-KDM-PROTOTYPE" border="0">
+
+  > ### Impact Timeline (KDM)
+  > 
+  > 1. Penetrator Defeat: Bullet or shrapnel hits outer plate → partially blunted or fragmented.
+  > 2. Energy Diffusion: Force enters the KDL micro-lattice. Each cell wall flexes, transferring load to adjacent cells in a split-millisecond ripple.
+  > 3. Gel Damping: Shear-thickening polymer stiffens under sudden shear, slowing lattice movement and converting peak impulse into longer, lower-amplitude waves.
+  > 4. Wearer Feel: Inside the suit, the wearer feels a muted thud rather than a bone-breaking impact.
+  > OPTIONAL Piezo Recovery: Shock membrane compresses → piezo elements generate small electric charge → routed to suit capacitor (Small percentage of power recovery on heavy hits).
+
+</details>
