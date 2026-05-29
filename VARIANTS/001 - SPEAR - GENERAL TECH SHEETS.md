@@ -30,15 +30,15 @@ The Undersuit is a life-support sleeve engineered for combat endurance. It keeps
 
   > ### Undersuit with integrated Neuro-Interface Conduit
   > 
-  > Duramesh Armorweave: A flexible titanium-thread fabric that resists cuts, punctures, abrasion, and environmental wear while remaining comfortable enough for extended deployments.
-  > Reinforced Flex Panels: Hex-plated stretch zones at the elbows, knees, shoulders, and hips distribute blunt impacts and reduce joint strain without restricting mobility.
-  > Integrated Life-Support & Neuro-Interface Network: Beneath the visible outer layer sits a woven matrix of phase-change fibers, coolant capillaries, biometric filaments, and the Neuro-Interface Conduit (NIC). Together they regulate temperature, wick moisture, monitor operator health, and maintain a continuous neural link between wearer and Exo-Frame. The NIC's sensor mesh, signal amplifiers, and predictive motion software translate neural micro-signals and muscle activity into anticipatory servo commands, allowing the frame to move as naturally as the operator's own body. 
-  
-  Note: Without an active NIC link, the Exo-Frame remains electronically locked and incapable of powered movement.
+  > - Duramesh Armorweave: A flexible titanium-thread fabric that resists cuts, punctures, abrasion, and environmental wear while remaining comfortable enough for extended deployments.
+  > - Reinforced Flex Panels: Hex-plated stretch zones at the elbows, knees, shoulders, and hips distribute blunt impacts and reduce joint strain without restricting mobility.
+  > - Integrated Life-Support & Neuro-Interface Network: Beneath the visible outer layer sits a woven matrix of phase-change fibers, coolant capillaries, biometric filaments, and the Neuro-Interface Conduit (NIC). Together they regulate temperature, wick moisture, monitor operator health, and maintain a continuous neural link between wearer and Exo-Frame. The NIC's sensor mesh, signal amplifiers, and predictive motion software translate neural micro-signals and muscle activity into anticipatory servo commands, allowing the frame to move as naturally as the operator's own body.
+  > - Note: Without an active NIC link, the Exo-Frame remains electronically locked and incapable of powered movement.
+>   - The NIC links up with the NIC in the Exo-Frame
 
 </details>
 
-**- Hydraulic Exo-Frame:** A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction and carries the armor’s mass.
+**- Hydraulic Exo-Frame with Neuro-Interface Socket:** A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction and carries the armor’s mass.
 
 <details>
 
