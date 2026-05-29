@@ -18,41 +18,23 @@
 
 ### Inner Layer – Life & Motion Core
 
-**- Undersuit:** The Undersuit is a life-support sleeve engineered for combat endurance. It keeps the operator chafe-free, thermally balanced, and guarded from lacerations and joint-bruising blows during long deployments.
+**- Undersuit with integrated Neuro-Interface Conduit:** 
+
+The Undersuit is a life-support sleeve engineered for combat endurance. It keeps the operator chafe-free, thermally balanced, and guarded from lacerations and joint-bruising blows during long deployments.
 
 <details>
 
-  _<summary>Undersuit Details</summary>_
+  _<summary>Undersuit with integrated Neuro-Interface Conduit Details</summary>_
 
-  <img src="https://i.ibb.co/hxJ9237j/UC-Undersuit-LEGACY.png" alt="UC-Undersuit-LEGACY" border="0">
+  <img src="https://i.ibb.co/LD5bhDQT/UNDERSUIT-WITH-NEURO-INTERFACE-CONDUIT.png" alt="UNDERSUIT WITH NEURO INTERFACE CONDUIT" border="0">
 
-  > ### Undersuit
+  > ### Undersuit with integrated Neuro-Interface Conduit
   > 
-  > - Duramesh Armorweave: Flexible titanium-thread fabric resists cuts and other punctures.
-  > - Reinforced Flex Panels: Hex-plated stretch zones at elbows, knees, and hips spread out blunt shocks while preserving full range of motion. 
-  > - Other: Beneath the visible skin sit the phase-change fiber matrix, coolant capillaries, and biometric filaments that regulate temperature, wick moisture, and stream real-time vitals to the exo-suit’s control bus. 
-
-</details>
-
-**- Neuro-Interface Conduit (NIC):** The Neuro-Interface Conduit (NIC) is the smart version of the standard issue collar ring built into every spacesuit. It contains the NIC sensor mesh, micro-signal amplifier, and a segmented data bus that translate the wearer’s neural micro-signals and muscle twitches into clean servo commands, eliminating latency so the Exo-Frame moves as fluidly as the user’s own limbs.
-
-Note: The NIC is absolutely mandatory. Without an active link, the Exo-Frame will not budge even 1 cm!
-
-<details>
-
-  _<summary>Neuro-Interface Conduit Details</summary>_
-
-  <img src="https://i.ibb.co/hx74ZZQY/UC-Neuro-Interface-Conduit-LEGACY.png" alt="UC-Neuro-Interface-Conduit-LEGACY" border="0">
-
-  > ### Neuro-Interface Conduit (NIC)
-  >
-  > - Predictive Motion Sync: Custom firmware fuses cortical and EMG data into anticipatory servo commands, staging joint movement so the Exo-Frame feels like an extension of the pilot’s own body.
-  > - Haptic Echo Feedback: Vibration motors in the collar ring and gloves transmit “pressure shadows” of impacts and weapon recoil, replacing bone-shaking jolts with gentle, informative pulses.
-  > - Embedded Safety Brakes: A sub-millisecond neuropause circuit monitors cortical overload and severs assist drive if abnormal spikes occur, preventing neural or muscular injury.
-  >
-  > ### Origin
-  > 
-  > Classified: Public files list it only as a “neural telemetry coupler”; deeper research remains double-sealed.
+  > Duramesh Armorweave: A flexible titanium-thread fabric that resists cuts, punctures, abrasion, and environmental wear while remaining comfortable enough for extended deployments.
+  > Reinforced Flex Panels: Hex-plated stretch zones at the elbows, knees, shoulders, and hips distribute blunt impacts and reduce joint strain without restricting mobility.
+  > Integrated Life-Support & Neuro-Interface Network: Beneath the visible outer layer sits a woven matrix of phase-change fibers, coolant capillaries, biometric filaments, and the Neuro-Interface Conduit (NIC). Together they regulate temperature, wick moisture, monitor operator health, and maintain a continuous neural link between wearer and Exo-Frame. The NIC's sensor mesh, signal amplifiers, and predictive motion software translate neural micro-signals and muscle activity into anticipatory servo commands, allowing the frame to move as naturally as the operator's own body. 
+  
+  Note: Without an active NIC link, the Exo-Frame remains electronically locked and incapable of powered movement.
 
 </details>
 
