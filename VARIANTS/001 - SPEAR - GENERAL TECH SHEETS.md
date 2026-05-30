@@ -2,7 +2,7 @@
 ## UC PROJECT - SPEAR (Strategic Protection & Engagement Armor Rig)
 ## PROTOTYPE: AEGIS RIG MK. I
 
-  <img src="https://i.ibb.co/Mkwsxmhv/SPEAR-AEGIS-RIG-MK-I-UPSCALED.png" alt="SPEAR AEGIS RIG MK I UPSCALED" border="0">
+  <img src="https://i.ibb.co/VYD7dmDx/SPEAR-AEGIS-RIG-MK-I.png" alt="SPEAR AEGIS RIG MK I" border="0">
 
 | **Overview**        | Details                                                                                                                                     |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
