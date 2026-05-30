@@ -2,7 +2,7 @@
 ## UC PROJECT - SPEAR (Strategic Protection & Engagement Armor Rig)
 ## PROTOTYPE: AEGIS RIG MK. I
 
-  <img src="https://i.ibb.co/6JyZXP8Z/SPEAR-SENTINEL-RIG-MK-I.png" alt="SPEAR-SENTINEL-RIG-MK-I" border="0">
+  <img src="https://i.ibb.co/Mkwsxmhv/SPEAR-AEGIS-RIG-MK-I-UPSCALED.png" alt="SPEAR AEGIS RIG MK I UPSCALED" border="0">
 
 | **Overview**        | Details                                                                                                                                     |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -18,27 +18,26 @@
 
 ### Inner Layer – Life & Motion Core
 
-**- Undersuit with integrated Neuro-Interface Conduit:** 
+**- Undersuit with integrated Neuro-Interface Conduit (NIC):** 
 
-The Undersuit is a life-support sleeve engineered for combat endurance. It keeps the operator chafe-free, thermally balanced, and guarded from lacerations and joint-bruising blows during long deployments.
+The Undersuit is a life-support sleeve engineered for combat endurance. It keeps the operator chafe-free, thermally balanced, and guarded from lacerations and joint-bruising blows during long deployments. Integrated throughout the suit is the Neuro-Interface Conduit (NIC), a neural-control network that translates the operator's intent into seamless Exo-Frame movement, enabling the powered suit to function as a natural extension of the body.
 
 <details>
 
-  _<summary>Undersuit with integrated Neuro-Interface Conduit Details</summary>_
+  _<summary>Undersuit with integrated Neuro-Interface Conduit (NIC)</summary>_
 
   <img src="https://i.ibb.co/LD5bhDQT/UNDERSUIT-WITH-NEURO-INTERFACE-CONDUIT.png" alt="UNDERSUIT WITH NEURO INTERFACE CONDUIT" border="0">
 
-  > ### Undersuit with integrated Neuro-Interface Conduit
+  > ### Undersuit with integrated Neuro-Interface Conduit (NIC)
   > 
   > - Duramesh Armorweave: A flexible titanium-thread fabric that resists cuts, punctures, abrasion, and environmental wear while remaining comfortable enough for extended deployments.
   > - Reinforced Flex Panels: Hex-plated stretch zones at the elbows, knees, shoulders, and hips distribute blunt impacts and reduce joint strain without restricting mobility.
   > - Integrated Life-Support & Neuro-Interface Network: Beneath the visible outer layer sits a woven matrix of phase-change fibers, coolant capillaries, biometric filaments, and the Neuro-Interface Conduit (NIC). Together they regulate temperature, wick moisture, monitor operator health, and maintain a continuous neural link between wearer and Exo-Frame. The NIC's sensor mesh, signal amplifiers, and predictive motion software translate neural micro-signals and muscle activity into anticipatory servo commands, allowing the frame to move as naturally as the operator's own body.
   > - Note: Without an active NIC link, the Exo-Frame remains electronically locked and incapable of powered movement.
->   - The NIC links up with the NIC in the Exo-Frame
 
 </details>
 
-**- Hydraulic Exo-Frame with Neuro-Interface Socket:** A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction and carries the armor’s mass.
+**- Hydraulic Exo-Frame with Neuro-Interface Coupling Port (NIC-P):** A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction and carries the armor’s mass.
 
 <details>
 
@@ -129,7 +128,7 @@ IMAGE!
 
   > ### Symmetric Limb Module (SLM)
   > 
-  > Early trials let operators mix a Heavy plate on one arm with a Light plate on the other. The Neuro-Interface Conduit (NIC) struggled to reconcile the asymmetric mass: reaction timing drifted, servo torque over-compensated, and testers reported a “rubber-band” effect when firing or vaulting obstacles. To prevent sync errors (and spare pilots a nasty case of neural lag), the armor program standardised each limb set as a single balanced module. Now, a Heavy Arm Module means both arms share weight and moment-of-inertia, keeping NIC latency low and movement natural — no matter which weight class the operator selects for the overall load-out.
+  > Early trials let operators mix a Heavy plate on one arm with a Light plate on the other. The Neuro-Interface Conduit (NIC) (NIC) struggled to reconcile the asymmetric mass: reaction timing drifted, servo torque over-compensated, and testers reported a “rubber-band” effect when firing or vaulting obstacles. To prevent sync errors (and spare pilots a nasty case of neural lag), the armor program standardised each limb set as a single balanced module. Now, a Heavy Arm Module means both arms share weight and moment-of-inertia, keeping NIC latency low and movement natural — no matter which weight class the operator selects for the overall load-out.
  
 </details>
 
