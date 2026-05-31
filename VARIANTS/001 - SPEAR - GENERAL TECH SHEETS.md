@@ -1,6 +1,10 @@
-# POWERED COMBAT SUIT LORE DRAFT 1
-## UC PROJECT - SPEAR (Strategic Protection & Engagement Armor Rig)
+# POWERED COMBAT SUIT / POWER RIG LORE DRAFT
+## UC PROJECT: SPEAR (Strategic Protection & Engagement Armor Rig)
 ## PROTOTYPE: AEGIS RIG MK. I
+
+  <p align="center">
+  <img src="https://i.ibb.co/tpGSYkGC/ANDERS-RHEINHOLD-SYSTEMS-FINAL.png" alt="ANDERS RHEINHOLD SYSTEMS FINAL" border="0">
+  </p>
 
   <img src="https://i.ibb.co/VYD7dmDx/SPEAR-AEGIS-RIG-MK-I.png" alt="SPEAR AEGIS RIG MK I" border="0">
 
@@ -28,29 +32,34 @@ The Undersuit is a life-support sleeve engineered for combat endurance. It keeps
 
   <img src="https://i.ibb.co/LD5bhDQT/UNDERSUIT-WITH-NEURO-INTERFACE-CONDUIT.png" alt="UNDERSUIT WITH NEURO INTERFACE CONDUIT" border="0">
 
-  > ### Undersuit with integrated Neuro-Interface Conduit (NIC)
-  > 
-  > - Duramesh Armorweave: A flexible titanium-thread fabric that resists cuts, punctures, abrasion, and environmental wear while remaining comfortable enough for extended deployments.
-  > - Reinforced Flex Panels: Hex-plated stretch zones at the elbows, knees, shoulders, and hips distribute blunt impacts and reduce joint strain without restricting mobility.
-  > - Integrated Life-Support & Neuro-Interface Network: Beneath the visible outer layer sits a woven matrix of phase-change fibers, coolant capillaries, biometric filaments, and the Neuro-Interface Conduit (NIC). Together they regulate temperature, wick moisture, monitor operator health, and maintain a continuous neural link between wearer and Exo-Frame. The NIC's sensor mesh, signal amplifiers, and predictive motion software translate neural micro-signals and muscle activity into anticipatory servo commands, allowing the frame to move as naturally as the operator's own body.
+  > ### Duramesh Armorweave:
+  > A flexible titanium-thread fabric that resists cuts, punctures, abrasion, and environmental wear while remaining comfortable enough for extended deployments.
+  >
+  > ### Reinforced Flex Panels:
+  > Hex-plated stretch zones at the elbows, knees, shoulders, and hips distribute blunt impacts and reduce joint strain without restricting mobility.
+  >
+  > ### Integrated Life-Support & Neuro-Interface Network:
+  > Beneath the visible outer layer sits a woven matrix of phase-change fibers, coolant capillaries, biometric filaments, and the Neuro-Interface Conduit (NIC). Together they regulate temperature, wick moisture, monitor operator health, and maintain a continuous neural link between wearer and Exo-Frame. The NIC's sensor mesh, signal amplifiers, and predictive motion software translate neural micro-signals and muscle activity into anticipatory servo commands, allowing the frame to move as naturally as the operator's own body.
   > - Note: Without an active NIC link, the Exo-Frame remains electronically locked and incapable of powered movement.
 
 </details>
 
-**- Hydraulic Exo-Frame with Neuro-Interface Coupling Port (NIC-P):** A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction and carries the armor’s mass.
+**- Hydraulic Exo-Frame with Neuro-Interface Coupling Port (NIC-P):**
+
+A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction and carries the armor's mass. Integrated shock-dampening joints disperse impacts and recoil while a reinforced central spine routes power, telemetry, and control signals across the frame. At its core, the Neuro-Interface Coupling Port (NIC-P) links directly to the Undersuit's Neuro-Interface Conduit, allowing the Exo-Frame to move as a natural extension of the operator's body.A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction and carries the armor’s mass.
 
 <details>
 
-  _<summary>Hydraulic Exo-Frame Details</summary>_
+  _<summary>Hydraulic Exo-Frame with Neuro-Interface Coupling Port (NIC-P)</summary>_
 
-  <img src="https://i.ibb.co/CsmDCg9m/UC-Exo-Frame-LEGACY.png" alt="UC-Exo-Frame-LEGACY" border="0">
+  <img src="https://i.ibb.co/fVKnvcYz/EXO-SKELETON-WITH-NEURO-INTERFACE-CONDUIT.png" alt="EXO SKELETON WITH NEURO INTERFACE CONDUIT" border="0">
 
-  > ### Hydraulic Exo-Frame
+  > ### Hydraulic Exo-Frame with Neuro-Interface Coupling Port (NIC-P)
   >
-  > - Mag-Servo Actuators: High-torque motors embedded at joints multiply natural muscle movements, allowing heavy armor plating and equipment to be carried effortlessly.
-  > - Shock-Dampening Pivot Joints: Integrated flex-hubs absorb impact shocks and weapon recoil, dispersing kinetic energy through the Exo-Frame before it reaches the pilot.
+  > - Mag-Servo Actuators: High-torque electromagnetic actuators embedded throughout the frame amplify natural movement, allowing the operator to carry heavy armor plating, weapons, and equipment with minimal physical strain.
+  > - Shock-Dampening Pivot Joints: Reinforced flex-hubs at major articulation points absorb impacts, weapon recoil, and sudden loads, dispersing kinetic energy throughout the frame before it can reach the operator.
   > - Spinal Power Conduit: Central spine column houses graphene power busses and data channels, efficiently routing energy and telemetry across the frame.
-  > - Torque-Bolt Mounting System: Modular armor plates and auxiliary equipment securely attach using standardized torque bolts, ensuring precise, vibration-resistant coupling that’s easily field-serviceable.
+  > - Integrated Control & Distribution Network: A central spine assembly houses the frame's power buses, data channels, and the Neuro-Interface Coupling Port (NICP). Together they route energy, telemetry, and neural-control signals between subsystems, translating operator intent into servo movement while maintaining continuous communication with the Undersuit's Neuro-Interface Conduit (NIC). Without a valid NIC-NIC-P connection, the Exo-Frame remains electronically locked and incapable of powered movement.
 
 </details>
 
@@ -79,13 +88,16 @@ The Undersuit is a life-support sleeve engineered for combat endurance. It keeps
 
   _<summary>Integrated Turbine Reactor Details</summary>_
 
-  <img src="https://i.ibb.co/4Z8r83SR/INTEGRATED-TURBINE-REACTOR-ITR.png" alt="INTEGRATED TURBINE REACTOR (ITR)" border="0">
+  <img src="https://i.ibb.co/JFH1dPcM/INTEGRATED-TURBINE-REACTOR-ITR.png" alt="INTEGRATED TURBINE REACTOR (ITR)" border="0">
 
-  > ### ...
-  > ...
-
-  > ### ...
-  > ...
+  > ### Dual-Turbine Power Core:
+  > Counter-rotating microturbines housed within the Power Pack convert high-energy plasma into continuous electrical output for the Exo-Frame's actuators, armor systems, sensors, and life-support equipment. Their opposing rotation minimizes vibration while maximizing power generation under sustained combat loads.
+  >
+  > ### Power Distribution & Load Management:
+  > Integrated capacitor banks and control electronics regulate reactor output, storing reserve energy for sudden demand spikes such as sprinting, jump-assist maneuvers, or heavy weapon operation. A reinforced power-and-data backbone continuously distributes electricity throughout the suit while monitoring thermal load, fuel consumption, and system health to prevent overload or catastrophic failure...
+  > 
+  > ### Two-Phase Plasma Conversion Cycle:
+  > The ITR is fed by the Reactive Fuel Cell (RFC), which stores its fuel in a stable dormant state for transport and handling. Once activated inside the Power Pack, the RFC flash-converts its contents into superheated plasma and delivers it to the reactor, where the plasma stream drives the turbines before being recaptured, cooled, and vented through armored thermal-management channels.
 
 </details>
 
@@ -94,7 +106,7 @@ The Undersuit is a life-support sleeve engineered for combat endurance. It keeps
 
   _<summary>Mech Battery Details</summary>_
 
-  <img src="https://i.ibb.co/gLzyr3Mm/REACTIVE-FUEL-CELL-RFC.png" alt="REACTIVE FUEL CELL (RFC)" border="0">
+  <img src="https://i.ibb.co/hx68ggZj/REACTIVE-FUEL-CELL-RFC.png" alt="REACTIVE FUEL CELL (RFC)" border="0">
 
   > ### Mech Battery
   > 
