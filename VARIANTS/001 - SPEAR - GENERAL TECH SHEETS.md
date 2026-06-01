@@ -6,7 +6,7 @@
   <img src="https://i.ibb.co/tpGSYkGC/ANDERS-RHEINHOLD-SYSTEMS-FINAL.png" alt="ANDERS RHEINHOLD SYSTEMS FINAL" border="0">
   </p>
 
-  <img src="https://i.ibb.co/VYD7dmDx/SPEAR-AEGIS-RIG-MK-I.png" alt="SPEAR AEGIS RIG MK I" border="0">
+  <img src="https://i.ibb.co/yc0V3pB9/SPEAR-AEGIS-RIG-MK-I-REVISION-I.png" alt="SPEAR AEGIS RIG MK I REVISION I" border="0">
 
 | **Overview**        | Details                                                                                                                                     |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
