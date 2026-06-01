@@ -18,9 +18,7 @@
                                                                                                               
 ## SPEAR - Core Tech
 
-### Operator
-
-### Inner Layer – Life & Motion Core
+### Layer I — Operator Integration Layer
 
 **- Undersuit with integrated Neuro-Interface Conduit (NIC):** 
 
@@ -40,13 +38,15 @@ The Undersuit is a life-support sleeve engineered for combat endurance. It keeps
   >
   > ### Integrated Life-Support & Neuro-Interface Network:
   > Beneath the visible outer layer sits a woven matrix of phase-change fibers, coolant capillaries, biometric filaments, and the Neuro-Interface Conduit (NIC). Together they regulate temperature, wick moisture, monitor operator health, and maintain a continuous neural link between wearer and Exo-Frame. The NIC's sensor mesh, signal amplifiers, and predictive motion software translate neural micro-signals and muscle activity into anticipatory servo commands, allowing the frame to move as naturally as the operator's own body.
-  > - Note: Without an active NIC link, the Exo-Frame remains electronically locked and incapable of powered movement.
+  > - Note: Without a valid NIC-NIC-P connection, the Exo-Frame remains electronically locked and incapable of powered movement.
 
 </details>
 
+### Layer II — Powered Combat Chassis
+
 **- Hydraulic Exo-Frame with Neuro-Interface Coupling Port (NIC-P):**
 
-A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction and carries the armor's mass. Integrated shock-dampening joints disperse impacts and recoil while a reinforced central spine routes power, telemetry, and control signals across the frame. At its core, the Neuro-Interface Coupling Port (NIC-P) links directly to the Undersuit's Neuro-Interface Conduit, allowing the Exo-Frame to move as a natural extension of the operator's body.A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction and carries the armor’s mass.
+A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction and carries the armor's mass. Integrated shock-dampening joints disperse impacts and recoil while a reinforced central spine routes power, telemetry, and control signals across the frame. At its core, the Neuro-Interface Coupling Port (NIC-P) links directly to the Undersuit's Neuro-Interface Conduit (NIC).
 
 <details>
 
@@ -54,35 +54,39 @@ A titanium-carbon latticework that envelops the pilot like a second set of bones
 
   <img src="https://i.ibb.co/fVKnvcYz/EXO-SKELETON-WITH-NEURO-INTERFACE-CONDUIT.png" alt="EXO SKELETON WITH NEURO INTERFACE CONDUIT" border="0">
 
-  > ### Hydraulic Exo-Frame with Neuro-Interface Coupling Port (NIC-P)
+  > ### Mag-Servo Actuators:
+  > High-torque electromagnetic actuators embedded throughout the frame amplify natural movement, allowing the operator to carry heavy armor plating, weapons, and equipment with minimal physical strain.
   >
-  > - Mag-Servo Actuators: High-torque electromagnetic actuators embedded throughout the frame amplify natural movement, allowing the operator to carry heavy armor plating, weapons, and equipment with minimal physical strain.
-  > - Shock-Dampening Pivot Joints: Reinforced flex-hubs at major articulation points absorb impacts, weapon recoil, and sudden loads, dispersing kinetic energy throughout the frame before it can reach the operator.
-  > - Spinal Power Conduit: Central spine column houses graphene power busses and data channels, efficiently routing energy and telemetry across the frame.
-  > - Integrated Control & Distribution Network: A central spine assembly houses the frame's power buses, data channels, and the Neuro-Interface Coupling Port (NICP). Together they route energy, telemetry, and neural-control signals between subsystems, translating operator intent into servo movement while maintaining continuous communication with the Undersuit's Neuro-Interface Conduit (NIC). Without a valid NIC-NIC-P connection, the Exo-Frame remains electronically locked and incapable of powered movement.
+  > ### Shock-Dampening Pivot Joints:
+  > Reinforced flex-hubs at major articulation points absorb impacts, weapon recoil, and sudden loads, dispersing kinetic energy throughout the frame before it can reach the operator.
+  > 
+  > ### Integrated Control & Distribution Network:
+  > A central spine assembly houses the frame's power buses, data channels, and the Neuro-Interface Coupling Port (NICP). Together they route energy, telemetry, and neural-control signals between subsystems, translating operator intent into servo movement while maintaining continuous communication with the Undersuit's Neuro-Interface Conduit (NIC).
+  >   - Note: Without a valid NIC-NIC-P connection, the Exo-Frame remains electronically locked and incapable of powered movement.
 
 </details>
 
-**- Environmental Containment System (ECS):** The ECS is a next-generation life-support barrier, hermetically sealing the pilot against vacuum, radiation bursts, toxic aerosols, and extreme temperature swings. Externally, the only visible evidence of the ECS is the backpack module—indistinguishable at a glance from the standard packs found on all Starfield suits. Inside, however, the ECS pack carries a far more advanced array of scrubbers, coolant reservoirs, and rapid-seal pumps, giving it the highest efficiency and longest hazard endurance of any life-support system currently fielded.
+**- Environmental Containment System (ECS):** The Environmental Containment System (ECS) is an integrated life-support and hazard-protection network embedded throughout the Powered Combat Chassis. Working alongside the suit's sealed armor architecture, it protects the operator from vacuum exposure, radiation bursts, toxic aerosols, and extreme temperatures.
+Although much of the system is housed within the rear chassis pack, the ECS extends throughout the suit via coolant lines, atmospheric conduits, emergency seal mechanisms, and environmental sensors. Advanced filtration, high-capacity coolant reservoirs, and rapid-response pressure regulation allow the ECS to maintain safe operating conditions far beyond the limits of conventional UC life-support systems.
 
 <details>
 
-  _<summary>Environmental Containment System Details</summary>_
+  _<summary>Environmental Containment System</summary>_
 
   <img src="https://i.ibb.co/XkvSH5qf/Environmental-Containment-System-ECS-Variant.png" alt="Environmental-Containment-System-ECS-Variant" border="0">
 
   > ### Field-Test Validation
   > 
-  > In a deep-vacuum chamber chilled to cryogenic temperatures and saturated with synthetic nerve-agent mist, a baseline UC Marine Pack tripped its alarms within minutes. The ECS pack, by contrast, kept the pilot’s vitals stable for a duration several times longer, auto-sealing multiple micro-punctures without losing pressure or allowing contaminants past the membrane. Telemetry showed complete toxin exclusion and only a negligible drift in core temperature.
+  > In a deep-vacuum chamber chilled to cryogenic temperatures and saturated with synthetic nerve-agent mist, a baseline UC Marine pack exceeded safe operating limits within minutes. A SPEAR chassis equipped with the Environmental Containment System (ECS), by contrast, maintained stable atmospheric pressure, operator vitals, and thermal conditions for a duration several times longer. During testing, the ECS automatically isolated and sealed multiple simulated micro-punctures without measurable pressure loss or contaminant ingress. Telemetry recorded complete toxin exclusion and only negligible deviation from nominal core temperature.
   > ### Radiation Stress Trial
   >
-  > Two identical Exo-Frames were stationed beside a venting tritium reactor. After successive gamma-flash spikes the baseline pack overheated and was pulled from the test. The ECS pack’s layered coolant loop and boron-silicate shielding maintained cabin conditions within the suit’s comfort envelope and kept cumulative exposure comfortably below UC safety thresholds. Post-test diagnostics found no filter breakthrough or coolant degradation.
+  > Two identical Powered Combat Chassis units were positioned adjacent to a venting tritium reactor. Following successive gamma-flash events, the baseline life-support package overheated and was removed from testing. The ECS-equipped chassis continued operating within established performance parameters. Its distributed coolant network and integrated radiation shielding systems maintained habitable internal conditions while keeping cumulative operator exposure well below United Colonies safety thresholds. Post-trial diagnostics revealed no filter breakthrough, coolant degradation, or environmental control failures.
   >
-  > These trials confirm that, while the ECS pack looks a lot like any standard pack module, its life-support efficiency and hazard endurance outperform current-issue packs by a decisive margin—keeping operators not just alive, but fully combat-effective in environments that would force lesser systems to fail.
+  > These trials confirm that the Environmental Containment System is not merely an improved life-support package, but a fully integrated environmental sustainment subsystem. By combining advanced atmospheric management, thermal regulation, and hazard protection directly into the Powered Combat Chassis, the ECS enables operators to remain both alive and combat-effective in environments that would rapidly overwhelm conventional equipment.
 
 </details>
 
-**- Integrated Turbine Reactor (ITR) _-"the power plant"_:** A dual-spool microturbine assembly mounted within the rear power pack. It converts superheated plasma exhaust into continuous electrical output for the rig's primary and secondary systems. The standard unit is factory-balanced, heavily shielded, and considered non-serviceable outside certified depot facilities.
+**- Integrated Turbine Reactor (ITR):** A dual-spool microturbine assembly mounted within the rear power pack. It converts superheated plasma exhaust into continuous electrical output for the rig's primary and secondary systems. The standard unit is factory-balanced, heavily shielded, and considered non-serviceable outside certified depot facilities.
 
 <details>
 
