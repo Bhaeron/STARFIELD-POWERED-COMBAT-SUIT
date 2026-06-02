@@ -66,7 +66,9 @@ A titanium-carbon latticework that envelops the pilot like a second set of bones
 
 </details>
 
-**- Environmental Containment System (ECS):** Although much of the system is housed within the rear chassis pack, it is an integrated life-support and hazard-protection network embedded throughout the Powered Combat Chassis. Working alongside the suit's sealed armor architecture, it protects the operator from vacuum exposure, radiation bursts, toxic aerosols, and extreme temperatures. The ECS extends throughout the suit via coolant lines, atmospheric conduits, emergency seal mechanisms, and environmental sensors. Advanced filtration, high-capacity coolant reservoirs, and rapid-response pressure regulation allow the ECS to maintain safe operating conditions beyond the limits of conventional life-support systems.
+**- Environmental Containment System (ECS):** 
+
+Although much of the system is housed within the rear chassis pack, it is an integrated life-support and hazard-protection network embedded throughout the Powered Combat Chassis. Working alongside the suit's sealed armor architecture, it protects the operator from vacuum exposure, radiation bursts, toxic aerosols, and extreme temperatures. The ECS extends throughout the suit via coolant lines, atmospheric conduits, emergency seal mechanisms, and environmental sensors. Advanced filtration, high-capacity coolant reservoirs, and rapid-response pressure regulation allow the ECS to maintain safe operating conditions beyond the limits of conventional life-support systems.
 
 <details>
 
@@ -85,13 +87,15 @@ A titanium-carbon latticework that envelops the pilot like a second set of bones
 
 </details>
 
-**Integrated Turbine Reactor (ITR):** A closed-cycle twin-turbine integrated into the rear chassis pack. Utilizing condensed Helium-3 reaction mass supplied by the Reactive Fuel Cell (RFC), the ITR generates electrical power for all primary and secondary suit systems. Upon reaching operating speed, the reactor assumes full system load while the RFC's auxiliary fuel-rod core transitions to reserve status. An integrated energy recovery network recaptures excess thermal and electrical output for capacitor charging and emergency reserve functions. The twin-turbine architecture provides inherent redundancy, allowing continued operation following partial reactor damage. All units are factory-balanced, heavily shielded, and non-serviceable outside certified depot facilities.
+**Integrated Turbine Reactor (ITR):** 
+
+A closed-cycle twin-turbine integrated into the rear chassis pack. Utilizing condensed Helium-3 reaction mass supplied by the Reactive Fuel Cell (RFC), the ITR generates electrical power for all primary and secondary suit systems. Upon reaching operating speed, the reactor assumes full system load while the RFC's auxiliary fuel-rod core transitions to reserve status. An integrated energy recovery network recaptures excess thermal and electrical output for capacitor charging and emergency reserve functions. The twin-turbine architecture provides inherent redundancy, allowing continued operation following partial reactor damage. All units are factory-balanced, heavily shielded, and non-serviceable outside certified depot facilities.
 
 <details>
 
-  _<summary>Integrated Turbine Reactor Details</summary>_
+  _<summary>Integrated Turbine Reactor</summary>_
 
-  <img src="https://i.ibb.co/JFH1dPcM/INTEGRATED-TURBINE-REACTOR-ITR.png" alt="INTEGRATED TURBINE REACTOR (ITR)" border="0">
+  <img src="https://i.ibb.co/F4yWs1Bw/INTEGRATED-TURBINE-REACTOR-ITR-VARIANT.png" alt="INTEGRATED TURBINE REACTOR (ITR) VARIANT" border="0">
 
   > ### Dual-Turbine Power Core:
   > A closed-cycle, counter-rotating twin-turbine assembly housed within the rear chassis pack. Supplied with superheated plasma generated from the Reactive Fuel Cell's (RFC) condensed Helium-3 reaction mass, the turbines convert thermal energy into continuous electrical output for the Hydraulic Exo-Frame, Environmental Containment System (ECS), propulsion modules, armor systems, sensors, and onboard combat         > electronics. The redundant twin-turbine architecture allows essential functions to remain operational following partial reactor damage or turbine failure.
@@ -105,21 +109,24 @@ A titanium-carbon latticework that envelops the pilot like a second set of bones
 
 </details>
 
-**- Mech Battery or Reactive Fuel Cell (RFC):** A compact, armored energy cartridge serving as the primary fuel and auxiliary power source of the Powered Combat Chassis. Derived from advanced Mech Battery technology, the RFC integrates a fuel-rod auxiliary power core and a condensed Helium-3 reaction mass reservoir into a single field-replaceable unit. The cartridge provides immediate startup power for critical suit systems while supplying the Integrated Turbine Reactor (ITR) with the fuel necessary for sustained power generation. Its dual-phase architecture ensures graceful performance degradation under combat conditions, preserving essential functionality even after primary power reserves have been exhausted.
+**Small-format Mech Battery or Reactive Fuel Cell (RFC):**
+
+A compact, armored energy cartridge serving as the primary fuel and auxiliary power source of the Powered Combat Chassis. Derived from advanced Mech Battery technology, the RFC integrates a fuel-rod auxiliary power core and a condensed Helium-3 reaction mass reservoir into a single field-replaceable unit. The cartridge provides immediate startup power for critical suit systems while supplying the Integrated Turbine Reactor (ITR) with the fuel necessary for sustained power generation. Its dual-phase architecture ensures graceful performance degradation under combat conditions, preserving essential functionality even after primary power reserves have been exhausted.
 
 <details>
 
-  _<summary>Mech Battery Details</summary>_
+  _<summary>Small-format Mech Battery or Reactive Fuel Cell (RFC)</summary>_
 
-  <img src="https://i.ibb.co/hx68ggZj/REACTIVE-FUEL-CELL-RFC.png" alt="REACTIVE FUEL CELL (RFC)" border="0">
+  <img src="https://i.ibb.co/svT5Ms5T/REACTIVE-FUEL-CELL-RFC-VARIANT.png" alt="REACTIVE FUEL CELL (RFC) VARIANT" border="0">
 
-  > ### Mech Battery
+  > ### Dual-Phase Energy Cartridge:
+  > A compact, enhanced and armored successor to the standard Mech Battery, the Reactive Fuel Cell (RFC) serves as the primary consumable power source for the Powered Combat Chassis. Internally, the RFC is divided into two independent energy chambers: a fuel-rod auxiliary power core and a condensed Helium-3 reaction mass reservoir. This dual-phase architecture allows the suit to maintain critical functionality      > throughout multiple stages of fuel depletion and combat damage.
   > 
-  > ...
+  > ### Phase I - Auxiliary Power & Turbine Start System:
+  > Upon insertion, the RFC's fuel-rod core immediately energizes the suit's secondary systems, including the Environmental Containment System (ECS), Neuro-Interface Conduit (NIC), communications suite, diagnostics package, and reactor startup circuitry. This auxiliary output remains available even if the Integrated Turbine Reactor (ITR) is offline, damaged, or deprived of reaction mass, ensuring continued operator survivability during emergency conditions.
   > 
-  > ### Degrading Tiers
-  > 
-  > ...
+  > ### Phase II - Helium-3 Reaction Mass Supply:
+  > The RFC's secondary chamber stores a highly condensed and stabilized Helium-3 reaction mass used to sustain the Integrated Turbine Reactor (ITR). During operation, reaction mass is metered into the reactor where it is converted into superheated plasma to drive the twin-turbine power cycle. As fuel reserves diminish, reactor performance gradually degrades through defined endurance states rather than suffering    > immediate failure, allowing operators to retain essential systems and emergency functionality even after primary propulsion and mobility capabilities have been exhausted.
 
 </details>
 
