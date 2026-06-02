@@ -18,9 +18,9 @@
                                                                                                               
 ## SPEAR - Core Tech
 
-### Layer I — Operator Integration Layer
+### Layer I: Operator Integration Layer
 
-**- Undersuit with integrated Neuro-Interface Conduit (NIC):** 
+**Undersuit with integrated Neuro-Interface Conduit (NIC):** 
 
 The Undersuit is a life-support sleeve engineered for combat endurance. It keeps the operator chafe-free, thermally balanced, and guarded from lacerations and joint-bruising blows during long deployments. Integrated throughout the suit is the Neuro-Interface Conduit (NIC), a neural-control network that translates the operator's intent into seamless Exo-Frame movement, enabling the powered suit to function as a natural extension of the body.
 
@@ -42,9 +42,9 @@ The Undersuit is a life-support sleeve engineered for combat endurance. It keeps
 
 </details>
 
-### Layer II — Powered Combat Chassis
+### Layer II: Powered Combat Chassis
 
-**- Hydraulic Exo-Frame with Neuro-Interface Coupling Port (NIC-P):**
+**Hydraulic Exo-Frame with Neuro-Interface Coupling Port (NIC-P):**
 
 A titanium-carbon latticework that envelops the pilot like a second set of bones, the Exo-Frame multiplies every muscle contraction and carries the armor's mass. Integrated shock-dampening joints disperse impacts and recoil while a reinforced central spine routes power, telemetry, and control signals across the frame. At its core, the Neuro-Interface Coupling Port (NIC-P) links directly to the Undersuit's Neuro-Interface Conduit (NIC).
 
@@ -66,8 +66,7 @@ A titanium-carbon latticework that envelops the pilot like a second set of bones
 
 </details>
 
-**- Environmental Containment System (ECS):** The Environmental Containment System (ECS) is an integrated life-support and hazard-protection network embedded throughout the Powered Combat Chassis. Working alongside the suit's sealed armor architecture, it protects the operator from vacuum exposure, radiation bursts, toxic aerosols, and extreme temperatures.
-Although much of the system is housed within the rear chassis pack, the ECS extends throughout the suit via coolant lines, atmospheric conduits, emergency seal mechanisms, and environmental sensors. Advanced filtration, high-capacity coolant reservoirs, and rapid-response pressure regulation allow the ECS to maintain safe operating conditions far beyond the limits of conventional UC life-support systems.
+**- Environmental Containment System (ECS):** Although much of the system is housed within the rear chassis pack, it is an integrated life-support and hazard-protection network embedded throughout the Powered Combat Chassis. Working alongside the suit's sealed armor architecture, it protects the operator from vacuum exposure, radiation bursts, toxic aerosols, and extreme temperatures. The ECS extends throughout the suit via coolant lines, atmospheric conduits, emergency seal mechanisms, and environmental sensors. Advanced filtration, high-capacity coolant reservoirs, and rapid-response pressure regulation allow the ECS to maintain safe operating conditions beyond the limits of conventional life-support systems.
 
 <details>
 
