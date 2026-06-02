@@ -85,7 +85,7 @@ A titanium-carbon latticework that envelops the pilot like a second set of bones
 
 </details>
 
-**Integrated Turbine Reactor (ITR):** A closed-cycle twin-turbine power plant integrated into the rear chassis pack. Utilizing condensed Helium-3 reaction mass supplied by the Reactive Fuel Cell (RFC), the ITR generates electrical power for all primary and secondary suit systems. Upon reaching operating speed, the reactor assumes full system load while the RFC's auxiliary fuel-rod core transitions to reserve status. An integrated energy recovery network recaptures excess thermal and electrical output for capacitor charging and emergency reserve functions. The twin-turbine architecture provides inherent redundancy, allowing continued operation following partial reactor damage. All units are factory-balanced, heavily shielded, and non-serviceable outside certified depot facilities.
+**Integrated Turbine Reactor (ITR):** A closed-cycle twin-turbine integrated into the rear chassis pack. Utilizing condensed Helium-3 reaction mass supplied by the Reactive Fuel Cell (RFC), the ITR generates electrical power for all primary and secondary suit systems. Upon reaching operating speed, the reactor assumes full system load while the RFC's auxiliary fuel-rod core transitions to reserve status. An integrated energy recovery network recaptures excess thermal and electrical output for capacitor charging and emergency reserve functions. The twin-turbine architecture provides inherent redundancy, allowing continued operation following partial reactor damage. All units are factory-balanced, heavily shielded, and non-serviceable outside certified depot facilities.
 
 <details>
 
@@ -105,7 +105,8 @@ A titanium-carbon latticework that envelops the pilot like a second set of bones
 
 </details>
 
-**- Mech Battery or Reactive Fuel Cell (RFC) -_"the fuel"_:** A dense, armored energy cartridge containing ignition reactants suspended under extreme pressure. Once seated inside the pack, the cartridge converts its fuel into high-energy plasma which is routed directly into the Twin-Turbine Power Unit through reinforced thermal conduits. The resulting plasma stream both sustains turbine rotation and feeds the suit’s internal capacitor banks for peak combat loads. Exact endurance figures remain classified.
+**- Mech Battery or Reactive Fuel Cell (RFC):** A compact, armored energy cartridge serving as the primary fuel and auxiliary power source of the Powered Combat Chassis. Derived from advanced Mech Battery technology, the RFC integrates a fuel-rod auxiliary power core and a condensed Helium-3 reaction mass reservoir into a single field-replaceable unit. The cartridge provides immediate startup power for critical suit systems while supplying the Integrated Turbine Reactor (ITR) with the fuel necessary for sustained power generation. Its dual-phase architecture ensures graceful performance degradation under combat conditions, preserving essential functionality even after primary power reserves have been exhausted.
+
 <details>
 
   _<summary>Mech Battery Details</summary>_
@@ -116,7 +117,7 @@ A titanium-carbon latticework that envelops the pilot like a second set of bones
   > 
   > ...
   > 
-  > ### Degrading Tears
+  > ### Degrading Tiers
   > 
   > ...
 
@@ -165,3 +166,22 @@ IMAGE!
   > OPTIONAL Piezo Recovery: Shock membrane compresses → piezo elements generate small electric charge → routed to suit capacitor (Small percentage of power recovery on heavy hits).
 
 </details>
+
+## SPEAR - Expanded Component Inventory / List
+
+- Helmet
+- Torso
+- Arm Module
+- Leg Module
+- Pack
+- Core
+
+## SPEAR - Additional Tech
+
+- Cradle
+- Drop Pod
+- Ship Hab / Armory
+
+## Notes
+
+- ITR: Two different fuel rod types for different types of stats - Core Module Variant?
