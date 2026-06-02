@@ -38,7 +38,7 @@ The Undersuit is a life-support sleeve engineered for combat endurance. It keeps
   >
   > ### Integrated Life-Support & Neuro-Interface Network:
   > Beneath the visible outer layer sits a woven matrix of phase-change fibers, coolant capillaries, biometric filaments, and the Neuro-Interface Conduit (NIC). Together they regulate temperature, wick moisture, monitor operator health, and maintain a continuous neural link between wearer and Exo-Frame. The NIC's sensor mesh, signal amplifiers, and predictive motion software translate neural micro-signals and muscle activity into anticipatory servo commands, allowing the frame to move as naturally as the operator's own body.
-  > - Note: Without a valid NIC-NIC-P connection, the Exo-Frame remains electronically locked and incapable of powered movement.
+  > - Note: Without a valid NIC to NIC-P connection, the Exo-Frame remains electronically locked and incapable of powered movement.
 
 </details>
 
@@ -61,8 +61,8 @@ A titanium-carbon latticework that envelops the pilot like a second set of bones
   > Reinforced flex-hubs at major articulation points absorb impacts, weapon recoil, and sudden loads, dispersing kinetic energy throughout the frame before it can reach the operator.
   > 
   > ### Integrated Control & Distribution Network:
-  > A central spine assembly houses the frame's power buses, data channels, and the Neuro-Interface Coupling Port (NICP). Together they route energy, telemetry, and neural-control signals between subsystems, translating operator intent into servo movement while maintaining continuous communication with the Undersuit's Neuro-Interface Conduit (NIC).
-  >   - Note: Without a valid NIC-NIC-P connection, the Exo-Frame remains electronically locked and incapable of powered movement.
+  > A central spine assembly houses the frame's power buses, data channels, and the Neuro-Interface Coupling Port (NIC-P). Together they route energy, telemetry, and neural-control signals between subsystems, translating operator intent into servo movement while maintaining continuous communication with the Undersuit's Neuro-Interface Conduit (NIC).
+  >   - Note: Without a valid NIC to NIC-P connection, the Exo-Frame remains electronically locked and incapable of powered movement.
 
 </details>
 
@@ -85,7 +85,7 @@ A titanium-carbon latticework that envelops the pilot like a second set of bones
 
 </details>
 
-**- Integrated Turbine Reactor (ITR):** A dual-spool microturbine assembly mounted within the rear power pack. It converts superheated plasma exhaust into continuous electrical output for the rig's primary and secondary systems. The standard unit is factory-balanced, heavily shielded, and considered non-serviceable outside certified depot facilities.
+**Integrated Turbine Reactor (ITR):** A closed-cycle twin-turbine power plant integrated into the rear chassis pack. Utilizing condensed Helium-3 reaction mass supplied by the Reactive Fuel Cell (RFC), the ITR generates electrical power for all primary and secondary suit systems. Upon reaching operating speed, the reactor assumes full system load while the RFC's auxiliary fuel-rod core transitions to reserve status. An integrated energy recovery network recaptures excess thermal and electrical output for capacitor charging and emergency reserve functions. The twin-turbine architecture provides inherent redundancy, allowing continued operation following partial reactor damage. All units are factory-balanced, heavily shielded, and non-serviceable outside certified depot facilities.
 
 <details>
 
@@ -94,10 +94,11 @@ A titanium-carbon latticework that envelops the pilot like a second set of bones
   <img src="https://i.ibb.co/JFH1dPcM/INTEGRATED-TURBINE-REACTOR-ITR.png" alt="INTEGRATED TURBINE REACTOR (ITR)" border="0">
 
   > ### Dual-Turbine Power Core:
-  > Counter-rotating microturbines housed within the Power Pack convert high-energy plasma into continuous electrical output for the Exo-Frame's actuators, armor systems, sensors, and life-support equipment. Their opposing rotation minimizes vibration while maximizing power generation under sustained combat loads.
+  > A closed-cycle, counter-rotating twin-turbine assembly housed within the rear chassis pack. Supplied with superheated plasma generated from the Reactive Fuel Cell's (RFC) condensed Helium-3 reaction mass, the turbines convert thermal energy into continuous electrical output for the Hydraulic Exo-Frame, Environmental Containment System (ECS), propulsion modules, armor systems, sensors, and onboard combat         > electronics. The redundant twin-turbine architecture allows essential functions to remain operational following partial reactor damage or turbine failure.
   >
-  > ### Power Distribution & Load Management:
-  > Integrated capacitor banks and control electronics regulate reactor output, storing reserve energy for sudden demand spikes such as sprinting, jump-assist maneuvers, or heavy weapon operation. A reinforced power-and-data backbone continuously distributes electricity throughout the suit while monitoring thermal load, fuel consumption, and system health to prevent overload or catastrophic failure...
+  > ### Dual-Phase Power Architecture:
+  > The ITR operates in conjunction with the Reactive Fuel Cell's (RFC) two-phase energy system. During startup and emergency conditions, the RFC's integrated fuel-rod core independently powers life-support, communications, diagnostics, and other secondary systems. Once turbine operating speed is achieved, the reactor assumes the suit's full power demand, drawing condensed Helium-3 reaction mass from the RFC to     > sustain mobility, servo actuation, propulsion systems, and all primary combat functions.
+  > Integrated capacitor banks and control electronics regulate reactor output, storing reserve energy for sudden demand spikes such as sprinting, jump-assist maneuvers, or heavy weapon operation.
   > 
   > ### Two-Phase Plasma Conversion Cycle:
   > The ITR is fed by the Reactive Fuel Cell (RFC), which stores its fuel in a stable dormant state for transport and handling. Once activated inside the Power Pack, the RFC flash-converts its contents into superheated plasma and delivers it to the reactor, where the plasma stream drives the turbines before being recaptured, cooled, and vented through armored thermal-management channels.
