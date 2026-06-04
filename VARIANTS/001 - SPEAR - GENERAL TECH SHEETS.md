@@ -188,6 +188,7 @@ IMAGE!
 - Cradle
 - Drop Pod
 - Ship Hab / Armory
+- Ship Build
 
 ## Notes
 
