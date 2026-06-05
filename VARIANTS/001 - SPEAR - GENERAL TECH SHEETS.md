@@ -1,4 +1,11 @@
-# POWERED COMBAT SUIT / POWER RIG LORE DRAFT
+# POWER RIG LORE DRAFT
+
+### Power Rig - A powered exoskeletal platform designed to enhance the physical performance, survivability, and combat effectiveness of a single operator:
+
+The term Power Rig served as a security measure during the earliest stages of development. Drawn from industrial engineering terminology, the designation was intentionally chosen to resemble a conventional machinery or test-platform project rather than a military weapons program. The approach mirrors historical practices in which innocuous names are assigned to sensitive military developments to conceal their true purpose.
+
+The designation proved equally practical after the Armistice came into effect. Although the project predates the treaty, its deliberately non-military terminology helped distance it from the language typically associated with prohibited weapons programs. To those without the appropriate clearance, a "Power Rig" appears to be little more than a specialized industrial machine.
+
 ## UC PROJECT: SPEAR (Strategic Protection & Engagement Armor Rig)
 ## PROTOTYPE: AEGIS RIG MK. I
 
