@@ -137,9 +137,9 @@ A compact, armored energy cartridge serving as the primary fuel and auxiliary po
 
 </details>
 
-### Outer Layer – Impact & Ballistic Shell
+### Layer III – Defensive Armor System
 
-**- Modular Armor Plating:** A suite of interchangeable plates that bolt directly onto the Exo-Frame above the Kinetic Dispersal Mesh (KDM), forming the primary barrier against ballistic, explosive, and energy threats. All segments — a detachable helmet, a single torso shell, and two paired limb modules (one for both arms, one for both legs) — fasten via standardized torque-bolt mounts, enabling rapid reconfiguration in the field while guaranteeing a vibration-free, combat-ready lock.
+**- Modular Armor Plating:** A suite of interchangeable armor modules mounted directly to the Hydraulic Exo-Frame, forming the suit's primary defense against ballistic, explosive, thermal, and directed-energy threats. The system consists of five major assemblies: A detachable helmet module, a torso module, a paired arm module set, and a paired leg module set. Each secured through reinforced torque-bolts and integrated chassis hardpoints. These modules can be exchanged, upgraded, or mission-tailored at dedicated maintenance cradles without requiring modification of the underlying chassis. 
 
 <details>
 
