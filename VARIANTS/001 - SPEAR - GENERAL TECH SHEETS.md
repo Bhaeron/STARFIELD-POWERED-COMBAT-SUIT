@@ -1,5 +1,9 @@
 # POWER RIG LORE DRAFT
 
+  <p align="center">
+  <img src="https://i.ibb.co/tpGSYkGC/ANDERS-RHEINHOLD-SYSTEMS-FINAL.png" alt="ANDERS RHEINHOLD SYSTEMS FINAL" border="0">
+  </p>
+
 ### Power Rig - A powered exoskeletal platform designed to enhance the physical performance, survivability, and combat effectiveness of a single operator:
 
 The term Power Rig served as a security measure during the earliest stages of development. Drawn from industrial engineering terminology, the designation was intentionally chosen to resemble a conventional machinery or test-platform project rather than a military weapons program. The approach mirrors historical practices in which innocuous names are assigned to sensitive military developments to conceal their true purpose.
@@ -8,10 +12,6 @@ The designation proved equally practical after the Armistice came into effect. A
 
 ## UC PROJECT: SPEAR (Strategic Protection & Engagement Armor Rig)
 ## PROTOTYPE: AEGIS RIG MK. I
-
-  <p align="center">
-  <img src="https://i.ibb.co/tpGSYkGC/ANDERS-RHEINHOLD-SYSTEMS-FINAL.png" alt="ANDERS RHEINHOLD SYSTEMS FINAL" border="0">
-  </p>
 
   <img src="https://i.ibb.co/yc0V3pB9/SPEAR-AEGIS-RIG-MK-I-REVISION-I.png" alt="SPEAR AEGIS RIG MK I REVISION I" border="0">
 
