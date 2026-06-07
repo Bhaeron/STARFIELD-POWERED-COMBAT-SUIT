@@ -157,9 +157,11 @@ IMAGE!
   > 
   > Because the final weight class is determined by the sum of all fitted components, operators can mix-and-match plates (e.g., Heavy torso with Light limbs) to hit a precise protection-to-mobility sweet spot. Regardless of configuration, every plate is engineered for an optimal strength-to-weight ratio and contoured to preserve the frame’s full range of motion at every flex point.
 
-  > ### Symmetric Limb Module (SLM)
+  > ### Paired Limb Architecture
   > 
-  > Early trials let operators mix a Heavy plate on one arm with a Light plate on the other. The Neuro-Interface Conduit (NIC) (NIC) struggled to reconcile the asymmetric mass: reaction timing drifted, servo torque over-compensated, and testers reported a “rubber-band” effect when firing or vaulting obstacles. To prevent sync errors (and spare pilots a nasty case of neural lag), the armor program standardised each limb set as a single balanced module. Now, a Heavy Arm Module means both arms share weight and moment-of-inertia, keeping NIC latency low and movement natural — no matter which weight class the operator selects for the overall load-out.
+  > Early prototype testing permitted individual limb modules to be configured independently, allowing operators to mount different armor classes on opposing arms or legs. While mechanically feasible, the arrangement produced undesirable performance characteristics. The Neuro-Interface Conduit (NIC) and Hydraulic Exo-Frame struggled to compensate for the resulting imbalance in mass and inertia, leading to reduced
+  > motion fidelity, increased servo correction cycles, and noticeable degradation in operator responsiveness during rapid movements. To eliminate these effects, the program adopted a standardized Paired Limb Architecture, under which all limb armor is issued and installed as balanced left-right assemblies. As a result, every Paired Arm Module and Paired Leg Module shares identical mass, protection rating,
+  > moment-of-inertia characteristics across both sides of the suit. This ensures predictable handling, minimizes NIC compensation requirements, and preserves the natural, responsive movement expected of the Powered Combat Chassis regardless of selected armor class.
  
 </details>
 
@@ -169,7 +171,7 @@ IMAGE!
 
   _<summary>Kinetic Dispersal Mesh Details</summary>_
 
-  <img src="https://i.ibb.co/pBCKLwwR/Kinetic-Dispersal-Mesh-KDM-PROTOTYPE.png" alt="Kinetic-Dispersal-Mesh-KDM-PROTOTYPE" border="0">
+  <img src="https://i.ibb.co/cXMZwdmm/KENETIC-DISPERSAL-MESH-KDM.png" alt="KENETIC DISPERSAL MESH (KDM)" border="0">
 
   > ### Impact Timeline (KDM)
   > 
