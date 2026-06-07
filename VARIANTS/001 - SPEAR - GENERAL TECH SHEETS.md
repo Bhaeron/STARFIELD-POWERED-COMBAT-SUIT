@@ -155,7 +155,7 @@ IMAGE!
   > - Class-II (Standard): Combines balanced protection and mobility for general operations.
   > - Class-III (Heavy): Delivers maximum survivability at the cost of speed.
   > 
-  > Because the final weight class is determined by the sum of all fitted components, operators can mix-and-match plates (e.g., Heavy torso with Light limbs) to hit a precise protection-to-mobility sweet spot. Regardless of configuration, every plate is engineered for an optimal strength-to-weight ratio and contoured to preserve the frame’s full range of motion at every flex point.
+  > Because the final weight class is determined by the sum of all fitted components, operators can mix-and-match components to meet the deployments requirements. Regardless of configuration, every component is engineered for an optimal strength-to-weight ratio and contoured to preserve the frame’s full range of motion at all flex points.
 
   > ### Paired Limb Architecture
   > 
