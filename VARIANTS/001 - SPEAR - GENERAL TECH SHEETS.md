@@ -180,6 +180,10 @@ Housed within the rear Pack Module, the Integrated Support Pack (ISP) serves as 
 
 </details>
 
+## SPEAR - Additional Tech
+
+**Power Rig Station:** A specialized maintenance and integration platform designed to service, diagnose, refuel, and reconfigure Power Rigs. Acting as both deployment cradle and workshop, the station allows safe replacement or upgrading of components.
+
 ## SPEAR - Expanded Component Inventory / List
 
 - Helmet
