@@ -73,27 +73,6 @@ A titanium-carbon latticework that envelops the pilot like a second set of bones
 
 </details>
 
-**- Environmental Containment System (ECS):** 
-
-Although much of the system is housed within the rear chassis pack, it is an integrated life-support and hazard-protection network embedded throughout the Powered Combat Chassis. Working alongside the suit's sealed armor architecture, it protects the operator from vacuum exposure, radiation bursts, toxic aerosols, and extreme temperatures. The ECS extends throughout the suit via coolant lines, atmospheric conduits, emergency seal mechanisms, and environmental sensors. Advanced filtration, high-capacity coolant reservoirs, and rapid-response pressure regulation allow the ECS to maintain safe operating conditions beyond the limits of conventional life-support systems.
-
-<details>
-
-  _<summary>Environmental Containment System</summary>_
-
-  <img src="https://i.ibb.co/XkvSH5qf/Environmental-Containment-System-ECS-Variant.png" alt="Environmental-Containment-System-ECS-Variant" border="0">
-
-  > ### Field-Test Validation
-  > 
-  > In a deep-vacuum chamber chilled to cryogenic temperatures and saturated with synthetic nerve-agent mist, a baseline UC Marine pack exceeded safe operating limits within minutes. A SPEAR chassis equipped with the Environmental Containment System (ECS), by contrast, maintained stable atmospheric pressure, operator vitals, and thermal conditions for a duration several times longer. During testing, the ECS automatically isolated and sealed multiple simulated micro-punctures without measurable pressure loss or contaminant ingress. Telemetry recorded complete toxin exclusion and only negligible deviation from nominal core temperature.
-  > ### Radiation Stress Trial
-  >
-  > Two identical Powered Combat Chassis units were positioned adjacent to a venting tritium reactor. Following successive gamma-flash events, the baseline life-support package overheated and was removed from testing. The ECS-equipped chassis continued operating within established performance parameters. Its distributed coolant network and integrated radiation shielding systems maintained habitable internal conditions while keeping cumulative operator exposure well below United Colonies safety thresholds. Post-trial diagnostics revealed no filter breakthrough, coolant degradation, or environmental control failures.
-  >
-  > These trials confirm that the Environmental Containment System is not merely an improved life-support package, but a fully integrated environmental sustainment subsystem. By combining advanced atmospheric management, thermal regulation, and hazard protection directly into the Powered Combat Chassis, the ECS enables operators to remain both alive and combat-effective in environments that would rapidly overwhelm conventional equipment.
-
-</details>
-
 **Integrated Turbine Reactor (ITR):** 
 
 A closed-cycle twin-turbine integrated into the rear chassis pack. Utilizing condensed Helium-3 reaction mass supplied by the Reactive Fuel Cell (RFC), the ITR generates electrical power for all primary and secondary suit systems. Upon reaching operating speed, the reactor assumes full system load while the RFC's auxiliary fuel-rod core transitions to reserve status. An integrated energy recovery network recaptures excess thermal and electrical output for capacitor charging and emergency reserve functions. The twin-turbine architecture provides inherent redundancy, allowing continued operation following partial reactor damage. All units are factory-balanced, heavily shielded, and non-serviceable outside certified depot facilities.
@@ -137,15 +116,33 @@ A compact, armored energy cartridge serving as the primary fuel and auxiliary po
 
 </details>
 
+**- Integrated Support Pack (ISP):** 
+
+Housed within the rear Pack Module, the Integrated Support Pack (ISP) serves as the suit's primary environmental sustainment and mission-support subsystem. Working alongside the rig's sealed armor architecture, it protects the operator from vacuum exposure, radiation bursts, toxic aerosols, and extreme temperatures while maintaining a stable internal operating environment.
+
+<details>
+
+  _<summary> Integrated Support Pack</summary>_
+
+  <img src="https://i.ibb.co/yctjpyPb/INTEGRATED-SUPPORT-PACK-ISP.png" alt="INTEGRATED SUPPORT PACK (ISP)" border="0">
+
+  > Although centered within the Pack Module, the ISP extends throughout the Powered Combat Chassis via distributed coolant lines, atmospheric conduits, emergency seal mechanisms, and environmental monitoring sensors. Advanced filtration systems, high-capacity coolant reservoirs, and rapid-response pressure regulation allow the ISP to maintain safe operating conditions well beyond the limits of conventional
+  > support equipment. In addition to environmental protection, the ISP acts as the primary host for mission-specific support equipment. Depending on variant, the pack may incorporate enhanced sensor suites, communications systems, cargo modules, electronic warfare equipment, or integrated propulsion assemblies. Propulsion-capable variants draw power directly from the Integrated Turbine Reactor (ITR) rather than
+  > relying on dedicated boost propellant reserves, providing improved maneuverability, increased endurance, and sustained thrust during combat and extravehicular operations.
+
+</details>
+
+- Conventional boost packs rely on self-contained propellant reserves.
+
 ### Layer III – Defensive Armor System
 
 **- Modular Armor Plating:** A suite of interchangeable armor modules mounted directly to the Hydraulic Exo-Frame, forming the suit's primary defense against ballistic, explosive, thermal, and directed-energy threats. The system consists of five major assemblies: A detachable helmet module, a torso module, a paired arm module set, and a paired leg module set. Each secured through reinforced torque-bolts and integrated chassis hardpoints. These modules can be exchanged, upgraded, or mission-tailored at dedicated maintenance cradles without requiring modification of the underlying chassis. 
 
 <details>
 
-  _<summary>Modular Armor Plating Details</summary>_
+  _<summary>Modular Armor Plating</summary>_
 
-IMAGE!
+  <img src="https://i.ibb.co/tMx5s1Xj/DYNAMIC-WEIGHT-MATRIX-DMW.png" alt="DYNAMIC WEIGHT MATRIX (DMW)" border="0">
 
   > ### Dynamic Weight Matrix (DWM)
   > 
@@ -169,7 +166,7 @@ IMAGE!
 
 <details>
 
-  _<summary>Kinetic Dispersal Mesh Details</summary>_
+  _<summary>Kinetic Dispersal Mesh</summary>_
 
   <img src="https://i.ibb.co/cXMZwdmm/KENETIC-DISPERSAL-MESH-KDM.png" alt="KENETIC DISPERSAL MESH (KDM)" border="0">
 
