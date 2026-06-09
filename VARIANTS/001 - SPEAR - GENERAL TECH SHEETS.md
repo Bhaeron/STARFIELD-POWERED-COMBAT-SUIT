@@ -4,7 +4,7 @@
   <img src="https://i.ibb.co/tpGSYkGC/ANDERS-RHEINHOLD-SYSTEMS-FINAL.png" alt="ANDERS RHEINHOLD SYSTEMS FINAL" border="0">
   </p>
 
-### Power Rig - A powered exoskeletal platform designed to enhance the physical performance, survivability, and combat effectiveness of a single operator:
+### Power Rig - A multi-component powered combat platform comprised of a Hydraulic Exo-Frame fitted with interchangeable armor modules and support systems. For a Power Rig to function, it requires a Reactive Fuel Cell (RFC) to supply fuel to its Integrated Turbine Reactor (ITR), which generates power for all primary and secondary systems.
 
 The term Power Rig served as a security measure during the earliest stages of development. Drawn from industrial engineering terminology, the designation was intentionally chosen to resemble a conventional machinery or test-platform project rather than a military weapons program. The approach mirrors historical practices in which innocuous names are assigned to sensitive military developments to conceal their true purpose.
 
@@ -203,3 +203,4 @@ Housed within the rear Pack Module, the Integrated Support Pack (ISP) serves as 
 ## Notes
 
 - ITR: Two different fuel rod types for different types of stats - Core Module Variant?
+- Power Rig negates any fall damage!
