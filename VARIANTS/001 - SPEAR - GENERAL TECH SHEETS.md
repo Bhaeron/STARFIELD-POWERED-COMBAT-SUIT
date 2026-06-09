@@ -75,7 +75,7 @@ A titanium-carbon latticework that envelops the pilot like a second set of bones
 
 **Integrated Turbine Reactor (ITR):** 
 
-A closed-cycle twin-turbine integrated into the rear chassis pack. Utilizing condensed Helium-3 reaction mass supplied by the Reactive Fuel Cell (RFC), the ITR generates electrical power for all primary and secondary suit systems. Upon reaching operating speed, the reactor assumes full system load while the RFC's auxiliary fuel-rod core transitions to reserve status. An integrated energy recovery network recaptures excess thermal and electrical output for capacitor charging and emergency reserve functions. The twin-turbine architecture provides inherent redundancy, allowing continued operation following partial reactor damage. All units are factory-balanced, heavily shielded, and non-serviceable outside certified depot facilities.
+A closed-cycle twin-turbine integrated into the rear chassis pack. Utilizing condensed Helium-3 reaction mass supplied by the Reactive Fuel Cell (RFC), the ITR generates electrical power for all primary and secondary suit systems. Upon reaching operating speed, the reactor assumes full system load while the RFC's auxiliary fuel-rod core transitions to reserve status. An integrated energy recovery network recaptures excess thermal and electrical output for capacitor charging and emergency reserve functions. The twin-turbine architecture provides inherent redundancy, allowing continued operation following partial reactor damage. All units are factory-balanced, heavily shielded, and serviceable at dedicated facilities called "Power Rig Stations".
 
 <details>
 
