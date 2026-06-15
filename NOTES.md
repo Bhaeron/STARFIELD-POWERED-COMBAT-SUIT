@@ -1,8 +1,13 @@
 # GENERAL NOTES #
 
-- Powerframe?
-- Battlerig?
-- Armorrig?*
+From LitR:
+
+Different power armors have different niches- the T60 is weaker than the T51 for example, but cheaper to repair.
+Raider : Cheap, easy to repair, but low protection
+T45 : Basic military model
+T51 : Upgraded defenses compared to the T45
+T60 : Upgraded fuel efficiency, compared to the T45
+X01 : Unique prototype, combining the defenses of the T51, and the fuel efficiency of the T60.
 
 - Defunct Mech Manufacturing Contractor: Flourished in Gagarin Landing during the Colony War. The canonical lore tells us that Gagarin’s economy was centered on building mechs for the UC military.
 
