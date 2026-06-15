@@ -180,10 +180,6 @@ Housed within the rear Pack Module, the Integrated Support Pack (ISP) serves as 
 
 </details>
 
-## SPEAR - Additional Tech
-
-**Power Rig Station:** A specialized maintenance and integration platform designed to service, diagnose, refuel, and reconfigure Power Rigs. Acting as both deployment cradle and workshop, the station allows safe replacement or upgrading of components.
-
 ## SPEAR - Expanded Component Inventory / List
 
 - Helmet
@@ -193,20 +189,39 @@ Housed within the rear Pack Module, the Integrated Support Pack (ISP) serves as 
 - Pack
 - Core
 
-## PLACEHOLDER - SPEAR - Expanded Component Inventory / List - Potential Names
+### Known SPEAR production platforms:
 
-| Candidate      | Classical / Historical Root               | Immediate Connotations                   | Skeptical Notes                                                                                       |
-| -------------- | ----------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **Aegis**      | Zeus & Athena’s shield                    | Time-honored protection                  | So over-used it risks blending into generic “sci-fi armor” noise.                                     |
-| **Lorica**     | Latin for cuirass / Roman body-armor      | Martial, disciplined, historically exact | Risk of being mistaken for a biotech or even a dental brand outside specialist circles.               |
-| **Hoplite**    | Citizen-soldier of ancient Greece         | Phalanx discipline, reliability          | Only resonates if audience knows Greek military history; phonetics feel “hard stop” instead of fluid. |
-| **Cataphract** | Heavily armored Parthian/Bzantine cavalry | Sheer heavy-duty resilience              | Four syllables, tongue-twister in fast radio comms.                                                   |
-| **Panoply**    | Complete set of Greek arms                | All-encompassing protection              | In modern English it’s become an academic term (“a panoply of…”). Could read as precious.             |
-| **Talos**      | Bronze giant automaton of Crete           | Mythic guardian, metallic body           | Strong fit for an exo-suit, but Marvel has started mining the name. Watch brand confusion.            |
-| **Praetor**    | Senior Roman magistrate / army commander  | Authority, elite status                  | Legal overtones might distract.                                                                       |
-| **Senturion**  | Word-play: Centurion + Sentinel           | Guard duty plus Roman grit               | Feels coined; marketing-friendly yet arguably “too clever by half.”                                   |
-| **Soteria**    | Greek goddess of safety/deliverance       | Protective salvation motif               | Pleasant vowel flow; but obscure outside classics departments.                                        |
-| **Manticore**  | Legendary hybrid beast                    | Ferocity, intimidation                   | Violent edge; might overshoot if the suit’s purpose is EVA utility rather than combat.                |
+| Name           | Class                                     | Origin & Meaning                         |
+| -------------- | ----------------------------------------- | ---------------------------------------- |
+| **Hyperion**   | PR-I - Light                              | Specific Titan: Heavenly Light           |
+| **Aegis**      | PR-II - Standard                          | Zeus & Athena’s shield Divine Protection |
+| **Atlas**      | PR-III - Heavy                            | Specific Titan: Condemned to bear Heaven |
+| **REDACTED**   | REDACTED - REDACTED                       | REDACTED                                 |
+
+### Known SPEAR production tiers:
+
+| Tier	 | Description                     |
+|--------|---------------------------------|
+| Tier A | Baseline configuration          |
+| Tier B | Improved configuration          |
+| Tier C | Enhanced configuration          |
+| Tier D | Advanced configuration          |
+| Tier E | Elite configuration             |
+| Tier F | Maximum supported configuration |
+
+Tiers represent a rig's level of enhancement, equipment integration, and overall technological sophistication.
+
+### Naming Structure
+
+Power Rig → Class → Platform → Hybrid Status → Tier → Variant
+
+Example:
+
+PR-III Atlas-F Siege
+
+## SPEAR - Additional Tech
+
+**Power Rig Station:** A specialized maintenance and integration platform designed to service, diagnose, refuel, and reconfigure Power Rigs. Acting as both deployment cradle and workshop, the station allows safe replacement or upgrading of components.
 
 ## SPEAR - Additional Tech
 
