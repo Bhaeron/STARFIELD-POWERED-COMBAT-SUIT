@@ -15,6 +15,15 @@ T51 : Upgraded defenses compared to the T45
 T60 : Upgraded fuel efficiency, compared to the T45
 X01 : Unique prototype, combining the defenses of the T51, and the fuel efficiency of the T60.
 
+## PLACEHOLDER - SPEAR - Expanded Component Inventory / List - Potential Names
+
+| Name           | Class                                     | Origin & Meaning                         |
+| -------------- | ----------------------------------------- | ---------------------------------------- |
+| **Hyperion**   | PR-I - Light                              | Specific Titan: Heavenly Light           |
+| **Aegis**      | PR-II - Standard                          | Zeus & Athena’s shield Divine Protection |
+| **Atlas**      | PR-III - Heavy                            | Specific Titan: Condemned to bear Heaven |
+| **Talos**      | PR-IV - Super Heavy (EXPERIMENTAL)        | Bronze giant guardian                    |
+
 - Defunct Mech Manufacturing Contractor: Flourished in Gagarin Landing during the Colony War. The canonical lore tells us that Gagarin’s economy was centered on building mechs for the UC military.
 
 - Multiple private companies were contracted by the UC to design or produce mech components (much as real-world defense industries involve many subcontractors). ARS was one of them: A company specializing in “systems” engineering for mechs, such as control interfaces, power plants, or AI targeting software. They might have maintained a corporate office or research lab in Gagarin Landing near the main assembly plant. In the chaos after the war, a company like that likely would have shut down or left once mech production was banned, becoming one of the “local businesses forced to close” in 2311
