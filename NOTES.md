@@ -15,7 +15,7 @@ T51 : Upgraded defenses compared to the T45
 T60 : Upgraded fuel efficiency, compared to the T45
 X01 : Unique prototype, combining the defenses of the T51, and the fuel efficiency of the T60.
 
-## PLACEHOLDER - SPEAR - Expanded Component Inventory / List - Potential Names
+## SPEAR - Expanded Component Inventory / List - Potential Names
 
 | Name           | Class                                     | Origin & Meaning                         |
 | -------------- | ----------------------------------------- | ---------------------------------------- |
@@ -23,6 +23,44 @@ X01 : Unique prototype, combining the defenses of the T51, and the fuel efficien
 | **Aegis**      | PR-II - Standard                          | Zeus & Athena’s shield Divine Protection |
 | **Atlas**      | PR-III - Heavy                            | Specific Titan: Condemned to bear Heaven |
 | **Talos**      | PR-IV - Super Heavy (EXPERIMENTAL)        | Bronze giant guardian                    |
+
+## PR-IV (Restricted Classification)
+
+PR-IV is not part of the official Power Rig classification doctrine. It originated from a private development program led by Petrovic, whose design philosophy deliberately pushed beyond the practical limits imposed on conventional Power Rig architectures. The resulting platform exceeded the operational parameters of Class III rigs to such a degree that existing classification standards could no longer accurately categorize it. As a result, PR-IV became an unofficial and highly restricted designation used only within select project documentation and internal references.
+
+## Platform Families
+
+### Known production platforms:
+
+| Name           | Class                                     | Origin & Meaning                         |
+| -------------- | ----------------------------------------- | ---------------------------------------- |
+| **Hyperion**   | PR-I - Light                              | Specific Titan: Heavenly Light           |
+| **Aegis**      | PR-II - Standard                          | Zeus & Athena’s shield Divine Protection |
+| **Atlas**      | PR-III - Heavy                            | Specific Titan: Condemned to bear Heaven |
+| **Talos**      | PR-IV - Super Heavy (EXPERIMENTAL)        | Bronze giant guardian                    |
+
+### Known production tiers:
+
+| Tier	 | Description                     |
+|--------|---------------------------------|
+| Tier A | Baseline configuration          |
+| Tier B | Improved configuration          |
+| Tier C | Enhanced configuration          |
+| Tier D | Advanced configuration          |
+| Tier E | Elite configuration             |
+| Tier F | Maximum supported configuration |
+
+Tiers represent a rig's level of enhancement, equipment integration, and overall technological sophistication.
+
+### Naming Structure
+
+Power Rig → Class → Platform → Hybrid Status → Tier → Variant
+
+Example:
+
+PR-III Atlas-F Siege
+
+----
 
 - Defunct Mech Manufacturing Contractor: Flourished in Gagarin Landing during the Colony War. The canonical lore tells us that Gagarin’s economy was centered on building mechs for the UC military.
 
