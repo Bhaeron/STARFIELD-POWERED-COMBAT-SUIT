@@ -1,5 +1,11 @@
 # GENERAL NOTES #
 
+Legacy and Origin: 
+
+ARS - UC - FC by espionage
+
+ARS - UC - Varuun by MIA recon mission.
+
 From LitR:
 
 Different power armors have different niches- the T60 is weaker than the T51 for example, but cheaper to repair.
