@@ -189,16 +189,17 @@ Housed within the rear Pack Module, the Integrated Support Pack (ISP) serves as 
 - Pack
 - Core
 
-### Known SPEAR production platforms:
+### SPEAR - Production Platform Matrix:
 
-| Name           | Class                                     | Origin & Meaning                         |
-| -------------- | ----------------------------------------- | ---------------------------------------- |
-| **Hyperion**   | PR-I - Light                              | Specific Titan: Heavenly Light           |
-| **Aegis**      | PR-II - Standard                          | Zeus & Athena’s shield Divine Protection |
-| **Atlas**      | PR-III - Heavy                            | Specific Titan: Condemned to bear Heaven |
-| **REDACTED**   | REDACTED - REDACTED                       | REDACTED                                 |
+| Class                   | Name                                      | Faction / Origin & Meaning                    |
+| ----------------------- | ----------------------------------------- | --------------------------------------------- |
+| **PR I - Light**        | Hyperion                                  | UC - Specific Titan: Heavenly Light           |
+| **PR II - Standard**    | Aegis                                     | UC - Zeus & Athena’s shield Divine Protection |
+|                         | Helios                                    | UC - Solar Power                              |
+| **PR III - Heavy**      | Atlas                                     | UC - Specific Titan: Condemned to bear Heaven |
+| **PR IV - Super Heavy** | Talos                                     | UC - Bronze giant guardian                    |
 
-### Known SPEAR production tiers:
+### SPEAR - Production Tiers:
 
 | Tier	 | Description                     |
 |--------|---------------------------------|
