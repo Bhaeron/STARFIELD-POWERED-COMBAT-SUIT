@@ -15,7 +15,72 @@ T51 : Upgraded defenses compared to the T45
 T60 : Upgraded fuel efficiency, compared to the T45
 X01 : Unique prototype, combining the defenses of the T51, and the fuel efficiency of the T60.
 
-## SPEAR - Expanded Component Inventory / List - Potential Names
+----
+
+### SPEAR - Production Platform Matrix:
+
+| Class                   | Name                                      | Faction / Origin & Meaning                    |
+| ----------------------- | ----------------------------------------- | --------------------------------------------- |
+| **PR I - Light**        | Hyperion                                  | UC - Specific Titan: Heavenly Light           |
+| **PR II - Standard**    | Aegis                                     | UC - Zeus & Athena’s shield Divine Protection |
+|                         | Helios                                    | UC - Solar Power                              |
+| **PR III - Heavy**      | Atlas                                     | UC - Specific Titan: Condemned to bear Heaven |
+| **PR IV - Super Heavy** | Talos                                     | UC - Bronze giant guardian                    |
+
+### Additional candidates:
+
+
+Aether - Upper Atmosphere
+
+Alecto - Aggression Response
+
+Aquila - Movement or Aerial
+
+Argus - Hundred Eyed Watcher
+
+Astraeus - Stars and Dusk
+
+Bastion - Defense or Fortress
+
+Centaurus - Endurance
+
+Cerberus - Threat Detection
+
+Daemon - hidden machine intelligence
+
+Fulgur - Lightning
+
+Gorgon - Mythical Creature
+
+Icarus - Jump Assistance
+
+Ignis - Fire or Energy
+
+Janus - two faced roman god
+
+Mercurius - Speed
+
+Morpheus - Interface or Neural Systems
+
+Nexus - Connection Point
+
+Noctis - Low Light Operation
+
+Nodus - Central junction or knot
+
+Phalanx - Military Formation or Shield Wall
+
+Scutum - Roman Shield
+
+Specter - Reconnaisance
+
+Vulcanus - Fire or Forge
+
+
+
+
+
+----
 
 | Name           | Class                                     | Origin & Meaning                         |
 | -------------- | ----------------------------------------- | ---------------------------------------- |
@@ -23,21 +88,12 @@ X01 : Unique prototype, combining the defenses of the T51, and the fuel efficien
 | **Aegis**      | PR-II - Standard                          | Zeus & Athena’s shield Divine Protection |
 | **Atlas**      | PR-III - Heavy                            | Specific Titan: Condemned to bear Heaven |
 | **Talos**      | PR-IV - Super Heavy (EXPERIMENTAL)        | Bronze giant guardian                    |
+
+----
 
 ## PR-IV (Restricted Classification)
 
 PR-IV is not part of the official Power Rig classification doctrine. It originated from a private development program led by Petrovic, whose design philosophy deliberately pushed beyond the practical limits imposed on conventional Power Rig architectures. The resulting platform exceeded the operational parameters of Class III rigs to such a degree that existing classification standards could no longer accurately categorize it. As a result, PR-IV became an unofficial and highly restricted designation used only within select project documentation and internal references.
-
-## Platform Families
-
-### Known production platforms:
-
-| Name           | Class                                     | Origin & Meaning                         |
-| -------------- | ----------------------------------------- | ---------------------------------------- |
-| **Hyperion**   | PR-I - Light                              | Specific Titan: Heavenly Light           |
-| **Aegis**      | PR-II - Standard                          | Zeus & Athena’s shield Divine Protection |
-| **Atlas**      | PR-III - Heavy                            | Specific Titan: Condemned to bear Heaven |
-| **Talos**      | PR-IV - Super Heavy (EXPERIMENTAL)        | Bronze giant guardian                    |
 
 ### Known production tiers:
 
